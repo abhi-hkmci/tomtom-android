@@ -1,0 +1,157 @@
+{
+  "version": 2,
+  "constants": {
+    "@positioning-uri": "mem://resultprovider",
+    "@marker-scaling-factor": 0.8,
+    "@skybox-image": "asset://Skybox/Skybox.ktx",
+    "@skybox-color": "#000000",
+    "@skybox-color-schematic": "@PLACE_HOLDER_SKY_COLOR_DO_NOT_REPLACE",
+    "@satellite-minLevel": 0,
+    "@satellite-maxLevel": 2,
+    "@position-marker-normal-base-color": "#3F9CD9",
+    "@position-marker-normal-outline-color": "#FFFFFF",
+    "@position-marker-normal-shadow-color": "#4C000000",
+    "@position-marker-nofix-base-color": "#CCCCCC",
+    "@position-marker-nofix-outline-color": "#FFFFFF",
+    "@position-marker-nofix-shadow-color": "#4C000000"
+  },
+  "constants-override": [],
+  "scene": {
+    "artificial-horizon-angle": [
+      [
+        10.522742,
+        90.0
+      ],
+      [
+        12.322742,
+        85.0
+      ],
+      [
+        12.822742,
+        85.0
+      ],
+      [
+        13.822742,
+        88.0
+      ]
+    ],
+    "min-scale": 70.0
+  },
+  "api-tracing": {
+    "enabled": "@PLACE_HOLDER_API_TRACING_ENABLED",
+    "infrequent": "@PLACE_HOLDER_API_TRACING_ENABLED",
+    "frequent": "@PLACE_HOLDER_API_TRACING_ENABLED",
+    "constructors": "@PLACE_HOLDER_API_TRACING_ENABLED",
+    "destructors": "@PLACE_HOLDER_API_TRACING_ENABLED"
+  },
+  "data-providers": {},
+  "extensions": {
+    "positioningExtension": {
+      "type": "positioning",
+      "uri": "@positioning-uri"
+    }
+  },
+  "layers": {
+    "skybox-schematic": {
+      "type": "skybox",
+      "skybox-render": {
+        "color": "@skybox-color-schematic",
+        "earth-color": "#00F1F2"
+      },
+      "levels": {
+        "min": 9.9113713
+      }
+    },
+    "skybox": {
+      "type": "skybox",
+      "skybox-render": {
+        "color": "@skybox-color",
+        "cube-images": "@skybox-image"
+      },
+      "levels": {
+        "min": "@satellite-minLevel",
+        "max": 9.9113713
+      }
+    },
+    "position-marker": {
+      "type": "position-marker",
+      "position-marker-model": {
+        "model-path": "@PLACE_HOLDER_POSITION_MARKER_MODEL_DO_NOT_REPLACE"
+      },
+      "position-marker-render": {
+        "materials": {
+          "normal": {
+            "Base": {
+              "ambient": 0.4,
+              "color": "@position-marker-normal-base-color"
+            },
+            "Outline": {
+              "ambient": 1.0,
+              "color": "@position-marker-normal-outline-color"
+            },
+            "Shadow": {
+              "ambient": 0.4,
+              "color": "@position-marker-normal-shadow-color"
+            }
+          },
+          "nofix": {
+            "Base": {
+              "ambient": 0.4,
+              "color": "@position-marker-nofix-base-color"
+            },
+            "Outline": {
+              "ambient": 1.0,
+              "color": "@position-marker-nofix-outline-color"
+            },
+            "Shadow": {
+              "ambient": 0.4,
+              "color": "@position-marker-nofix-shadow-color"
+            }
+          }
+        },
+        "size": "@PLACE_HOLDER_POSITION_MARKER_SIZES_DO_NOT_REPLACE"
+      }
+    },
+    "route": {
+      "type": "custom"
+    },
+    "route-marker": {
+      "type": "custom"
+    },
+    "route-instruction": {
+      "type": "custom"
+    },
+    "marker": {
+      "type": "custom"
+    },
+    "circle-shape": {
+      "type": "custom"
+    },
+    "lanegroup-shape": {
+      "type": "custom"
+    },
+    "polygon-shape": {
+      "type": "custom"
+    },
+    "polyline-shape": {
+      "type": "custom"
+    },
+    "polar-cap": {
+      "type": "custom"
+    }
+  },
+  "layout": [
+    "skybox-schematic",
+    "skybox",
+    "route",
+    "lanegroup-shape",
+    "circle-shape",
+    "polygon-shape",
+    "polyline-shape",
+    "polar-cap",
+    "route-marker",
+    "route-instruction",
+    "marker",
+    "position-marker"
+  ]
+}

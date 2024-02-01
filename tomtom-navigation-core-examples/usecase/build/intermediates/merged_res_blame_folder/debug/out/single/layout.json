@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-mergeDebugResources-49:/layout/activity_splash_screen.xml",
+        "source": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-main-52:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.usecase-mergeDebugResources-49:/layout/activity_splash_screen.xml",
+        "source": "com.example.usecase-main-52:/layout/activity_splash_screen.xml"
+    }
+]

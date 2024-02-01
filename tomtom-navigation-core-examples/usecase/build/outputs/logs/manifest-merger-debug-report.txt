@@ -1,0 +1,746 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.tomtom.sdk.maps:map-display:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/cdaf4b44a7206c12b336686aec9be124/transformed/map-display-0.45.2/AndroidManifest.xml:12:1-27:12
+MERGED from [com.tomtom.sdk.navigation:ui:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/3b04eefaa2de5488d341d50d349cafd5/transformed/ui-0.45.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.maps:map-display-api:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/7df364ca343e281da0d4ddfe252d3f01/transformed/map-display-api-0.45.2/AndroidManifest.xml:12:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/dhananjay/.gradle/caches/transforms-3/397fe130f5995e2b97170048276d1ef8/transformed/viewbinding-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.location:provider-simulation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d09c2fcc3ea4a6f9dab3c9925bba8b85/transformed/simulation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.location:provider-map-matched-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/71d6541ad23a06cd7083e4eb9e83aaef/transformed/mapmatched-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.maps:data-provider:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/cddb6b09d7de0814bd794c32600a3bb5/transformed/data-provider-0.45.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.maps:gesture-detector:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0e0d265211d946994b015c26c98ded3d/transformed/gesture-detector-0.45.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.maps:mapdisplay-engine-binding-internal:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bd52244e67f409f82905a97d2996cd95/transformed/mapdisplay-engine-binding-internal-0.45.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.common:file-loader-internal:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e89f8154922ee66e8f7447b3e5cb8e66/transformed/file-loader-internal-0.45.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.common:http-handler-internal:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9e5ac1f1a4568d8ef7ccca82ea3b1443/transformed/http-handler-internal-0.45.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.routing:route-planner-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a5c3e8bd58acf01442bd92f2efbfea13/transformed/route-planner-online-release/AndroidManifest.xml:12:1-19:12
+MERGED from [com.tomtom.sdk.navigation:navigation-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/144ac01a31944f99f8d8c80a1bc66d1b/transformed/navigation-online-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:horizon-engine-tilestore-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/1e2df0e7dbd29b199f93a908f5340977/transformed/navigation-horizon-engine-tilestore-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:map-matching-engine-tilestore-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/73e4a6aece6fe061e654607d73170692/transformed/navigation-map-matching-engine-tilestore-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:route-projection-engine-tilestore-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/3f789ea6467aee8d1cd3fe62f01fc95f/transformed/navigation-route-projection-engine-tilestore-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.datamanagement:navigation-tile-store-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/dd29635ab00acbfd784a3022f780e486/transformed/navigation-tile-store-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.common:http-framework-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bcbf770a6715184d2f4481bf2445d773/transformed/http-framework-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.common:http-framework-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9c550b63b01e6ac6c35bb04d717e8461/transformed/http-framework-binding-release/AndroidManifest.xml:12:1-20:12
+MERGED from [com.tomtom.sdk.http:http-core-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6fb2aace29cc1073787a330848513b2b/transformed/http-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.routing:routing-common-client-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/286a6fac70f00a76e0d46e1473a1d7b1/transformed/routing-common-client-online-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:route-replanner-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/2908ad1187503ae5989a6e1fcbb3d958/transformed/navigation-route-replanner-online-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] /Users/dhananjay/.gradle/caches/transforms-3/1bb38f33d022a39959de8305fdc4f264/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.tomtom.sdk.location:provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/42155d33ace482ba216e865a1ef4a2b8/transformed/provider-android-0.45.2/AndroidManifest.xml:12:1-22:12
+MERGED from [com.tomtom.sdk:tts-engine-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d0b293758dd6786a33ffa9218b205abd/transformed/tts-engine-android-0.45.2/AndroidManifest.xml:12:1-23:12
+MERGED from [com.tomtom.sdk.navigation:service:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/715419cee26450eac7e1adb2c06e692a/transformed/service-0.45.2/AndroidManifest.xml:12:1-26:12
+MERGED from [com.tomtom.sdk.navigation:data-store-maintenance-engine-default-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0877071f0be064584fa3bc46db55723a/transformed/navigation-data-store-maintenance-engine-default-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:route-projection-engine-unified-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a27338e2abb21904e1f9451a53a7b8c8/transformed/navigation-route-projection-engine-unified-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.datamanagement:data-store-updater-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/c735de7ed8cedaab1f4e666bec695f5b/transformed/data-store-updater-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:navigation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6f2b9201f8349c3ff0447fe2372fc098/transformed/navigation-release/AndroidManifest.xml:12:1-27:12
+MERGED from [com.tomtom.sdk.routing:verbal-messages-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0799accafeafa48fbe26af5f4f30532f/transformed/verbal-message-generator-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.common:android-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/c565a69e398af611dec25fc99ac720e9/transformed/android-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:route-replanner-default-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/5e5b6f416d1bf06964767ffaf8c609b1/transformed/navigation-route-replanner-default-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:route-replanner-common-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/1988c142b9c4427ec12ff1611736ceaa/transformed/navigation-route-replanner-common-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:route-replanner-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/8e819dd98d457bb9c2fa7d9abacd99d7/transformed/navigation-route-replanner-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:map-matching-engine-unified-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0285948f5490b1d485c23ca3d543903b/transformed/navigation-map-matching-engine-unified-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:horizon-engine-unified-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/3543da223c71630988ce24e0b7047357/transformed/navigation-horizon-engine-unified-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:horizon-engine-common-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/ce837241fab74bf554564e1eae7eed09/transformed/navigation-horizon-engine-common-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:horizon-data-adapter-safety-locations-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/72fd3a9d2245b3963ea849c594b4b30c/transformed/navigation-horizon-data-adapter-safety-locations-online-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:horizon-data-adapter-hazards-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e5bb4e411021d4a50f8f3e1aaa395084/transformed/navigation-horizon-data-adapter-hazards-online-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:map-matching-engine-common-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/963e7627c0aa6d6d3a575e4c636f6a65/transformed/navigation-map-matching-engine-common-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:route-projection-engine-common-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d686cc1da82551e6db6548d005e3ea7a/transformed/navigation-route-projection-engine-common-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:navigation-engines-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9e32879d52f194f134a4fa60fc8fd132/transformed/navigation-engines-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.location:provider-api-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/20d48be51d35da535e2de60eecce7b0e/transformed/api-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.safetylocations:safetylocations-common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/4eaa3b3f4befabd9e8330e9938a61fd0/transformed/safetylocations-common-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.common:coroutines-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/220c6280f8ed120b994ca49a8fca47b5/transformed/coroutines-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.geojson:geojson-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a8c3341e1b0144e1ff80eb20cce45a8b/transformed/geojson-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.hazards:hazards-common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d4d143ca1b6c560fe18a05cc560946f7/transformed/hazards-common-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.routing:route-planner-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/865dedc10f16f3a153fdccfa838465e1/transformed/route-planner-api-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:verbal-message-generation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/dd20688e2e38d5e87a9e6f05ce6898bb/transformed/navigation-verbal-message-generation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.routing:model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d76b70372451b454a894a3a76b8eb53b/transformed/model-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.routing:common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bf0a13c42ed37ed81acb016aeb9bc8c0/transformed/common-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:horizon-data-adapter-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/c8f269fcec164b1a89747045a9a99123/transformed/navigation-horizon-data-adapter-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.datamanagement:unified-location-decoder-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/f28ececcf459509a74b0f61a8c1f2d3c/transformed/data-management-unified-location-decoder-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.openlr:openlr-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e5594d2a2c5519c6e8ee7241716952e0/transformed/openlr-binding-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.datamanagement:data-store-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e8afa2a0f1029ca567706e011f985fe4/transformed/data-store-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.datamanagement:navigation-tiling-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/1be85f1e098b307f4a0c061040c01e3b/transformed/navigation-tiling-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.datamanagement:data-management-common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/46b8878aa6b8e4cccc6d40908e52cc15/transformed/data-management-common-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.telemetry:telemetry-default-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/718a1bd65a05c971c80382f87565cf0c/transformed/telemetry-default-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.telemetry:telemetry-api-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/27db979ba150fbfac2eb42eccf3096c5/transformed/telemetry-api-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.safetylocations:safetylocations-model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d0b44b5f7363b051d46beb66bf7e8d5d/transformed/safetylocations-model-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.location:model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bbccd9b8bd3fe5c9f112727ca26a03a7/transformed/model-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk:feature-toggle-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/dea3799a15a3e16f38c726ad1db6f59c/transformed/feature-toggle-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.common:net-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/4e0b963ff9515440abe93bfe992c66a9/transformed/net-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk:tts-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6cdf529f2c01131ae53ca88371e78e2c/transformed/tts-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.vehicle:vehicle-provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/8a67cbcef6f083789e7e4a0743b4b453/transformed/vehicle-client-api-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk:tts-engine-api-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9fa8ae942724c7a345456586129615da/transformed/tts-engine-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.location:location-road-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d56af2b53e982a3d474dd2549e2e921d/transformed/location-road-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.common:security-framework-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/629b56ea3696d4374b68630f53d45993/transformed/security-framework-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.mapreferences:nds-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/786639ad20d35886e2db3e91221b358b/transformed/nds-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.datamanagement:location-decoder-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/b37be25d5381b5ee5bd976334566357f/transformed/data-management-location-decoder-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.common:core-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/50ac092380ad9c8394699d1b8367180c/transformed/core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.common:collections-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/b3f91a2a3a2397d3a54c1a507f7c6314/transformed/collections-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.logging:logger-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/aaa12a36ebcd66330bb6b2c4a6ed1522/transformed/logger-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/dhananjay/.gradle/caches/transforms-3/2a0aaae99d2866ebc8d6e3ab89319506/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/dhananjay/.gradle/caches/transforms-3/c6fac1fab2519d53b623279352facadc/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/dhananjay/.gradle/caches/transforms-3/b8a09796e6725119d648592cfb5abe58/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/9064e77310eca7210781167409ca1fb6/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.fragment:fragment:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/de2218d0cd903973fdd7ec6544a36b0b/transformed/fragment-1.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-testing:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/b9b8df1c5d96db7953650947eca47a10/transformed/fragment-testing-1.6.2/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/edd53f83356613c696eba909ad6e5236/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/dhananjay/.gradle/caches/transforms-3/2da40be8cc378a9e31e0b0fecfa3eb84/transformed/activity-ktx-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/dhananjay/.gradle/caches/transforms-3/05129d721289b0afb45350a92468dcc4/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/30c9ecf36b4e0f7b42711dae9e6e0db6/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7b9cc6ff4e703ff2b0b0d6e1875021dd/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/dhananjay/.gradle/caches/transforms-3/62865ea1a4ea6eef3d48d24dfcb8dee0/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/dhananjay/.gradle/caches/transforms-3/bc2a2d89b3cdc0c16ac72ba13964a7bd/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/9165754dad130cc801fdb898e425fa0f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/1e88a47d9f5c409dbd15ad56169751df/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/64c9e4637c1c90c0f6553bed40c0af30/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/89fb861846cad6407692fd558db4336a/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/98a54641d43d4ab418cf778d7e66d62f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/5843c249920a5181d85dca2914733eea/transformed/lifecycle-livedata-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/5399c618386501e49352b432c17e8e02/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/95840e0c243bfd409b13aa3e6e53d39c/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/612cd3a7bd1cd93a023ada9ea607452a/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/33541c2a095d924ad3f3710fb0811b3d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/361ce0f39aa24599c307fec150ad5c7d/transformed/core-ktx-1.10.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/624d79ca5e8cbcd319d74fe7905e8756/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/fdb2599065f585fbc7f4988c0a7b0d4b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/5ae5ed3f30cce3b50ced5a586e2e174c/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dhananjay/.gradle/caches/transforms-3/c4d796e967ab90759baa65fd5005e2b4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dhananjay/.gradle/caches/transforms-3/d85b28d99d750d4059a52f1811f498cb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/dhananjay/.gradle/caches/transforms-3/4aa167ffbcd3e4b714a22fe181b59c06/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/d57c19fc1038024eee6170c978a975a7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/dhananjay/.gradle/caches/transforms-3/b384d4ee16d8413ac18e37aabbb5383d/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/f0e781937a802365ca05d8ea7e1823b5/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/91a84c8c48f4181ef3c7a6ca237fde9d/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c6e413661f6eb0663849b3c733757958/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.tomtom.sdk.common:functional-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/82bd6850708bdc5a51bdb866b278c6e7/transformed/functional-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.vehicle:model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e79e29b5eaccc9c2b49dc6139a776f07/transformed/model-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.logging:common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9d5f7c33b7a16b56c2450208c9199687/transformed/common-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.common:metadata-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6244603d929e989832a8a975fe8989c3/transformed/metadata-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.logging:logging-framework-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/8446a17bcf76b2af750e43f7f8f3f574/transformed/logging-framework-binding-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.datamanagement:navigation-tile-store-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/7fcdead01a7c1a97796c006d9cc33a2b/transformed/navigation-tile-store-binding-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.datamanagement:ndslive-map-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/eb9d266d0df64b55174e421412027b16/transformed/ndslive-map-binding-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.datamanagement:data-store-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/8d99155c95d9123d7d02317a5d762ef0/transformed/data-store-binding-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.datamanagement:navigation-tiling-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/67c3676d80e89b58cfabadc4b1b1a131/transformed/navigation-tiling-binding-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.common:native-library-loader-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a610bf7ca49986dfdae9db7a4b07e7fe/transformed/native-library-loader-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.annotations:annotations-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a26daaa44dd635915a01ed8697148124/transformed/annotations-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:horizon-unified-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/891709204bfaf50ac33c3ea5d01f4ece/transformed/navigation-horizon-unified-binding-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:verbal-message-generation-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bc235ece32daa0973c6681abae7a11ab/transformed/navigation-verbal-message-generation-binding-release/AndroidManifest.xml:12:1-17:12
+MERGED from [com.tomtom.sdk.common:native-icu4c-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0ebadaec2cbe760260d017c8590e16d8/transformed/native-icu4c-binding-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.quantity:quantity-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/4b6b7582f10b57c8f94c99b64de331ab/transformed/quantity-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.navigation:route-projection-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/ef89ab515582f788c648278507128fd4/transformed/navigation-route-projection-binding-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tomtom.sdk.mapreferences:model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/ef1811e9c4a0da3f51324d2601c0b6d9/transformed/model-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/f4a5fdc86f78d15fc12525bd4047b7d1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/3601e3c0828e0b5ff34ae01f359e5c6a/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/7ce8084983ac1c520d4dd313cd9b8f3f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.test.services:storage:1.4.2] /Users/dhananjay/.gradle/caches/transforms-3/464f0c2da1aa12f609d05c224bcac8f0/transformed/storage-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.6.0] /Users/dhananjay/.gradle/caches/transforms-3/b54795a885041e1f784084903cf98ab2/transformed/monitor-1.6.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/a4dcea17755d33a1a3404f3002ce2541/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/7ca5b37e209907ca071dd2a47b136ce4/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/3cc464d472a1275c6faaeeb5d4e11807/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7c15e1b0ac44a2cbaa2d4cb9b99441b6/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/f4f1dc0c980b98138550e223d79f5d1a/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/78bb3a1f23f802cc6d01b0c7d5e28f9c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/3709eb37711a06b27a70a7373406bd7d/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:annotation:1.0.1] /Users/dhananjay/.gradle/caches/transforms-3/cda4cca0f17ff75ebb653ce4b1210a58/transformed/annotation-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/a95dadda7ab8a625590db6041cd46870/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [jp.co.cyberagent.android:gpuimage:2.1.0] /Users/dhananjay/.gradle/caches/transforms-3/de422e53a4c0ced1db72fe5e84271aa0/transformed/gpuimage-2.1.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:5:5-81
+MERGED from [com.tomtom.sdk.maps:map-display:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/cdaf4b44a7206c12b336686aec9be124/transformed/map-display-0.45.2/AndroidManifest.xml:21:5-81
+MERGED from [com.tomtom.sdk.maps:map-display:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/cdaf4b44a7206c12b336686aec9be124/transformed/map-display-0.45.2/AndroidManifest.xml:21:5-81
+MERGED from [com.tomtom.sdk.maps:map-display-api:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/7df364ca343e281da0d4ddfe252d3f01/transformed/map-display-api-0.45.2/AndroidManifest.xml:21:5-81
+MERGED from [com.tomtom.sdk.maps:map-display-api:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/7df364ca343e281da0d4ddfe252d3f01/transformed/map-display-api-0.45.2/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.tomtom.sdk.location:provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/42155d33ace482ba216e865a1ef4a2b8/transformed/provider-android-0.45.2/AndroidManifest.xml:19:5-79
+MERGED from [com.tomtom.sdk.location:provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/42155d33ace482ba216e865a1ef4a2b8/transformed/provider-android-0.45.2/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:7:5-67
+MERGED from [com.tomtom.sdk.routing:route-planner-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a5c3e8bd58acf01442bd92f2efbfea13/transformed/route-planner-online-release/AndroidManifest.xml:17:5-67
+MERGED from [com.tomtom.sdk.routing:route-planner-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a5c3e8bd58acf01442bd92f2efbfea13/transformed/route-planner-online-release/AndroidManifest.xml:17:5-67
+MERGED from [com.tomtom.sdk.common:http-framework-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9c550b63b01e6ac6c35bb04d717e8461/transformed/http-framework-binding-release/AndroidManifest.xml:17:5-67
+MERGED from [com.tomtom.sdk.common:http-framework-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9c550b63b01e6ac6c35bb04d717e8461/transformed/http-framework-binding-release/AndroidManifest.xml:17:5-67
+MERGED from [com.tomtom.sdk.location:provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/42155d33ace482ba216e865a1ef4a2b8/transformed/provider-android-0.45.2/AndroidManifest.xml:17:5-67
+MERGED from [com.tomtom.sdk.location:provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/42155d33ace482ba216e865a1ef4a2b8/transformed/provider-android-0.45.2/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:9:5-29:19
+MERGED from [com.google.android.material:material:1.11.0] /Users/dhananjay/.gradle/caches/transforms-3/1bb38f33d022a39959de8305fdc4f264/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /Users/dhananjay/.gradle/caches/transforms-3/1bb38f33d022a39959de8305fdc4f264/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.tomtom.sdk.navigation:service:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/715419cee26450eac7e1adb2c06e692a/transformed/service-0.45.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.tomtom.sdk.navigation:service:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/715419cee26450eac7e1adb2c06e692a/transformed/service-0.45.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.tomtom.sdk.navigation:navigation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6f2b9201f8349c3ff0447fe2372fc098/transformed/navigation-release/AndroidManifest.xml:19:5-25:19
+MERGED from [com.tomtom.sdk.navigation:navigation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6f2b9201f8349c3ff0447fe2372fc098/transformed/navigation-release/AndroidManifest.xml:19:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/dhananjay/.gradle/caches/transforms-3/2a0aaae99d2866ebc8d6e3ab89319506/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/dhananjay/.gradle/caches/transforms-3/2a0aaae99d2866ebc8d6e3ab89319506/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.fragment:fragment-testing:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/b9b8df1c5d96db7953650947eca47a10/transformed/fragment-testing-1.6.2/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.fragment:fragment-testing:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/b9b8df1c5d96db7953650947eca47a10/transformed/fragment-testing-1.6.2/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7b9cc6ff4e703ff2b0b0d6e1875021dd/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7b9cc6ff4e703ff2b0b0d6e1875021dd/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/5399c618386501e49352b432c17e8e02/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/5399c618386501e49352b432c17e8e02/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/7ce8084983ac1c520d4dd313cd9b8f3f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/7ce8084983ac1c520d4dd313cd9b8f3f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/a4dcea17755d33a1a3404f3002ce2541/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/a4dcea17755d33a1a3404f3002ce2541/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:10:9-39
+	tools:targetApi
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:12:9-29
+	android:theme
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:11:9-41
+activity#com.example.usecase.MainActivity
+ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:14:9-17:20
+	android:exported
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:15:13-41
+activity#com.example.usecase.SplashActivity
+ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:18:9-28:20
+	android:exported
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:22:13-36
+	android:theme
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:19:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+MERGED from [com.tomtom.sdk.maps:map-display:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/cdaf4b44a7206c12b336686aec9be124/transformed/map-display-0.45.2/AndroidManifest.xml:16:5-18:96
+MERGED from [com.tomtom.sdk.maps:map-display:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/cdaf4b44a7206c12b336686aec9be124/transformed/map-display-0.45.2/AndroidManifest.xml:16:5-18:96
+MERGED from [com.tomtom.sdk.navigation:ui:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/3b04eefaa2de5488d341d50d349cafd5/transformed/ui-0.45.2/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:ui:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/3b04eefaa2de5488d341d50d349cafd5/transformed/ui-0.45.2/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.maps:map-display-api:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/7df364ca343e281da0d4ddfe252d3f01/transformed/map-display-api-0.45.2/AndroidManifest.xml:16:5-18:96
+MERGED from [com.tomtom.sdk.maps:map-display-api:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/7df364ca343e281da0d4ddfe252d3f01/transformed/map-display-api-0.45.2/AndroidManifest.xml:16:5-18:96
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/dhananjay/.gradle/caches/transforms-3/397fe130f5995e2b97170048276d1ef8/transformed/viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/dhananjay/.gradle/caches/transforms-3/397fe130f5995e2b97170048276d1ef8/transformed/viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.location:provider-simulation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d09c2fcc3ea4a6f9dab3c9925bba8b85/transformed/simulation-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.location:provider-simulation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d09c2fcc3ea4a6f9dab3c9925bba8b85/transformed/simulation-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.location:provider-map-matched-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/71d6541ad23a06cd7083e4eb9e83aaef/transformed/mapmatched-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.location:provider-map-matched-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/71d6541ad23a06cd7083e4eb9e83aaef/transformed/mapmatched-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.maps:data-provider:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/cddb6b09d7de0814bd794c32600a3bb5/transformed/data-provider-0.45.2/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.maps:data-provider:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/cddb6b09d7de0814bd794c32600a3bb5/transformed/data-provider-0.45.2/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.maps:gesture-detector:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0e0d265211d946994b015c26c98ded3d/transformed/gesture-detector-0.45.2/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.maps:gesture-detector:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0e0d265211d946994b015c26c98ded3d/transformed/gesture-detector-0.45.2/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.maps:mapdisplay-engine-binding-internal:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bd52244e67f409f82905a97d2996cd95/transformed/mapdisplay-engine-binding-internal-0.45.2/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.maps:mapdisplay-engine-binding-internal:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bd52244e67f409f82905a97d2996cd95/transformed/mapdisplay-engine-binding-internal-0.45.2/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:file-loader-internal:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e89f8154922ee66e8f7447b3e5cb8e66/transformed/file-loader-internal-0.45.2/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:file-loader-internal:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e89f8154922ee66e8f7447b3e5cb8e66/transformed/file-loader-internal-0.45.2/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:http-handler-internal:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9e5ac1f1a4568d8ef7ccca82ea3b1443/transformed/http-handler-internal-0.45.2/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:http-handler-internal:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9e5ac1f1a4568d8ef7ccca82ea3b1443/transformed/http-handler-internal-0.45.2/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.routing:route-planner-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a5c3e8bd58acf01442bd92f2efbfea13/transformed/route-planner-online-release/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk.routing:route-planner-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a5c3e8bd58acf01442bd92f2efbfea13/transformed/route-planner-online-release/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk.navigation:navigation-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/144ac01a31944f99f8d8c80a1bc66d1b/transformed/navigation-online-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:navigation-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/144ac01a31944f99f8d8c80a1bc66d1b/transformed/navigation-online-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-engine-tilestore-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/1e2df0e7dbd29b199f93a908f5340977/transformed/navigation-horizon-engine-tilestore-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-engine-tilestore-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/1e2df0e7dbd29b199f93a908f5340977/transformed/navigation-horizon-engine-tilestore-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:map-matching-engine-tilestore-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/73e4a6aece6fe061e654607d73170692/transformed/navigation-map-matching-engine-tilestore-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:map-matching-engine-tilestore-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/73e4a6aece6fe061e654607d73170692/transformed/navigation-map-matching-engine-tilestore-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-projection-engine-tilestore-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/3f789ea6467aee8d1cd3fe62f01fc95f/transformed/navigation-route-projection-engine-tilestore-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-projection-engine-tilestore-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/3f789ea6467aee8d1cd3fe62f01fc95f/transformed/navigation-route-projection-engine-tilestore-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:navigation-tile-store-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/dd29635ab00acbfd784a3022f780e486/transformed/navigation-tile-store-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:navigation-tile-store-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/dd29635ab00acbfd784a3022f780e486/transformed/navigation-tile-store-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:http-framework-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bcbf770a6715184d2f4481bf2445d773/transformed/http-framework-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:http-framework-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bcbf770a6715184d2f4481bf2445d773/transformed/http-framework-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:http-framework-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9c550b63b01e6ac6c35bb04d717e8461/transformed/http-framework-binding-release/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk.common:http-framework-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9c550b63b01e6ac6c35bb04d717e8461/transformed/http-framework-binding-release/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk.http:http-core-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6fb2aace29cc1073787a330848513b2b/transformed/http-core-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.http:http-core-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6fb2aace29cc1073787a330848513b2b/transformed/http-core-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.routing:routing-common-client-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/286a6fac70f00a76e0d46e1473a1d7b1/transformed/routing-common-client-online-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.routing:routing-common-client-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/286a6fac70f00a76e0d46e1473a1d7b1/transformed/routing-common-client-online-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-replanner-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/2908ad1187503ae5989a6e1fcbb3d958/transformed/navigation-route-replanner-online-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-replanner-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/2908ad1187503ae5989a6e1fcbb3d958/transformed/navigation-route-replanner-online-release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/dhananjay/.gradle/caches/transforms-3/1bb38f33d022a39959de8305fdc4f264/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/dhananjay/.gradle/caches/transforms-3/1bb38f33d022a39959de8305fdc4f264/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.tomtom.sdk.location:provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/42155d33ace482ba216e865a1ef4a2b8/transformed/provider-android-0.45.2/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk.location:provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/42155d33ace482ba216e865a1ef4a2b8/transformed/provider-android-0.45.2/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk:tts-engine-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d0b293758dd6786a33ffa9218b205abd/transformed/tts-engine-android-0.45.2/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk:tts-engine-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d0b293758dd6786a33ffa9218b205abd/transformed/tts-engine-android-0.45.2/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk.navigation:service:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/715419cee26450eac7e1adb2c06e692a/transformed/service-0.45.2/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk.navigation:service:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/715419cee26450eac7e1adb2c06e692a/transformed/service-0.45.2/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk.navigation:data-store-maintenance-engine-default-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0877071f0be064584fa3bc46db55723a/transformed/navigation-data-store-maintenance-engine-default-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:data-store-maintenance-engine-default-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0877071f0be064584fa3bc46db55723a/transformed/navigation-data-store-maintenance-engine-default-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-projection-engine-unified-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a27338e2abb21904e1f9451a53a7b8c8/transformed/navigation-route-projection-engine-unified-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-projection-engine-unified-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a27338e2abb21904e1f9451a53a7b8c8/transformed/navigation-route-projection-engine-unified-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:data-store-updater-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/c735de7ed8cedaab1f4e666bec695f5b/transformed/data-store-updater-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:data-store-updater-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/c735de7ed8cedaab1f4e666bec695f5b/transformed/data-store-updater-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:navigation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6f2b9201f8349c3ff0447fe2372fc098/transformed/navigation-release/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk.navigation:navigation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6f2b9201f8349c3ff0447fe2372fc098/transformed/navigation-release/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk.routing:verbal-messages-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0799accafeafa48fbe26af5f4f30532f/transformed/verbal-message-generator-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.routing:verbal-messages-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0799accafeafa48fbe26af5f4f30532f/transformed/verbal-message-generator-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:android-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/c565a69e398af611dec25fc99ac720e9/transformed/android-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:android-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/c565a69e398af611dec25fc99ac720e9/transformed/android-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-replanner-default-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/5e5b6f416d1bf06964767ffaf8c609b1/transformed/navigation-route-replanner-default-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-replanner-default-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/5e5b6f416d1bf06964767ffaf8c609b1/transformed/navigation-route-replanner-default-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-replanner-common-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/1988c142b9c4427ec12ff1611736ceaa/transformed/navigation-route-replanner-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-replanner-common-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/1988c142b9c4427ec12ff1611736ceaa/transformed/navigation-route-replanner-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-replanner-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/8e819dd98d457bb9c2fa7d9abacd99d7/transformed/navigation-route-replanner-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-replanner-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/8e819dd98d457bb9c2fa7d9abacd99d7/transformed/navigation-route-replanner-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:map-matching-engine-unified-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0285948f5490b1d485c23ca3d543903b/transformed/navigation-map-matching-engine-unified-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:map-matching-engine-unified-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0285948f5490b1d485c23ca3d543903b/transformed/navigation-map-matching-engine-unified-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-engine-unified-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/3543da223c71630988ce24e0b7047357/transformed/navigation-horizon-engine-unified-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-engine-unified-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/3543da223c71630988ce24e0b7047357/transformed/navigation-horizon-engine-unified-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-engine-common-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/ce837241fab74bf554564e1eae7eed09/transformed/navigation-horizon-engine-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-engine-common-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/ce837241fab74bf554564e1eae7eed09/transformed/navigation-horizon-engine-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-data-adapter-safety-locations-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/72fd3a9d2245b3963ea849c594b4b30c/transformed/navigation-horizon-data-adapter-safety-locations-online-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-data-adapter-safety-locations-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/72fd3a9d2245b3963ea849c594b4b30c/transformed/navigation-horizon-data-adapter-safety-locations-online-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-data-adapter-hazards-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e5bb4e411021d4a50f8f3e1aaa395084/transformed/navigation-horizon-data-adapter-hazards-online-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-data-adapter-hazards-online-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e5bb4e411021d4a50f8f3e1aaa395084/transformed/navigation-horizon-data-adapter-hazards-online-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:map-matching-engine-common-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/963e7627c0aa6d6d3a575e4c636f6a65/transformed/navigation-map-matching-engine-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:map-matching-engine-common-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/963e7627c0aa6d6d3a575e4c636f6a65/transformed/navigation-map-matching-engine-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-projection-engine-common-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d686cc1da82551e6db6548d005e3ea7a/transformed/navigation-route-projection-engine-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-projection-engine-common-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d686cc1da82551e6db6548d005e3ea7a/transformed/navigation-route-projection-engine-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:navigation-engines-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9e32879d52f194f134a4fa60fc8fd132/transformed/navigation-engines-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:navigation-engines-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9e32879d52f194f134a4fa60fc8fd132/transformed/navigation-engines-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.location:provider-api-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/20d48be51d35da535e2de60eecce7b0e/transformed/api-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.location:provider-api-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/20d48be51d35da535e2de60eecce7b0e/transformed/api-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.safetylocations:safetylocations-common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/4eaa3b3f4befabd9e8330e9938a61fd0/transformed/safetylocations-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.safetylocations:safetylocations-common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/4eaa3b3f4befabd9e8330e9938a61fd0/transformed/safetylocations-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:coroutines-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/220c6280f8ed120b994ca49a8fca47b5/transformed/coroutines-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:coroutines-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/220c6280f8ed120b994ca49a8fca47b5/transformed/coroutines-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.geojson:geojson-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a8c3341e1b0144e1ff80eb20cce45a8b/transformed/geojson-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.geojson:geojson-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a8c3341e1b0144e1ff80eb20cce45a8b/transformed/geojson-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.hazards:hazards-common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d4d143ca1b6c560fe18a05cc560946f7/transformed/hazards-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.hazards:hazards-common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d4d143ca1b6c560fe18a05cc560946f7/transformed/hazards-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.routing:route-planner-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/865dedc10f16f3a153fdccfa838465e1/transformed/route-planner-api-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.routing:route-planner-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/865dedc10f16f3a153fdccfa838465e1/transformed/route-planner-api-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:verbal-message-generation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/dd20688e2e38d5e87a9e6f05ce6898bb/transformed/navigation-verbal-message-generation-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:verbal-message-generation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/dd20688e2e38d5e87a9e6f05ce6898bb/transformed/navigation-verbal-message-generation-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.routing:model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d76b70372451b454a894a3a76b8eb53b/transformed/model-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.routing:model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d76b70372451b454a894a3a76b8eb53b/transformed/model-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.routing:common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bf0a13c42ed37ed81acb016aeb9bc8c0/transformed/common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.routing:common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bf0a13c42ed37ed81acb016aeb9bc8c0/transformed/common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-data-adapter-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/c8f269fcec164b1a89747045a9a99123/transformed/navigation-horizon-data-adapter-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-data-adapter-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/c8f269fcec164b1a89747045a9a99123/transformed/navigation-horizon-data-adapter-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:unified-location-decoder-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/f28ececcf459509a74b0f61a8c1f2d3c/transformed/data-management-unified-location-decoder-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:unified-location-decoder-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/f28ececcf459509a74b0f61a8c1f2d3c/transformed/data-management-unified-location-decoder-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.openlr:openlr-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e5594d2a2c5519c6e8ee7241716952e0/transformed/openlr-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.openlr:openlr-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e5594d2a2c5519c6e8ee7241716952e0/transformed/openlr-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:data-store-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e8afa2a0f1029ca567706e011f985fe4/transformed/data-store-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:data-store-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e8afa2a0f1029ca567706e011f985fe4/transformed/data-store-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:navigation-tiling-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/1be85f1e098b307f4a0c061040c01e3b/transformed/navigation-tiling-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:navigation-tiling-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/1be85f1e098b307f4a0c061040c01e3b/transformed/navigation-tiling-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:data-management-common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/46b8878aa6b8e4cccc6d40908e52cc15/transformed/data-management-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:data-management-common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/46b8878aa6b8e4cccc6d40908e52cc15/transformed/data-management-common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.telemetry:telemetry-default-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/718a1bd65a05c971c80382f87565cf0c/transformed/telemetry-default-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.telemetry:telemetry-default-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/718a1bd65a05c971c80382f87565cf0c/transformed/telemetry-default-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.telemetry:telemetry-api-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/27db979ba150fbfac2eb42eccf3096c5/transformed/telemetry-api-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.telemetry:telemetry-api-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/27db979ba150fbfac2eb42eccf3096c5/transformed/telemetry-api-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.safetylocations:safetylocations-model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d0b44b5f7363b051d46beb66bf7e8d5d/transformed/safetylocations-model-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.safetylocations:safetylocations-model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d0b44b5f7363b051d46beb66bf7e8d5d/transformed/safetylocations-model-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.location:model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bbccd9b8bd3fe5c9f112727ca26a03a7/transformed/model-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.location:model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bbccd9b8bd3fe5c9f112727ca26a03a7/transformed/model-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk:feature-toggle-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/dea3799a15a3e16f38c726ad1db6f59c/transformed/feature-toggle-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk:feature-toggle-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/dea3799a15a3e16f38c726ad1db6f59c/transformed/feature-toggle-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:net-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/4e0b963ff9515440abe93bfe992c66a9/transformed/net-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:net-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/4e0b963ff9515440abe93bfe992c66a9/transformed/net-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk:tts-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6cdf529f2c01131ae53ca88371e78e2c/transformed/tts-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk:tts-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6cdf529f2c01131ae53ca88371e78e2c/transformed/tts-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.vehicle:vehicle-provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/8a67cbcef6f083789e7e4a0743b4b453/transformed/vehicle-client-api-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.vehicle:vehicle-provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/8a67cbcef6f083789e7e4a0743b4b453/transformed/vehicle-client-api-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk:tts-engine-api-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9fa8ae942724c7a345456586129615da/transformed/tts-engine-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk:tts-engine-api-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9fa8ae942724c7a345456586129615da/transformed/tts-engine-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.location:location-road-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d56af2b53e982a3d474dd2549e2e921d/transformed/location-road-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.location:location-road-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d56af2b53e982a3d474dd2549e2e921d/transformed/location-road-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:security-framework-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/629b56ea3696d4374b68630f53d45993/transformed/security-framework-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:security-framework-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/629b56ea3696d4374b68630f53d45993/transformed/security-framework-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.mapreferences:nds-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/786639ad20d35886e2db3e91221b358b/transformed/nds-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.mapreferences:nds-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/786639ad20d35886e2db3e91221b358b/transformed/nds-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:location-decoder-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/b37be25d5381b5ee5bd976334566357f/transformed/data-management-location-decoder-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:location-decoder-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/b37be25d5381b5ee5bd976334566357f/transformed/data-management-location-decoder-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:core-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/50ac092380ad9c8394699d1b8367180c/transformed/core-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:core-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/50ac092380ad9c8394699d1b8367180c/transformed/core-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:collections-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/b3f91a2a3a2397d3a54c1a507f7c6314/transformed/collections-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:collections-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/b3f91a2a3a2397d3a54c1a507f7c6314/transformed/collections-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.logging:logger-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/aaa12a36ebcd66330bb6b2c4a6ed1522/transformed/logger-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.logging:logger-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/aaa12a36ebcd66330bb6b2c4a6ed1522/transformed/logger-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/dhananjay/.gradle/caches/transforms-3/2a0aaae99d2866ebc8d6e3ab89319506/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/dhananjay/.gradle/caches/transforms-3/2a0aaae99d2866ebc8d6e3ab89319506/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/dhananjay/.gradle/caches/transforms-3/c6fac1fab2519d53b623279352facadc/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/dhananjay/.gradle/caches/transforms-3/c6fac1fab2519d53b623279352facadc/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/dhananjay/.gradle/caches/transforms-3/b8a09796e6725119d648592cfb5abe58/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/dhananjay/.gradle/caches/transforms-3/b8a09796e6725119d648592cfb5abe58/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/9064e77310eca7210781167409ca1fb6/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/9064e77310eca7210781167409ca1fb6/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/de2218d0cd903973fdd7ec6544a36b0b/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/de2218d0cd903973fdd7ec6544a36b0b/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-testing:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/b9b8df1c5d96db7953650947eca47a10/transformed/fragment-testing-1.6.2/AndroidManifest.xml:20:5-22:54
+MERGED from [androidx.fragment:fragment-testing:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/b9b8df1c5d96db7953650947eca47a10/transformed/fragment-testing-1.6.2/AndroidManifest.xml:20:5-22:54
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/edd53f83356613c696eba909ad6e5236/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/edd53f83356613c696eba909ad6e5236/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/dhananjay/.gradle/caches/transforms-3/2da40be8cc378a9e31e0b0fecfa3eb84/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/dhananjay/.gradle/caches/transforms-3/2da40be8cc378a9e31e0b0fecfa3eb84/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/dhananjay/.gradle/caches/transforms-3/05129d721289b0afb45350a92468dcc4/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/dhananjay/.gradle/caches/transforms-3/05129d721289b0afb45350a92468dcc4/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/30c9ecf36b4e0f7b42711dae9e6e0db6/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/30c9ecf36b4e0f7b42711dae9e6e0db6/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7b9cc6ff4e703ff2b0b0d6e1875021dd/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7b9cc6ff4e703ff2b0b0d6e1875021dd/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/dhananjay/.gradle/caches/transforms-3/62865ea1a4ea6eef3d48d24dfcb8dee0/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/dhananjay/.gradle/caches/transforms-3/62865ea1a4ea6eef3d48d24dfcb8dee0/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/dhananjay/.gradle/caches/transforms-3/bc2a2d89b3cdc0c16ac72ba13964a7bd/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/dhananjay/.gradle/caches/transforms-3/bc2a2d89b3cdc0c16ac72ba13964a7bd/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/9165754dad130cc801fdb898e425fa0f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/9165754dad130cc801fdb898e425fa0f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/1e88a47d9f5c409dbd15ad56169751df/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/1e88a47d9f5c409dbd15ad56169751df/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/64c9e4637c1c90c0f6553bed40c0af30/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/64c9e4637c1c90c0f6553bed40c0af30/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/89fb861846cad6407692fd558db4336a/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/89fb861846cad6407692fd558db4336a/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/98a54641d43d4ab418cf778d7e66d62f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/98a54641d43d4ab418cf778d7e66d62f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/5843c249920a5181d85dca2914733eea/transformed/lifecycle-livedata-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/5843c249920a5181d85dca2914733eea/transformed/lifecycle-livedata-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/5399c618386501e49352b432c17e8e02/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/5399c618386501e49352b432c17e8e02/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/95840e0c243bfd409b13aa3e6e53d39c/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/95840e0c243bfd409b13aa3e6e53d39c/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/612cd3a7bd1cd93a023ada9ea607452a/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/612cd3a7bd1cd93a023ada9ea607452a/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/33541c2a095d924ad3f3710fb0811b3d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/33541c2a095d924ad3f3710fb0811b3d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/361ce0f39aa24599c307fec150ad5c7d/transformed/core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/361ce0f39aa24599c307fec150ad5c7d/transformed/core-ktx-1.10.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/624d79ca5e8cbcd319d74fe7905e8756/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/624d79ca5e8cbcd319d74fe7905e8756/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/fdb2599065f585fbc7f4988c0a7b0d4b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/fdb2599065f585fbc7f4988c0a7b0d4b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/5ae5ed3f30cce3b50ced5a586e2e174c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/5ae5ed3f30cce3b50ced5a586e2e174c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dhananjay/.gradle/caches/transforms-3/c4d796e967ab90759baa65fd5005e2b4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/dhananjay/.gradle/caches/transforms-3/c4d796e967ab90759baa65fd5005e2b4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dhananjay/.gradle/caches/transforms-3/d85b28d99d750d4059a52f1811f498cb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/dhananjay/.gradle/caches/transforms-3/d85b28d99d750d4059a52f1811f498cb/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/dhananjay/.gradle/caches/transforms-3/4aa167ffbcd3e4b714a22fe181b59c06/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/dhananjay/.gradle/caches/transforms-3/4aa167ffbcd3e4b714a22fe181b59c06/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/d57c19fc1038024eee6170c978a975a7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/d57c19fc1038024eee6170c978a975a7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/dhananjay/.gradle/caches/transforms-3/b384d4ee16d8413ac18e37aabbb5383d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/dhananjay/.gradle/caches/transforms-3/b384d4ee16d8413ac18e37aabbb5383d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/f0e781937a802365ca05d8ea7e1823b5/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/f0e781937a802365ca05d8ea7e1823b5/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/91a84c8c48f4181ef3c7a6ca237fde9d/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/91a84c8c48f4181ef3c7a6ca237fde9d/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c6e413661f6eb0663849b3c733757958/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c6e413661f6eb0663849b3c733757958/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [com.tomtom.sdk.common:functional-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/82bd6850708bdc5a51bdb866b278c6e7/transformed/functional-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:functional-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/82bd6850708bdc5a51bdb866b278c6e7/transformed/functional-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.vehicle:model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e79e29b5eaccc9c2b49dc6139a776f07/transformed/model-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.vehicle:model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/e79e29b5eaccc9c2b49dc6139a776f07/transformed/model-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.logging:common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9d5f7c33b7a16b56c2450208c9199687/transformed/common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.logging:common-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9d5f7c33b7a16b56c2450208c9199687/transformed/common-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:metadata-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6244603d929e989832a8a975fe8989c3/transformed/metadata-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:metadata-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6244603d929e989832a8a975fe8989c3/transformed/metadata-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.logging:logging-framework-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/8446a17bcf76b2af750e43f7f8f3f574/transformed/logging-framework-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.logging:logging-framework-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/8446a17bcf76b2af750e43f7f8f3f574/transformed/logging-framework-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:navigation-tile-store-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/7fcdead01a7c1a97796c006d9cc33a2b/transformed/navigation-tile-store-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:navigation-tile-store-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/7fcdead01a7c1a97796c006d9cc33a2b/transformed/navigation-tile-store-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:ndslive-map-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/eb9d266d0df64b55174e421412027b16/transformed/ndslive-map-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:ndslive-map-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/eb9d266d0df64b55174e421412027b16/transformed/ndslive-map-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:data-store-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/8d99155c95d9123d7d02317a5d762ef0/transformed/data-store-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:data-store-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/8d99155c95d9123d7d02317a5d762ef0/transformed/data-store-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:navigation-tiling-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/67c3676d80e89b58cfabadc4b1b1a131/transformed/navigation-tiling-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.datamanagement:navigation-tiling-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/67c3676d80e89b58cfabadc4b1b1a131/transformed/navigation-tiling-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:native-library-loader-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a610bf7ca49986dfdae9db7a4b07e7fe/transformed/native-library-loader-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:native-library-loader-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a610bf7ca49986dfdae9db7a4b07e7fe/transformed/native-library-loader-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.annotations:annotations-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a26daaa44dd635915a01ed8697148124/transformed/annotations-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.annotations:annotations-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/a26daaa44dd635915a01ed8697148124/transformed/annotations-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-unified-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/891709204bfaf50ac33c3ea5d01f4ece/transformed/navigation-horizon-unified-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:horizon-unified-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/891709204bfaf50ac33c3ea5d01f4ece/transformed/navigation-horizon-unified-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:verbal-message-generation-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bc235ece32daa0973c6681abae7a11ab/transformed/navigation-verbal-message-generation-binding-release/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk.navigation:verbal-message-generation-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/bc235ece32daa0973c6681abae7a11ab/transformed/navigation-verbal-message-generation-binding-release/AndroidManifest.xml:15:5-44
+MERGED from [com.tomtom.sdk.common:native-icu4c-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0ebadaec2cbe760260d017c8590e16d8/transformed/native-icu4c-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.common:native-icu4c-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/0ebadaec2cbe760260d017c8590e16d8/transformed/native-icu4c-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.quantity:quantity-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/4b6b7582f10b57c8f94c99b64de331ab/transformed/quantity-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.quantity:quantity-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/4b6b7582f10b57c8f94c99b64de331ab/transformed/quantity-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-projection-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/ef89ab515582f788c648278507128fd4/transformed/navigation-route-projection-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.navigation:route-projection-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/ef89ab515582f788c648278507128fd4/transformed/navigation-route-projection-binding-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.mapreferences:model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/ef1811e9c4a0da3f51324d2601c0b6d9/transformed/model-release/AndroidManifest.xml:5:5-44
+MERGED from [com.tomtom.sdk.mapreferences:model-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/ef1811e9c4a0da3f51324d2601c0b6d9/transformed/model-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/f4a5fdc86f78d15fc12525bd4047b7d1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/f4a5fdc86f78d15fc12525bd4047b7d1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/3601e3c0828e0b5ff34ae01f359e5c6a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/3601e3c0828e0b5ff34ae01f359e5c6a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/7ce8084983ac1c520d4dd313cd9b8f3f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/7ce8084983ac1c520d4dd313cd9b8f3f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.test.services:storage:1.4.2] /Users/dhananjay/.gradle/caches/transforms-3/464f0c2da1aa12f609d05c224bcac8f0/transformed/storage-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.2] /Users/dhananjay/.gradle/caches/transforms-3/464f0c2da1aa12f609d05c224bcac8f0/transformed/storage-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.6.0] /Users/dhananjay/.gradle/caches/transforms-3/b54795a885041e1f784084903cf98ab2/transformed/monitor-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.6.0] /Users/dhananjay/.gradle/caches/transforms-3/b54795a885041e1f784084903cf98ab2/transformed/monitor-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/a4dcea17755d33a1a3404f3002ce2541/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/a4dcea17755d33a1a3404f3002ce2541/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/7ca5b37e209907ca071dd2a47b136ce4/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/7ca5b37e209907ca071dd2a47b136ce4/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/3cc464d472a1275c6faaeeb5d4e11807/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/3cc464d472a1275c6faaeeb5d4e11807/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7c15e1b0ac44a2cbaa2d4cb9b99441b6/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7c15e1b0ac44a2cbaa2d4cb9b99441b6/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/f4f1dc0c980b98138550e223d79f5d1a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/f4f1dc0c980b98138550e223d79f5d1a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/78bb3a1f23f802cc6d01b0c7d5e28f9c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/78bb3a1f23f802cc6d01b0c7d5e28f9c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/3709eb37711a06b27a70a7373406bd7d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dhananjay/.gradle/caches/transforms-3/3709eb37711a06b27a70a7373406bd7d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:annotation:1.0.1] /Users/dhananjay/.gradle/caches/transforms-3/cda4cca0f17ff75ebb653ce4b1210a58/transformed/annotation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:annotation:1.0.1] /Users/dhananjay/.gradle/caches/transforms-3/cda4cca0f17ff75ebb653ce4b1210a58/transformed/annotation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/a95dadda7ab8a625590db6041cd46870/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/a95dadda7ab8a625590db6041cd46870/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [jp.co.cyberagent.android:gpuimage:2.1.0] /Users/dhananjay/.gradle/caches/transforms-3/de422e53a4c0ced1db72fe5e84271aa0/transformed/gpuimage-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [jp.co.cyberagent.android:gpuimage:2.1.0] /Users/dhananjay/.gradle/caches/transforms-3/de422e53a4c0ced1db72fe5e84271aa0/transformed/gpuimage-2.1.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.tomtom.sdk.maps:map-display:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/cdaf4b44a7206c12b336686aec9be124/transformed/map-display-0.45.2/AndroidManifest.xml:18:9-93
+	android:targetSdkVersion
+		INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+		INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+		ADDED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+		INJECTED from /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [com.tomtom.sdk.maps:map-display:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/cdaf4b44a7206c12b336686aec9be124/transformed/map-display-0.45.2/AndroidManifest.xml:23:5-25:35
+MERGED from [com.tomtom.sdk.maps:map-display-api:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/7df364ca343e281da0d4ddfe252d3f01/transformed/map-display-api-0.45.2/AndroidManifest.xml:23:5-25:35
+MERGED from [com.tomtom.sdk.maps:map-display-api:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/7df364ca343e281da0d4ddfe252d3f01/transformed/map-display-api-0.45.2/AndroidManifest.xml:23:5-25:35
+	android:glEsVersion
+		ADDED from [com.tomtom.sdk.maps:map-display:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/cdaf4b44a7206c12b336686aec9be124/transformed/map-display-0.45.2/AndroidManifest.xml:24:9-41
+	android:required
+		ADDED from [com.tomtom.sdk.maps:map-display:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/cdaf4b44a7206c12b336686aec9be124/transformed/map-display-0.45.2/AndroidManifest.xml:25:9-32
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.tomtom.sdk.common:http-framework-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9c550b63b01e6ac6c35bb04d717e8461/transformed/http-framework-binding-release/AndroidManifest.xml:18:5-79
+MERGED from [com.tomtom.sdk.location:provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/42155d33ace482ba216e865a1ef4a2b8/transformed/provider-android-0.45.2/AndroidManifest.xml:18:5-79
+MERGED from [com.tomtom.sdk.location:provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/42155d33ace482ba216e865a1ef4a2b8/transformed/provider-android-0.45.2/AndroidManifest.xml:18:5-79
+MERGED from [com.tomtom.sdk.navigation:navigation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6f2b9201f8349c3ff0447fe2372fc098/transformed/navigation-release/AndroidManifest.xml:17:5-79
+MERGED from [com.tomtom.sdk.navigation:navigation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6f2b9201f8349c3ff0447fe2372fc098/transformed/navigation-release/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from [com.tomtom.sdk.common:http-framework-binding-internal-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/9c550b63b01e6ac6c35bb04d717e8461/transformed/http-framework-binding-release/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.tomtom.sdk.location:provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/42155d33ace482ba216e865a1ef4a2b8/transformed/provider-android-0.45.2/AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from [com.tomtom.sdk.location:provider-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/42155d33ace482ba216e865a1ef4a2b8/transformed/provider-android-0.45.2/AndroidManifest.xml:20:22-73
+queries
+ADDED from [com.tomtom.sdk:tts-engine-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d0b293758dd6786a33ffa9218b205abd/transformed/tts-engine-android-0.45.2/AndroidManifest.xml:17:5-21:15
+intent#action:name:android.intent.action.TTS_SERVICE
+ADDED from [com.tomtom.sdk:tts-engine-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d0b293758dd6786a33ffa9218b205abd/transformed/tts-engine-android-0.45.2/AndroidManifest.xml:18:9-20:18
+action#android.intent.action.TTS_SERVICE
+ADDED from [com.tomtom.sdk:tts-engine-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d0b293758dd6786a33ffa9218b205abd/transformed/tts-engine-android-0.45.2/AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from [com.tomtom.sdk:tts-engine-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/d0b293758dd6786a33ffa9218b205abd/transformed/tts-engine-android-0.45.2/AndroidManifest.xml:19:21-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.tomtom.sdk.navigation:service:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/715419cee26450eac7e1adb2c06e692a/transformed/service-0.45.2/AndroidManifest.xml:17:5-77
+	android:name
+		ADDED from [com.tomtom.sdk.navigation:service:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/715419cee26450eac7e1adb2c06e692a/transformed/service-0.45.2/AndroidManifest.xml:17:22-74
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.tomtom.sdk.navigation:service:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/715419cee26450eac7e1adb2c06e692a/transformed/service-0.45.2/AndroidManifest.xml:18:5-77
+	android:name
+		ADDED from [com.tomtom.sdk.navigation:service:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/715419cee26450eac7e1adb2c06e692a/transformed/service-0.45.2/AndroidManifest.xml:18:22-74
+service#com.tomtom.sdk.navigation.service.TomTomNavigationService
+ADDED from [com.tomtom.sdk.navigation:service:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/715419cee26450eac7e1adb2c06e692a/transformed/service-0.45.2/AndroidManifest.xml:21:9-23:56
+	android:foregroundServiceType
+		ADDED from [com.tomtom.sdk.navigation:service:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/715419cee26450eac7e1adb2c06e692a/transformed/service-0.45.2/AndroidManifest.xml:23:13-53
+	android:name
+		ADDED from [com.tomtom.sdk.navigation:service:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/715419cee26450eac7e1adb2c06e692a/transformed/service-0.45.2/AndroidManifest.xml:22:13-85
+service#com.tomtom.positioning.player.Player
+ADDED from [com.tomtom.sdk.navigation:navigation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6f2b9201f8349c3ff0447fe2372fc098/transformed/navigation-release/AndroidManifest.xml:22:9-24:39
+	android:exported
+		ADDED from [com.tomtom.sdk.navigation:navigation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6f2b9201f8349c3ff0447fe2372fc098/transformed/navigation-release/AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from [com.tomtom.sdk.navigation:navigation-android:0.45.2] /Users/dhananjay/.gradle/caches/transforms-3/6f2b9201f8349c3ff0447fe2372fc098/transformed/navigation-release/AndroidManifest.xml:23:13-64
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:23:5-72
+MERGED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:24:5-72
+MERGED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:23:22-69
+activity#androidx.fragment.app.testing.EmptyFragmentActivity
+ADDED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:26:9-35:20
+	android:multiprocess
+		ADDED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:28:13-36
+	android:theme
+		ADDED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:31:13-78
+	android:taskAffinity
+		ADDED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:27:13-79
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.fragment:fragment-testing-manifest:1.6.2] /Users/dhananjay/.gradle/caches/transforms-3/c17339f06803e8aa150dbf728cf7f518/transformed/fragment-testing-manifest-1.6.2/AndroidManifest.xml:32:13-34:29
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7b9cc6ff4e703ff2b0b0d6e1875021dd/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/5399c618386501e49352b432c17e8e02/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/5399c618386501e49352b432c17e8e02/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/a4dcea17755d33a1a3404f3002ce2541/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/dhananjay/.gradle/caches/transforms-3/a4dcea17755d33a1a3404f3002ce2541/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7b9cc6ff4e703ff2b0b0d6e1875021dd/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7b9cc6ff4e703ff2b0b0d6e1875021dd/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7b9cc6ff4e703ff2b0b0d6e1875021dd/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7b9cc6ff4e703ff2b0b0d6e1875021dd/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7b9cc6ff4e703ff2b0b0d6e1875021dd/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7b9cc6ff4e703ff2b0b0d6e1875021dd/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/dhananjay/.gradle/caches/transforms-3/7b9cc6ff4e703ff2b0b0d6e1875021dd/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:28:13-99
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /Users/dhananjay/.gradle/caches/transforms-3/4701dc8521f5dae42cc6a567eea11c34/transformed/core-1.5.0/AndroidManifest.xml:44:13-103
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/5399c618386501e49352b432c17e8e02/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/5399c618386501e49352b432c17e8e02/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/dhananjay/.gradle/caches/transforms-3/5399c618386501e49352b432c17e8e02/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+permission#com.example.usecase.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.usecase.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] /Users/dhananjay/.gradle/caches/transforms-3/8ef7933e0af7459c12ab7bdac296644d/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/dhananjay/.gradle/caches/transforms-3/3ff0f07ec3ff923f0775e6906d2d078f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-merged_res-50:/drawable_tom_tom_logo.png.flat",
+        "source": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-main-52:/drawable/tom_tom_logo.png"
+    },
+    {
+        "merged": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-merged_res-50:/layout_activity_splash_screen.xml.flat",
+        "source": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-main-52:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-merged_res-50:/layout_activity_main.xml.flat",
+        "source": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-merged_res-50:/drawable_bg_splash.png.flat",
+        "source": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-main-52:/drawable/bg_splash.png"
+    },
+    {
+        "merged": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-merged_res-50:/drawable_splash_background.xml.flat",
+        "source": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-main-52:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-merged_res-50:/drawable_master_concept_logo.jpeg.flat",
+        "source": "/Users/dhananjay/.gradle/daemon/8.2.1/com.example.usecase-main-52:/drawable/master_concept_logo.jpeg"
+    }
+]
