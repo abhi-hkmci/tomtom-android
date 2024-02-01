@@ -1,5 +1,0 @@
-com.example.usecase.test.usecase-androidTest-0 /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/build/generated/res/resValues/androidTest/debug
-com.example.usecase.test.usecase-androidTest-1 /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/build/generated/res/rs/androidTest/debug
-com.example.usecase.test.usecase-mergeDebugAndroidTestResources-2 /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.example.usecase.test.usecase-mergeDebugAndroidTestResources-3 /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.example.usecase.test.usecase-merged_res-4 /Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/build/intermediates/merged_res/debugAndroidTest

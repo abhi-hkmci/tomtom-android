@@ -1,7 +1,0 @@
-#Thu Feb 01 17:18:50 IST 2024
-base.0=/Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
-base.1=/Users/dhananjay/codes/tomtom-navigation-android-examples/tomtom-navigation-core-examples/usecase/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/11/classes.dex
-path.0=0/classes.dex
-path.1=11/classes.dex
-renamed.0=classes.dex
-renamed.1=classes2.dex
