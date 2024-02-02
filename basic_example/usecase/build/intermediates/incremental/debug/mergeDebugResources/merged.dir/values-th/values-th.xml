@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/apk/res-auto" xmlns:ns3="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+    <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"นำทางไปหน้าแรก"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"กลับ"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ตัวเลือกอื่น"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"เสร็จ"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"ดูทั้งหมด"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"เลือกแอป"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ปิด"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"เปิด"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"ลบ"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"เมนู+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"ค้นหา…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"ล้างคำค้นหา"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"คำค้นหา"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"ค้นหา"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ส่งคำค้นหา"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"ค้นหาด้วยเสียง"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"แชร์กับ"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"แชร์ทาง <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ยุบ"</string>
+    <string name="bottomsheet_action_collapse">ยุบ Bottom Sheet</string>
+    <string name="bottomsheet_action_expand">ขยาย Bottom Sheet</string>
+    <string name="bottomsheet_action_expand_halfway">ขยายรายการครึ่งหนึ่ง</string>
+    <string name="bottomsheet_drag_handle_clicked">แตะแฮนเดิลการลากสองครั้ง</string>
+    <string name="bottomsheet_drag_handle_content_description">แฮนเดิลการลาก</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"รับสาย"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"วิดีโอ"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"ปฏิเสธ"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"วางสาย"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"สายเรียกเข้า"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"สายที่สนทนาอยู่"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"กำลังสกรีนสายเรียกเข้า"</string>
+    <string name="character_counter_content_description">ป้อนอักขระแล้ว %1$d จาก %2$d ตัว</string>
+    <string name="character_counter_overflowed_content_description">เกินจำนวนอักขระสูงสุด %1$d จาก %2$d</string>
+    <string name="clear_text_end_icon_content_description">ล้างข้อความ</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">เปิดใช้</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">เปิดใช้บริการ Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">ติดตั้ง</string>
+    <string name="common_google_play_services_install_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">ความพร้อมใช้งานของบริการ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="common_google_play_services_unsupported_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">อัปเดต</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="common_google_play_services_wear_update_text">จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_signin_button_text">ลงชื่อเข้าใช้</string>
+    <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string name="distance_unit_short_feet" ns2:desc="Abbreviated version of &apos;feet&apos;">ฟุต</string>
+    <string name="distance_unit_short_kilometers" ns2:desc="Abbreviated version of &apos;kilometres&apos;">กม.</string>
+    <string name="distance_unit_short_meters" ns2:desc="Abbreviated version of &apos;metres&apos;">ม.</string>
+    <string name="distance_unit_short_miles" ns2:desc="Abbreviated version of &apos;miles&apos;">ไมล์</string>
+    <string name="distance_unit_short_yards" ns2:desc="Abbreviated version of &apos;yards&apos;">หลา</string>
+    <string name="error_icon_content_description">ข้อผิดพลาด</string>
+    <string name="exposed_dropdown_menu_content_description">แสดงเมนูแบบเลื่อนลง</string>
+    <string name="guidance_announcements_basic_maneuver_bear_left" ns2:desc="Voice driving instruction - ">เบี่ยงซ้าย</string>
+    <string name="guidance_announcements_basic_maneuver_bear_right" ns2:desc="Voice driving instruction - ">เบี่ยงขวา</string>
+    <string name="guidance_announcements_basic_maneuver_keep_left" ns2:desc="Voice driving instruction - ">ชิดซ้าย</string>
+    <string name="guidance_announcements_basic_maneuver_keep_right" ns2:desc="Voice driving instruction - ">ชิดขวา</string>
+    <string name="guidance_announcements_basic_maneuver_left" ns2:desc="Voice driving instruction - ">เลี้ยวซ้าย</string>
+    <string name="guidance_announcements_basic_maneuver_right" ns2:desc="Voice driving instruction - ">เลี้ยวขวา</string>
+    <string name="guidance_announcements_basic_maneuver_sharp_left" ns2:desc="Voice driving instruction - ">เลี้ยวซ้ายหักศอก</string>
+    <string name="guidance_announcements_basic_maneuver_sharp_right" ns2:desc="Voice driving instruction - ">เลี้ยวขวาหักศอก</string>
+    <string name="guidance_announcements_basic_maneuver_straight" ns2:desc="Voice driving instruction - ">ตรงไป</string>
+    <string name="guidance_announcements_basic_maneuver_try_u_turn" ns2:desc="Voice driving instruction - ">กลับรถหากเป็นไปได้</string>
+    <string name="guidance_announcements_basic_maneuver_u_turn" ns2:desc="Voice driving instruction - ">กลับรถ</string>
+    <string name="guidance_announcements_combined_sentence_format" ns2:desc="Combined Instruction delimiter ">%s, จากนั้น %s</string>
+    <string name="guidance_announcements_few_feet_for" ns2:desc="Voice driving instruction - &apos;for {3/4} feet&apos;">ระยะทาง %d ฟุต</string>
+    <string name="guidance_announcements_few_feet_in" ns2:desc="Voice driving instruction - &apos;In {3/4} feet&apos;">อีก %d ฟุต</string>
+    <string name="guidance_announcements_few_kilometres_for" ns2:desc="Voice driving instruction - &apos;for {3/4} kilometres&apos;">ระยะทาง %d กิโลเมตร</string>
+    <string name="guidance_announcements_few_kilometres_in" ns2:desc="Voice driving instruction - &apos;In {3/4} kilometres&apos;">อีก %d กิโลเมตร</string>
+    <string name="guidance_announcements_few_meters_for" ns2:desc="Voice driving instruction - &apos;for {3/4} metres&apos;">ระยะทาง %d เมตร</string>
+    <string name="guidance_announcements_few_meters_in" ns2:desc="Voice driving instruction - &apos;In {3/4} metres&apos;">อีก %d เมตร</string>
+    <string name="guidance_announcements_few_miles_for" ns2:desc="Voice driving instruction - &apos;for {3/4} miles&apos;">ระยะทาง %d ไมล์</string>
+    <string name="guidance_announcements_few_miles_in" ns2:desc="Voice driving instruction - &apos;In {3/4} miles&apos;">อีก %d ไมล์</string>
+    <string name="guidance_announcements_few_yards_for" ns2:desc="Voice driving instruction - &apos;for {3/4} yards&apos;">ระยะทาง %d หลา</string>
+    <string name="guidance_announcements_few_yards_in" ns2:desc="Voice driving instruction - &apos;In {3/4} yards&apos;">อีก %d หลา</string>
+    <string name="guidance_announcements_float_unit_feet_for" ns2:desc="Voice driving instruction - &apos;for 10.5 feet&apos;">ระยะทาง %.1f ฟุต</string>
+    <string name="guidance_announcements_float_unit_feet_in" ns2:desc="Voice driving instruction - &apos;In 10.5 feet&apos;">อีก %.1f ฟุต</string>
+    <string name="guidance_announcements_float_unit_kilometers_for" ns2:desc="Voice driving instruction - &apos;for 1.5 kilometres&apos;">ระยะทาง %.1f กิโลเมตร</string>
+    <string name="guidance_announcements_float_unit_kilometers_in" ns2:desc="Voice driving instruction - &apos;In 1.5 kilometres&apos;">อีก %.1f กิโลเมตร</string>
+    <string name="guidance_announcements_float_unit_meters_for" ns2:desc="Voice driving instruction - &apos;for 10.5 metres&apos;">ระยะทาง %.1f เมตร</string>
+    <string name="guidance_announcements_float_unit_meters_in" ns2:desc="Voice driving instruction - &apos;In 10.5 metres&apos;">อีก %.1f เมตร</string>
+    <string name="guidance_announcements_float_unit_miles_for" ns2:desc="Voice driving instruction - &apos;for 10.5 miles&apos;">ระยะทาง %.1f ไมล์</string>
+    <string name="guidance_announcements_float_unit_miles_in" ns2:desc="Voice driving instruction - &apos;In 10.5 miles&apos;">อีก %.1f ไมล์</string>
+    <string name="guidance_announcements_float_unit_yards_for" ns2:desc="Voice driving instruction - &apos;for 10.5 yards&apos;">ระยะทาง %.1f หลา</string>
+    <string name="guidance_announcements_float_unit_yards_in" ns2:desc="Voice driving instruction - &apos;In 10.5 yards&apos;">อีก %.1f หลา</string>
+    <string name="guidance_announcements_half_mile_for" ns2:desc="Voice driving instruction - &apos;for half a mile&apos;">เป็นระยะทาง 1/2 ไมล์</string>
+    <string name="guidance_announcements_half_mile_in" ns2:desc="Voice driving instruction - &apos;In half a mile&apos;">อีก 1/2 ไมล์</string>
+    <string name="guidance_announcements_itinerary_arrive" ns2:desc="Voice driving instruction - ">คุณจะถึงจุดหมาย</string>
+    <string name="guidance_announcements_itinerary_arrive_confirmation" ns2:desc="Voice driving instruction - ">คุณมาถึงจุดหมายแล้ว</string>
+    <string name="guidance_announcements_itinerary_arrive_left_pointer" ns2:desc="Voice driving instruction - &apos;You have reached your waypoint, it is on the left&apos;">อยู่ทางซ้าย</string>
+    <string name="guidance_announcements_itinerary_arrive_right_pointer" ns2:desc="Voice driving instruction - &apos;You have reached your waypoint, it is on the right&apos;">อยู่ทางขวา</string>
+    <string name="guidance_announcements_itinerary_departure" ns2:desc="Voice driving instruction - ">เริ่มขับรถ</string>
+    <string name="guidance_announcements_itinerary_waypoint" ns2:desc="Voice driving instruction - ">คุณจะถึงจุดแวะ</string>
+    <string name="guidance_announcements_itinerary_waypoint_confirmation" ns2:desc="Voice driving instruction - ">คุณมาถึงจุดแวะแล้ว</string>
+    <string name="guidance_announcements_many_feet_for" ns2:desc="Voice driving instruction - &apos;for 26 feet&apos;">ระยะทาง %d ฟุต</string>
+    <string name="guidance_announcements_many_feet_in" ns2:desc="Voice driving instruction - &apos;In 26 feet&apos;">อีก %d ฟุต</string>
+    <string name="guidance_announcements_many_kilometres_for" ns2:desc="Voice driving instruction - &apos;for 26 kilometres&apos;">ระยะทาง %d กิโลเมตร</string>
+    <string name="guidance_announcements_many_kilometres_in" ns2:desc="Voice driving instruction - &apos;In 26 kilometres&apos;">อีก %d กิโลเมตร</string>
+    <string name="guidance_announcements_many_meters_for" ns2:desc="Voice driving instruction - &apos;for 26 metres&apos;">ระยะทาง %d เมตร</string>
+    <string name="guidance_announcements_many_meters_in" ns2:desc="Voice driving instruction - &apos;In 26 metres&apos;">อีก %d เมตร</string>
+    <string name="guidance_announcements_many_miles_for" ns2:desc="Voice driving instruction - &apos;for 26 miles&apos;">ระยะทาง %d ไมล์</string>
+    <string name="guidance_announcements_many_miles_in" ns2:desc="Voice driving instruction - &apos;In 26 miles&apos;">อีก %d ไมล์</string>
+    <string name="guidance_announcements_many_yards_for" ns2:desc="Voice driving instruction - &apos;for 26 yards&apos;">ระยะทาง %d หลา</string>
+    <string name="guidance_announcements_many_yards_in" ns2:desc="Voice driving instruction - &apos;In 26 yards&apos;">อีก %d หลา</string>
+    <string name="guidance_announcements_motorway_maneuvers_enter_freeway" ns2:desc="Voice driving instruction - ">เข้าทางด่วน</string>
+    <string name="guidance_announcements_motorway_maneuvers_enter_highway" ns2:desc="Voice driving instruction - ">เข้าทางด่วน</string>
+    <string name="guidance_announcements_motorway_maneuvers_enter_motorway" ns2:desc="Voice driving instruction - ">เข้าทางด่วน</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_left_no_number" ns2:desc="Voice driving instruction - ">ใช้ทางออกทางซ้าย</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_left_with_number" ns2:desc="Voice driving instruction - &apos;Take exit {exit number(s), for example &apos;10, 13-15&apos;} on the left&apos;">ใช้ทางออก %s ทางซ้าย</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_no_direction_no_number" ns2:desc="Voice driving instruction - ">ใช้ทางออก</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_number" ns2:desc="Voice driving instruction - Roundabout exit N (short)">ใช้ทางออก %s</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_right_no_number" ns2:desc="Voice driving instruction - ">ใช้ทางออกทางขวา</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_right_with_number" ns2:desc="Voice driving instruction - &apos;Take exit {exit number(s), for example &apos;10, 13-15&apos;} on the right&apos;">ใช้ทางออก %s ทางขวา</string>
+    <string name="guidance_announcements_one_and_half_mile_for" ns2:desc="Voice driving instruction - &apos;for one and a half miles&apos;">เป็นระยะทาง 1 และ 1/2 ไมล์</string>
+    <string name="guidance_announcements_one_and_half_mile_in" ns2:desc="Voice driving instruction - &apos;In one and a half miles&apos;">อีก 1 และ 1/2 ไมล์</string>
+    <string name="guidance_announcements_one_and_quarter_mile_for" ns2:desc="Voice driving instruction - &apos;for one and a quarter miles&apos;">เป็นระยะทาง 1 และ 1/4 ไมล์</string>
+    <string name="guidance_announcements_one_and_quarter_mile_in" ns2:desc="Voice driving instruction - &apos;In one and a quarter miles&apos;">อีก 1 และ 1/4 ไมล์</string>
+    <string name="guidance_announcements_one_and_three_quarters_mile_for" ns2:desc="Voice driving instruction - &apos;for one and three quarter miles&apos;">เป็นระยะทาง 1 และ 3/4 ไมล์</string>
+    <string name="guidance_announcements_one_and_three_quarters_mile_in" ns2:desc="Voice driving instruction - &apos;In one and three quarter miles&apos;">อีก 1 และ 3/4 ไมล์</string>
+    <string name="guidance_announcements_one_foot_for" ns2:desc="Voice driving instruction - &apos;for 1 foot&apos;">ระยะทาง %d ฟุต</string>
+    <string name="guidance_announcements_one_foot_in" ns2:desc="Voice driving instruction - &apos;In 1 foot&apos;">อีก %d ฟุต</string>
+    <string name="guidance_announcements_one_kilometre_for" ns2:desc="Voice driving instruction - &apos;for 1 kilometre&apos;">ระยะทาง %d กิโลเมตร</string>
+    <string name="guidance_announcements_one_kilometre_in" ns2:desc="Voice driving instruction - &apos;In 1 kilometre&apos;">อีก %d กิโลเมตร</string>
+    <string name="guidance_announcements_one_meter_for" ns2:desc="Voice driving instruction - &apos;for 1 metre&apos;">ระยะทาง %d เมตร</string>
+    <string name="guidance_announcements_one_meter_in" ns2:desc="Voice driving instruction - &apos;In 1 metre&apos;">อีก %d เมตร</string>
+    <string name="guidance_announcements_one_mile_for" ns2:desc="Voice driving instruction - &apos;for 1 mile&apos;">ระยะทาง %d ไมล์</string>
+    <string name="guidance_announcements_one_mile_in" ns2:desc="Voice driving instruction - &apos;In 1 mile&apos;">อีก %d ไมล์</string>
+    <string name="guidance_announcements_one_yard_for" ns2:desc="Voice driving instruction - &apos;for 1 yard&apos;">ระยะทาง %d หลา</string>
+    <string name="guidance_announcements_one_yard_in" ns2:desc="Voice driving instruction - &apos;In 1 yard&apos;">อีก %d หลา</string>
+    <string name="guidance_announcements_onto_street_format" ns2:desc="Voice driving instruction - &apos;Turn onto -some street name-&apos;">เข้าสู่ %s</string>
+    <string name="guidance_announcements_other_feet_for" ns2:desc="Voice driving instruction - &apos;for 26 feet&apos;">ระยะทาง %d ฟุต</string>
+    <string name="guidance_announcements_other_feet_in" ns2:desc="Voice driving instruction - &apos;In 26 feet&apos;">อีก %d ฟุต</string>
+    <string name="guidance_announcements_other_kilometres_for" ns2:desc="Voice driving instruction - &apos;for 26 kilometres&apos;">ระยะทาง %d กิโลเมตร</string>
+    <string name="guidance_announcements_other_kilometres_in" ns2:desc="Voice driving instruction - &apos;In 26 kilometres&apos;">อีก %d กิโลเมตร</string>
+    <string name="guidance_announcements_other_meters_for" ns2:desc="Voice driving instruction - &apos;for 26 metres&apos;">ระยะทาง %d เมตร</string>
+    <string name="guidance_announcements_other_meters_in" ns2:desc="Voice driving instruction - &apos;In 26 metres&apos;">อีก %d เมตร</string>
+    <string name="guidance_announcements_other_miles_for" ns2:desc="Voice driving instruction - &apos;for 26 miles&apos;">ระยะทาง %d ไมล์</string>
+    <string name="guidance_announcements_other_miles_in" ns2:desc="Voice driving instruction - &apos;In 26 miles&apos;">อีก %d ไมล์</string>
+    <string name="guidance_announcements_other_yards_for" ns2:desc="Voice driving instruction - &apos;for 26 yards&apos;">ระยะทาง %d หลา</string>
+    <string name="guidance_announcements_other_yards_in" ns2:desc="Voice driving instruction - &apos;In 26 yards&apos;">อีก %d หลา</string>
+    <string name="guidance_announcements_quarter_mile_for" ns2:desc="Voice driving instruction - &apos;for a quarter of a mile&apos;">เป็นระยะทาง 1/4 ไมล์</string>
+    <string name="guidance_announcements_quarter_mile_in" ns2:desc="Voice driving instruction - &apos;In a quarter of a mile&apos;">อีก 1/4 ไมล์</string>
+    <string name="guidance_announcements_roundabout_exit_1" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">ทางออกที่ 1</string>
+    <string name="guidance_announcements_roundabout_exit_10" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">ทางออกที่ 10</string>
+    <string name="guidance_announcements_roundabout_exit_2" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">ทางออกที่ 2</string>
+    <string name="guidance_announcements_roundabout_exit_3" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">ทางออกที่ 3</string>
+    <string name="guidance_announcements_roundabout_exit_4" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">ทางออกที่ 4</string>
+    <string name="guidance_announcements_roundabout_exit_5" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">ทางออกที่ 5</string>
+    <string name="guidance_announcements_roundabout_exit_6" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">ทางออกที่ 6</string>
+    <string name="guidance_announcements_roundabout_exit_7" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">ทางออกที่ 7</string>
+    <string name="guidance_announcements_roundabout_exit_8" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">ทางออกที่ 8</string>
+    <string name="guidance_announcements_roundabout_exit_9" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">ทางออกที่ 9</string>
+    <string name="guidance_announcements_roundabout_left" ns2:desc="Voice driving instruction - ">เลี้ยวซ้าย</string>
+    <string name="guidance_announcements_roundabout_main_and_exit_number_sentence" ns2:desc="Combined Instruction delimiter ">%s, %s</string>
+    <string name="guidance_announcements_roundabout_pointer" ns2:desc="Voice driving instruction - ">ที่วงเวียน</string>
+    <string name="guidance_announcements_roundabout_right" ns2:desc="Voice driving instruction - ">เลี้ยวขวา</string>
+    <string name="guidance_announcements_roundabout_straight" ns2:desc="Voice driving instruction - ">ตรงไป</string>
+    <string name="guidance_announcements_roundabout_u_turn" ns2:desc="Voice driving instruction - ">กลับรถ</string>
+    <string name="guidance_announcements_special_follow_no_road_name" ns2:desc="Voice driving instruction - ">ไปตามถนน</string>
+    <string name="guidance_announcements_special_follow_road_name" ns2:desc="Voice driving instruction, will be followed by a road number and a distance string, e.g. &apos;Follow A4 for 6.2 KM&apos;">ไปตาม %s</string>
+    <string name="guidance_announcements_special_switch_main_road" ns2:desc="Voice driving instruction - ">สลับไปยังถนนหลัก</string>
+    <string name="guidance_announcements_special_switch_parallel_road" ns2:desc="Voice driving instruction - ">สลับไปยังถนนคู่ขนาน</string>
+    <string name="guidance_announcements_special_take_ferry" ns2:desc="Voice driving instruction - ">ขึ้นเรือข้ามฟาก</string>
+    <string name="guidance_announcements_three_quarters_mile_for" ns2:desc="Voice driving instruction - &apos;for three quarters of a mile&apos;">เป็นระยะทาง 3/4 ไมล์</string>
+    <string name="guidance_announcements_three_quarters_mile_in" ns2:desc="Voice driving instruction - &apos;In three quarters of a mile&apos;">อีก 3/4 ไมล์</string>
+    <string name="guidance_announcements_two_and_half_mile_for" ns2:desc="Voice driving instruction - &apos;for two and a half miles&apos;">เป็นระยะทาง 2 และ 1/2 ไมล์</string>
+    <string name="guidance_announcements_two_and_half_mile_in" ns2:desc="Voice driving instruction - &apos;In two and a half miles&apos;">อีก 2 และ 1/2 ไมล์</string>
+    <string name="guidance_announcements_two_and_quarter_mile_for" ns2:desc="Voice driving instruction - &apos;for two and a quarter miles&apos;">เป็นระยะทาง 2 และ 1/4 ไมล์</string>
+    <string name="guidance_announcements_two_and_quarter_mile_in" ns2:desc="Voice driving instruction - &apos;In two and a quarter miles&apos;">อีก 2 และ 1/4 ไมล์</string>
+    <string name="guidance_announcements_two_and_three_quarters_mile_for" ns2:desc="Voice driving instruction - &apos;for two and three quarter miles&apos;">เป็นระยะทาง 2 และ 3/4 ไมล์</string>
+    <string name="guidance_announcements_two_and_three_quarters_mile_in" ns2:desc="Voice driving instruction - &apos;In two and three quarter miles&apos;">อีก 2 และ 3/4 ไมล์</string>
+    <string name="guidance_announcements_two_feet_for" ns2:desc="Voice driving instruction - &apos;for 2 feet&apos;">ระยะทาง %d ฟุต</string>
+    <string name="guidance_announcements_two_feet_in" ns2:desc="Voice driving instruction - &apos;In 2 feet&apos;">อีก %d ฟุต</string>
+    <string name="guidance_announcements_two_kilometres_for" ns2:desc="Voice driving instruction - &apos;for 2 kilometres&apos;">ระยะทาง %d กิโลเมตร</string>
+    <string name="guidance_announcements_two_kilometres_in" ns2:desc="Voice driving instruction - &apos;In 2 kilometres&apos;">อีก %d กิโลเมตร</string>
+    <string name="guidance_announcements_two_meters_for" ns2:desc="Voice driving instruction - &apos;for 2 metres&apos;">ระยะทาง %d เมตร</string>
+    <string name="guidance_announcements_two_meters_in" ns2:desc="Voice driving instruction - &apos;In 2 metres&apos;">อีก %d เมตร</string>
+    <string name="guidance_announcements_two_miles_for" ns2:desc="Voice driving instruction - &apos;for 2 miles&apos;">ระยะทาง %d ไมล์</string>
+    <string name="guidance_announcements_two_miles_in" ns2:desc="Voice driving instruction - &apos;In 2 miles&apos;">อีก %d ไมล์</string>
+    <string name="guidance_announcements_two_yards_for" ns2:desc="Voice driving instruction - &apos;for 2 yards&apos;">ระยะทาง %d หลา</string>
+    <string name="guidance_announcements_two_yards_in" ns2:desc="Voice driving instruction - &apos;In 2 yards&apos;">อีก %d หลา</string>
+    <string name="guidance_announcements_zero_feet_for" ns2:desc="Voice driving instruction - &apos;for 0 feet&apos;">ระยะทาง %d ฟุต</string>
+    <string name="guidance_announcements_zero_feet_in" ns2:desc="Voice driving instruction - &apos;In 0 feet&apos;">อีก %d ฟุต</string>
+    <string name="guidance_announcements_zero_kilometres_for" ns2:desc="Voice driving instruction - &apos;for 0 kilometres&apos;">ระยะทาง %d กิโลเมตร</string>
+    <string name="guidance_announcements_zero_kilometres_in" ns2:desc="Voice driving instruction - &apos;In 0 kilometres&apos;">อีก %d กิโลเมตร</string>
+    <string name="guidance_announcements_zero_meters_for" ns2:desc="Voice driving instruction - &apos;for 0 metres&apos;">ระยะทาง %d เมตร</string>
+    <string name="guidance_announcements_zero_meters_in" ns2:desc="Voice driving instruction - &apos;In 0 metres&apos;">อีก %d เมตร</string>
+    <string name="guidance_announcements_zero_miles_for" ns2:desc="Voice driving instruction - &apos;for 0 miles&apos;">ระยะทาง %d ไมล์</string>
+    <string name="guidance_announcements_zero_miles_in" ns2:desc="Voice driving instruction - &apos;In 0 miles&apos;">อีก %d ไมล์</string>
+    <string name="guidance_announcements_zero_yards_for" ns2:desc="Voice driving instruction - &apos;for 0 yards&apos;">ระยะทาง %d หลา</string>
+    <string name="guidance_announcements_zero_yards_in" ns2:desc="Voice driving instruction - &apos;In 0 yards&apos;">อีก %d หลา</string>
+    <string name="icon_content_description">ไอคอนกล่องโต้ตอบ</string>
+    <string name="item_view_role_description">แท็บ</string>
+    <string name="material_clock_toggle_content_description">เลือก AM หรือ PM</string>
+    <string name="material_hour_24h_suffix">%1$s ชั่วโมง</string>
+    <string name="material_hour_selection">เลือกชั่วโมง</string>
+    <string name="material_hour_suffix">%1$s นาฬิกา</string>
+    <string name="material_minute_selection">เลือกนาที</string>
+    <string name="material_minute_suffix">%1$s นาที</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">สลับไปโหมดนาฬิกาเพื่อป้อนเวลา</string>
+    <string name="material_timepicker_hour">ชั่วโมง</string>
+    <string name="material_timepicker_minute">นาที</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">เลือกเวลา</string>
+    <string name="material_timepicker_text_input_mode_description">สลับไปโหมดป้อนข้อความเพื่อป้อนเวลา</string>
+    <string name="mtrl_badge_numberless_content_description">การแจ้งเตือนใหม่</string>
+    <string name="mtrl_chip_close_icon_content_description">นำ %1$s ออก</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns3:ignore="PluralsCandidate">การแจ้งเตือนใหม่มากกว่า %1$d รายการ</string>
+    <string name="mtrl_picker_a11y_next_month">เปลี่ยนไปที่เดือนถัดไป</string>
+    <string name="mtrl_picker_a11y_prev_month">เปลี่ยนไปที่เดือนก่อนหน้า</string>
+    <string name="mtrl_picker_announce_current_range_selection">การเลือกวันที่เริ่มต้น: %1$s – การเลือกวันที่สิ้นสุด: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">การเลือกในปัจจุบัน: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">ไม่มี</string>
+    <string name="mtrl_picker_cancel">ยกเลิก</string>
+    <string name="mtrl_picker_confirm">ตกลง</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">เลือกวันที่</string>
+    <string name="mtrl_picker_date_header_unselected">วันที่ที่เลือก</string>
+    <string name="mtrl_picker_day_of_week_column_header">คอลัมน์ของวัน: %1$s</string>
+    <string name="mtrl_picker_end_date_description">วันที่สิ้นสุด %1$s</string>
+    <string name="mtrl_picker_invalid_format">รูปแบบไม่ถูกต้อง</string>
+    <string name="mtrl_picker_invalid_format_example">ตัวอย่าง: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">ใช้: %1$s</string>
+    <string name="mtrl_picker_invalid_range">ช่วงไม่ถูกต้อง</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">ไปยังปีปัจจุบัน %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">ไปที่ปี %1$d</string>
+    <string name="mtrl_picker_out_of_range">วันที่ไม่อยู่ในช่วงที่อนุญาต: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">วันที่เริ่มต้น – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – วันที่สิ้นสุด</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">เลือกช่วง</string>
+    <string name="mtrl_picker_range_header_unselected">วันที่เริ่มต้น – วันที่สิ้นสุด</string>
+    <string name="mtrl_picker_save">บันทึก</string>
+    <string name="mtrl_picker_start_date_description">วันที่เริ่มต้น %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">วันที่</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">วันที่สิ้นสุด</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">วันที่เริ่มต้น</string>
+    <string name="mtrl_picker_text_input_day_abbr">ว</string>
+    <string name="mtrl_picker_text_input_month_abbr">ด</string>
+    <string name="mtrl_picker_text_input_year_abbr">ป</string>
+    <string name="mtrl_picker_today_description">วันนี้ %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">สลับไปใช้โหมดป้อนข้อมูลปฏิทิน</string>
+    <string name="mtrl_picker_toggle_to_day_selection">แตะเพื่อเปลี่ยนเป็นมุมมองปฏิทิน</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">สลับไปใช้โหมดป้อนข้อมูลข้อความ</string>
+    <string name="mtrl_picker_toggle_to_year_selection">แตะเพื่อเปลี่ยนเป็นมุมมองปี</string>
+    <string name="mtrl_timepicker_cancel">ยกเลิก</string>
+    <string name="mtrl_timepicker_confirm">ตกลง</string>
+    <string name="password_toggle_content_description">แสดงรหัสผ่าน</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"ค้นหา"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tomtom_navigation_arrival_panel_arriving_at" ns2:desc="NIP message - ">มาถึงที่</string>
+    <string name="tomtom_navigation_arrival_panel_default_location_message" ns2:desc="NIP message -">ตำแหน่งที่เลือก\n%1$f\n%2$f</string>
+    <string name="tomtom_navigation_arrival_panel_finish" ns2:desc="NIP message - ">เสร็จสิ้น</string>
+    <string name="tomtom_navigation_arrival_time_label" ns2:desc="NIP message - ">จุดหมาย</string>
+    <string name="tomtom_navigation_combined_instruction_panel_then" ns2:desc="NIP message - ">แล้ว</string>
+    <string name="tomtom_navigation_kmh" ns2:desc="NIP message - Abbreviated version of &apos;kilometres per hour&apos;">กม./ชม.</string>
+    <string name="tomtom_navigation_layout_preview_arrival_distance" ns2:desc="NIP message - ">--</string>
+    <string name="tomtom_navigation_layout_preview_arrival_distance_unit" ns2:desc="NIP message - Abbreviated version of &apos;kilometres&apos;">กม.</string>
+    <string name="tomtom_navigation_layout_preview_arrival_time" ns2:desc="NIP message - ">--:--</string>
+    <string name="tomtom_navigation_layout_preview_current_street" ns2:desc="NIP message - ">ถนนที่ไม่รู้จัก</string>
+    <string name="tomtom_navigation_layout_preview_guidance_instruction_text" ns2:desc="NIP message - ">--</string>
+    <string name="tomtom_navigation_layout_preview_nip_distance" ns2:desc="NIP message - ">900</string>
+    <string name="tomtom_navigation_layout_preview_nip_distance_unit" ns2:desc="NIP message - Abbreviated version of &apos;metres&apos;">ม.</string>
+    <string name="tomtom_navigation_layout_preview_travel_time" ns2:desc="NIP message - ">--</string>
+    <string name="tomtom_navigation_layout_preview_travel_time_unit" ns2:desc="NIP message - Abbreviated version of &apos;minutes&apos;">นาที</string>
+    <string name="tomtom_navigation_metersPerSecond" ns2:desc="NIP message - Abbreviated version of &apos;metres per second&apos;">ม./วินาที</string>
+    <string name="tomtom_navigation_mph" ns2:desc="NIP message - Abbreviated version of &apos;miles per hour&apos;">ไมล์/ชม</string>
+    <string name="tomtom_navigation_routeCalculation" ns2:desc="Temporary NIP message before road will be calculated">กำลังคำนวณเส้นทาง…</string>
+    <string name="tomtom_navigation_route_updated_panel_route_updated" ns2:desc="NIP message - ">อัพเดทเส้นทางแล้ว</string>
+    <string name="tomtom_navigation_time_unit_short_hour" ns2:desc="NIP message - Abbreviated version of &apos;hour&apos;">ชั่วโมง</string>
+    <string name="tomtom_navigation_time_unit_short_minute" ns2:desc="NIP message - Abbreviated version of &apos;minute&apos;">นาที</string>
+    <string name="tomtom_navigation_waypoint_arrival_panel_charge_unknown">ไม่รู้จัก</string>
+    <string name="tomtom_navigation_waypoint_arrival_panel_charging_station_title">สถานีชาร์จ</string>
+    <string name="tomtom_navigation_waypoint_arrival_panel_continue_button">ดำเนินการต่อ</string>
+    <string name="tomtom_navigation_waypoint_arrival_panel_current_charge">การชาร์จในปัจจุบัน</string>
+    <string name="tomtom_navigation_waypoint_arrival_panel_general_title">จุดแวะ</string>
+    <string name="tomtom_navigation_waypoint_arrival_panel_target_charge">การชาร์จเป้าหมาย</string>
+</resources>

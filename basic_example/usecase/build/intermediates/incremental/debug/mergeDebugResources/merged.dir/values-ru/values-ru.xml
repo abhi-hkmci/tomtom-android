@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/apk/res-auto" xmlns:ns3="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d новое уведомление</item>
+    <item quantity="few">%d новых уведомления</item>
+    <item quantity="many">%d новых уведомлений</item>
+    <item quantity="other">%d нового уведомления</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="bottomsheet_action_collapse">Свернуть нижний экран</string>
+    <string name="bottomsheet_action_expand">Развернуть нижний экран</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="bottomsheet_drag_handle_clicked">Двойное нажатие на маркер перемещения</string>
+    <string name="bottomsheet_drag_handle_content_description">Маркер перемещения</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Ответить"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Видео"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Отклонить"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Завершить"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Входящий вызов"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Текущий вызов"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Фильтрация входящего вызова"</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Включить</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Обновить</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
+    <string name="distance_unit_short_feet" ns2:desc="Abbreviated version of &apos;feet&apos;">фут</string>
+    <string name="distance_unit_short_kilometers" ns2:desc="Abbreviated version of &apos;kilometres&apos;">км</string>
+    <string name="distance_unit_short_meters" ns2:desc="Abbreviated version of &apos;metres&apos;">м</string>
+    <string name="distance_unit_short_miles" ns2:desc="Abbreviated version of &apos;miles&apos;">миль</string>
+    <string name="distance_unit_short_yards" ns2:desc="Abbreviated version of &apos;yards&apos;">ярд</string>
+    <string name="error_icon_content_description">Ошибка</string>
+    <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
+    <string name="guidance_announcements_basic_maneuver_bear_left" ns2:desc="Voice driving instruction - ">Примите влево</string>
+    <string name="guidance_announcements_basic_maneuver_bear_right" ns2:desc="Voice driving instruction - ">Примите вправо</string>
+    <string name="guidance_announcements_basic_maneuver_keep_left" ns2:desc="Voice driving instruction - ">Держитесь левой стороны</string>
+    <string name="guidance_announcements_basic_maneuver_keep_right" ns2:desc="Voice driving instruction - ">Держитесь правой стороны</string>
+    <string name="guidance_announcements_basic_maneuver_left" ns2:desc="Voice driving instruction - ">Поверните налево</string>
+    <string name="guidance_announcements_basic_maneuver_right" ns2:desc="Voice driving instruction - ">Поверните направо</string>
+    <string name="guidance_announcements_basic_maneuver_sharp_left" ns2:desc="Voice driving instruction - ">Резко поверните влево</string>
+    <string name="guidance_announcements_basic_maneuver_sharp_right" ns2:desc="Voice driving instruction - ">Резко поверните вправо</string>
+    <string name="guidance_announcements_basic_maneuver_straight" ns2:desc="Voice driving instruction - ">Двигайтесь прямо</string>
+    <string name="guidance_announcements_basic_maneuver_try_u_turn" ns2:desc="Voice driving instruction - ">Развернитесь при наличии возможности</string>
+    <string name="guidance_announcements_basic_maneuver_u_turn" ns2:desc="Voice driving instruction - ">Развернитесь</string>
+    <string name="guidance_announcements_combined_sentence_format" ns2:desc="Combined Instruction delimiter ">%s, затем %s</string>
+    <string name="guidance_announcements_few_feet_for" ns2:desc="Voice driving instruction - &apos;for {3/4} feet&apos;">следующие %d фута</string>
+    <string name="guidance_announcements_few_feet_in" ns2:desc="Voice driving instruction - &apos;In {3/4} feet&apos;">Через %d фута</string>
+    <string name="guidance_announcements_few_kilometres_for" ns2:desc="Voice driving instruction - &apos;for {3/4} kilometres&apos;">следующие %d километра</string>
+    <string name="guidance_announcements_few_kilometres_in" ns2:desc="Voice driving instruction - &apos;In {3/4} kilometres&apos;">Через %d километра</string>
+    <string name="guidance_announcements_few_meters_for" ns2:desc="Voice driving instruction - &apos;for {3/4} metres&apos;">следующие %d метра</string>
+    <string name="guidance_announcements_few_meters_in" ns2:desc="Voice driving instruction - &apos;In {3/4} metres&apos;">Через %d метра</string>
+    <string name="guidance_announcements_few_miles_for" ns2:desc="Voice driving instruction - &apos;for {3/4} miles&apos;">следующие %d мили</string>
+    <string name="guidance_announcements_few_miles_in" ns2:desc="Voice driving instruction - &apos;In {3/4} miles&apos;">Через %d мили</string>
+    <string name="guidance_announcements_few_yards_for" ns2:desc="Voice driving instruction - &apos;for {3/4} yards&apos;">следующие %d ярда</string>
+    <string name="guidance_announcements_few_yards_in" ns2:desc="Voice driving instruction - &apos;In {3/4} yards&apos;">Через %d ярда</string>
+    <string name="guidance_announcements_float_unit_feet_for" ns2:desc="Voice driving instruction - &apos;for 10.5 feet&apos;">следующие %.1f фута</string>
+    <string name="guidance_announcements_float_unit_feet_in" ns2:desc="Voice driving instruction - &apos;In 10.5 feet&apos;">Через %.1f фута</string>
+    <string name="guidance_announcements_float_unit_kilometers_for" ns2:desc="Voice driving instruction - &apos;for 1.5 kilometres&apos;">следующие %.1f километра</string>
+    <string name="guidance_announcements_float_unit_kilometers_in" ns2:desc="Voice driving instruction - &apos;In 1.5 kilometres&apos;">Через %.1f километра</string>
+    <string name="guidance_announcements_float_unit_meters_for" ns2:desc="Voice driving instruction - &apos;for 10.5 metres&apos;">следующие %.1f метра</string>
+    <string name="guidance_announcements_float_unit_meters_in" ns2:desc="Voice driving instruction - &apos;In 10.5 metres&apos;">Через %.1f метра</string>
+    <string name="guidance_announcements_float_unit_miles_for" ns2:desc="Voice driving instruction - &apos;for 10.5 miles&apos;">следующие %.1f мили</string>
+    <string name="guidance_announcements_float_unit_miles_in" ns2:desc="Voice driving instruction - &apos;In 10.5 miles&apos;">Через %.1f мили</string>
+    <string name="guidance_announcements_float_unit_yards_for" ns2:desc="Voice driving instruction - &apos;for 10.5 yards&apos;">следующие %.1f ярда</string>
+    <string name="guidance_announcements_float_unit_yards_in" ns2:desc="Voice driving instruction - &apos;In 10.5 yards&apos;">Через %.1f ярда</string>
+    <string name="guidance_announcements_half_mile_for" ns2:desc="Voice driving instruction - &apos;for half a mile&apos;">следующие полмили</string>
+    <string name="guidance_announcements_half_mile_in" ns2:desc="Voice driving instruction - &apos;In half a mile&apos;">Через полмили</string>
+    <string name="guidance_announcements_itinerary_arrive" ns2:desc="Voice driving instruction - ">Вы прибудете в пункт назначения</string>
+    <string name="guidance_announcements_itinerary_arrive_confirmation" ns2:desc="Voice driving instruction - ">Вы прибыли в пункт назначения</string>
+    <string name="guidance_announcements_itinerary_arrive_left_pointer" ns2:desc="Voice driving instruction - &apos;You have reached your waypoint, it is on the left&apos;">Он расположен слева</string>
+    <string name="guidance_announcements_itinerary_arrive_right_pointer" ns2:desc="Voice driving instruction - &apos;You have reached your waypoint, it is on the right&apos;">Он расположен справа</string>
+    <string name="guidance_announcements_itinerary_departure" ns2:desc="Voice driving instruction - ">Начните движение</string>
+    <string name="guidance_announcements_itinerary_waypoint" ns2:desc="Voice driving instruction - ">Вы прибудете на остановку</string>
+    <string name="guidance_announcements_itinerary_waypoint_confirmation" ns2:desc="Voice driving instruction - ">Вы прибыли на остановку</string>
+    <string name="guidance_announcements_many_feet_for" ns2:desc="Voice driving instruction - &apos;for 26 feet&apos;">следующие %d футов</string>
+    <string name="guidance_announcements_many_feet_in" ns2:desc="Voice driving instruction - &apos;In 26 feet&apos;">Через %d футов</string>
+    <string name="guidance_announcements_many_kilometres_for" ns2:desc="Voice driving instruction - &apos;for 26 kilometres&apos;">следующие %d километров</string>
+    <string name="guidance_announcements_many_kilometres_in" ns2:desc="Voice driving instruction - &apos;In 26 kilometres&apos;">Через %d километров</string>
+    <string name="guidance_announcements_many_meters_for" ns2:desc="Voice driving instruction - &apos;for 26 metres&apos;">следующие %d метров</string>
+    <string name="guidance_announcements_many_meters_in" ns2:desc="Voice driving instruction - &apos;In 26 metres&apos;">Через %d метров</string>
+    <string name="guidance_announcements_many_miles_for" ns2:desc="Voice driving instruction - &apos;for 26 miles&apos;">следующие %d миль</string>
+    <string name="guidance_announcements_many_miles_in" ns2:desc="Voice driving instruction - &apos;In 26 miles&apos;">Через %d миль</string>
+    <string name="guidance_announcements_many_yards_for" ns2:desc="Voice driving instruction - &apos;for 26 yards&apos;">следующие %d ярдов</string>
+    <string name="guidance_announcements_many_yards_in" ns2:desc="Voice driving instruction - &apos;In 26 yards&apos;">Через %d ярдов</string>
+    <string name="guidance_announcements_motorway_maneuvers_enter_freeway" ns2:desc="Voice driving instruction - ">Выезжайте на автомагистраль</string>
+    <string name="guidance_announcements_motorway_maneuvers_enter_highway" ns2:desc="Voice driving instruction - ">Выезжайте на автомагистраль</string>
+    <string name="guidance_announcements_motorway_maneuvers_enter_motorway" ns2:desc="Voice driving instruction - ">Выезжайте на автомагистраль</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_left_no_number" ns2:desc="Voice driving instruction - ">Сверните налево на съезде </string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_left_with_number" ns2:desc="Voice driving instruction - &apos;Take exit {exit number(s), for example &apos;10, 13-15&apos;} on the left&apos;">Сверните налево на съезде %s</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_no_direction_no_number" ns2:desc="Voice driving instruction - ">Сверните на съезде</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_number" ns2:desc="Voice driving instruction - Roundabout exit N (short)">Сверните на съезде %s</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_right_no_number" ns2:desc="Voice driving instruction - ">Сверните направо на съезде</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_right_with_number" ns2:desc="Voice driving instruction - &apos;Take exit {exit number(s), for example &apos;10, 13-15&apos;} on the right&apos;">Сверните направо на съезде %s</string>
+    <string name="guidance_announcements_one_and_half_mile_for" ns2:desc="Voice driving instruction - &apos;for one and a half miles&apos;">следующие полторы мили</string>
+    <string name="guidance_announcements_one_and_half_mile_in" ns2:desc="Voice driving instruction - &apos;In one and a half miles&apos;">Через полторы мили</string>
+    <string name="guidance_announcements_one_and_quarter_mile_for" ns2:desc="Voice driving instruction - &apos;for one and a quarter miles&apos;">следующую одну с четвертью мили</string>
+    <string name="guidance_announcements_one_and_quarter_mile_in" ns2:desc="Voice driving instruction - &apos;In one and a quarter miles&apos;">Через одну с четвертью мили</string>
+    <string name="guidance_announcements_one_and_three_quarters_mile_for" ns2:desc="Voice driving instruction - &apos;for one and three quarter miles&apos;">следующие одну и три четверти мили</string>
+    <string name="guidance_announcements_one_and_three_quarters_mile_in" ns2:desc="Voice driving instruction - &apos;In one and three quarter miles&apos;">Через одну и три четверти мили</string>
+    <string name="guidance_announcements_one_foot_for" ns2:desc="Voice driving instruction - &apos;for 1 foot&apos;">следующий %d фут</string>
+    <string name="guidance_announcements_one_foot_in" ns2:desc="Voice driving instruction - &apos;In 1 foot&apos;">Через %d фут</string>
+    <string name="guidance_announcements_one_kilometre_for" ns2:desc="Voice driving instruction - &apos;for 1 kilometre&apos;">следующий %d километр</string>
+    <string name="guidance_announcements_one_kilometre_in" ns2:desc="Voice driving instruction - &apos;In 1 kilometre&apos;">Через %d километр</string>
+    <string name="guidance_announcements_one_meter_for" ns2:desc="Voice driving instruction - &apos;for 1 metre&apos;">следующий %d метр</string>
+    <string name="guidance_announcements_one_meter_in" ns2:desc="Voice driving instruction - &apos;In 1 metre&apos;">Через %d метр</string>
+    <string name="guidance_announcements_one_mile_for" ns2:desc="Voice driving instruction - &apos;for 1 mile&apos;">следующую %d милю</string>
+    <string name="guidance_announcements_one_mile_in" ns2:desc="Voice driving instruction - &apos;In 1 mile&apos;">Через %d милю</string>
+    <string name="guidance_announcements_one_yard_for" ns2:desc="Voice driving instruction - &apos;for 1 yard&apos;">следующий %d ярд</string>
+    <string name="guidance_announcements_one_yard_in" ns2:desc="Voice driving instruction - &apos;In 1 yard&apos;">Через %d ярд</string>
+    <string name="guidance_announcements_onto_street_format" ns2:desc="Voice driving instruction - &apos;Turn onto -some street name-&apos;">на %s</string>
+    <string name="guidance_announcements_other_feet_for" ns2:desc="Voice driving instruction - &apos;for 26 feet&apos;">следующие %d футов</string>
+    <string name="guidance_announcements_other_feet_in" ns2:desc="Voice driving instruction - &apos;In 26 feet&apos;">Через %d футов</string>
+    <string name="guidance_announcements_other_kilometres_for" ns2:desc="Voice driving instruction - &apos;for 26 kilometres&apos;">следующие %d километров</string>
+    <string name="guidance_announcements_other_kilometres_in" ns2:desc="Voice driving instruction - &apos;In 26 kilometres&apos;">Через %d километров</string>
+    <string name="guidance_announcements_other_meters_for" ns2:desc="Voice driving instruction - &apos;for 26 metres&apos;">следующие %d метров</string>
+    <string name="guidance_announcements_other_meters_in" ns2:desc="Voice driving instruction - &apos;In 26 metres&apos;">Через %d метров</string>
+    <string name="guidance_announcements_other_miles_for" ns2:desc="Voice driving instruction - &apos;for 26 miles&apos;">следующие %d миль</string>
+    <string name="guidance_announcements_other_miles_in" ns2:desc="Voice driving instruction - &apos;In 26 miles&apos;">Через %d миль</string>
+    <string name="guidance_announcements_other_yards_for" ns2:desc="Voice driving instruction - &apos;for 26 yards&apos;">следующие %d ярда</string>
+    <string name="guidance_announcements_other_yards_in" ns2:desc="Voice driving instruction - &apos;In 26 yards&apos;">Через %d ярда</string>
+    <string name="guidance_announcements_quarter_mile_for" ns2:desc="Voice driving instruction - &apos;for a quarter of a mile&apos;">следующую четверть мили</string>
+    <string name="guidance_announcements_quarter_mile_in" ns2:desc="Voice driving instruction - &apos;In a quarter of a mile&apos;">Через четверть мили</string>
+    <string name="guidance_announcements_roundabout_exit_1" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Первый съезд</string>
+    <string name="guidance_announcements_roundabout_exit_10" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Десятый съезд</string>
+    <string name="guidance_announcements_roundabout_exit_2" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Второй съезд</string>
+    <string name="guidance_announcements_roundabout_exit_3" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Третий съезд</string>
+    <string name="guidance_announcements_roundabout_exit_4" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Четвертый съезд</string>
+    <string name="guidance_announcements_roundabout_exit_5" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Пятый съезд</string>
+    <string name="guidance_announcements_roundabout_exit_6" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Шестой съезд</string>
+    <string name="guidance_announcements_roundabout_exit_7" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Седьмой съезд</string>
+    <string name="guidance_announcements_roundabout_exit_8" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Восьмой съезд</string>
+    <string name="guidance_announcements_roundabout_exit_9" ns2:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Девятый съезд</string>
+    <string name="guidance_announcements_roundabout_left" ns2:desc="Voice driving instruction - ">Поверните налево</string>
+    <string name="guidance_announcements_roundabout_main_and_exit_number_sentence" ns2:desc="Combined Instruction delimiter ">%s, %s</string>
+    <string name="guidance_announcements_roundabout_pointer" ns2:desc="Voice driving instruction - ">На круговой развязке</string>
+    <string name="guidance_announcements_roundabout_right" ns2:desc="Voice driving instruction - ">Поверните направо</string>
+    <string name="guidance_announcements_roundabout_straight" ns2:desc="Voice driving instruction - ">Двигайтесь прямо</string>
+    <string name="guidance_announcements_roundabout_u_turn" ns2:desc="Voice driving instruction - ">Развернитесь</string>
+    <string name="guidance_announcements_special_follow_no_road_name" ns2:desc="Voice driving instruction - ">Следуйте по дороге</string>
+    <string name="guidance_announcements_special_follow_road_name" ns2:desc="Voice driving instruction, will be followed by a road number and a distance string, e.g. &apos;Follow A4 for 6.2 KM&apos;">Следуйте по %s</string>
+    <string name="guidance_announcements_special_switch_main_road" ns2:desc="Voice driving instruction - ">Перестройтесь на главную дорогу</string>
+    <string name="guidance_announcements_special_switch_parallel_road" ns2:desc="Voice driving instruction - ">Перестройтесь на параллельную дорогу</string>
+    <string name="guidance_announcements_special_take_ferry" ns2:desc="Voice driving instruction - ">Воспользуйтесь паромом</string>
+    <string name="guidance_announcements_three_quarters_mile_for" ns2:desc="Voice driving instruction - &apos;for three quarters of a mile&apos;">следующие три четверти мили</string>
+    <string name="guidance_announcements_three_quarters_mile_in" ns2:desc="Voice driving instruction - &apos;In three quarters of a mile&apos;">Через три четверти мили</string>
+    <string name="guidance_announcements_two_and_half_mile_for" ns2:desc="Voice driving instruction - &apos;for two and a half miles&apos;">следующие две с половиной мили</string>
+    <string name="guidance_announcements_two_and_half_mile_in" ns2:desc="Voice driving instruction - &apos;In two and a half miles&apos;">Через две с половиной мили</string>
+    <string name="guidance_announcements_two_and_quarter_mile_for" ns2:desc="Voice driving instruction - &apos;for two and a quarter miles&apos;">следующие две с четвертью мили</string>
+    <string name="guidance_announcements_two_and_quarter_mile_in" ns2:desc="Voice driving instruction - &apos;In two and a quarter miles&apos;">Через две с четвертью мили</string>
+    <string name="guidance_announcements_two_and_three_quarters_mile_for" ns2:desc="Voice driving instruction - &apos;for two and three quarter miles&apos;">следующие две и три четверти мили</string>
+    <string name="guidance_announcements_two_and_three_quarters_mile_in" ns2:desc="Voice driving instruction - &apos;In two and three quarter miles&apos;">Через две и три четверти мили</string>
+    <string name="guidance_announcements_two_feet_for" ns2:desc="Voice driving instruction - &apos;for 2 feet&apos;">следующие %d фута</string>
+    <string name="guidance_announcements_two_feet_in" ns2:desc="Voice driving instruction - &apos;In 2 feet&apos;">Через %d фута</string>
+    <string name="guidance_announcements_two_kilometres_for" ns2:desc="Voice driving instruction - &apos;for 2 kilometres&apos;">следующие %d километра</string>
+    <string name="guidance_announcements_two_kilometres_in" ns2:desc="Voice driving instruction - &apos;In 2 kilometres&apos;">Через %d километра</string>
+    <string name="guidance_announcements_two_meters_for" ns2:desc="Voice driving instruction - &apos;for 2 metres&apos;">следующие %d метра</string>
+    <string name="guidance_announcements_two_meters_in" ns2:desc="Voice driving instruction - &apos;In 2 metres&apos;">Через %d метра</string>
+    <string name="guidance_announcements_two_miles_for" ns2:desc="Voice driving instruction - &apos;for 2 miles&apos;">следующие %d мили</string>
+    <string name="guidance_announcements_two_miles_in" ns2:desc="Voice driving instruction - &apos;In 2 miles&apos;">Через %d мили</string>
+    <string name="guidance_announcements_two_yards_for" ns2:desc="Voice driving instruction - &apos;for 2 yards&apos;">следующие %d ярда</string>
+    <string name="guidance_announcements_two_yards_in" ns2:desc="Voice driving instruction - &apos;In 2 yards&apos;">Через %d ярда</string>
+    <string name="guidance_announcements_zero_feet_for" ns2:desc="Voice driving instruction - &apos;for 0 feet&apos;">следующие %d футов</string>
+    <string name="guidance_announcements_zero_feet_in" ns2:desc="Voice driving instruction - &apos;In 0 feet&apos;">Через %d футов</string>
+    <string name="guidance_announcements_zero_kilometres_for" ns2:desc="Voice driving instruction - &apos;for 0 kilometres&apos;">следующие %d километров</string>
+    <string name="guidance_announcements_zero_kilometres_in" ns2:desc="Voice driving instruction - &apos;In 0 kilometres&apos;">Через %d километров</string>
+    <string name="guidance_announcements_zero_meters_for" ns2:desc="Voice driving instruction - &apos;for 0 metres&apos;">следующие %d метров</string>
+    <string name="guidance_announcements_zero_meters_in" ns2:desc="Voice driving instruction - &apos;In 0 metres&apos;">Через %d метров</string>
+    <string name="guidance_announcements_zero_miles_for" ns2:desc="Voice driving instruction - &apos;for 0 miles&apos;">следующие %d миль</string>
+    <string name="guidance_announcements_zero_miles_in" ns2:desc="Voice driving instruction - &apos;In 0 miles&apos;">Через %d миль</string>
+    <string name="guidance_announcements_zero_yards_for" ns2:desc="Voice driving instruction - &apos;for 0 yards&apos;">следующие %d ярдов</string>
+    <string name="guidance_announcements_zero_yards_in" ns2:desc="Voice driving instruction - &apos;In 0 yards&apos;">Через %d ярдов</string>
+    <string name="icon_content_description">Значок диалогового окна</string>
+    <string name="item_view_role_description">Вкладка</string>
+    <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
+    <string name="material_hour_24h_suffix">%1$s ч.</string>
+    <string name="material_hour_selection">Выберите час</string>
+    <string name="material_hour_suffix">%1$s ч.</string>
+    <string name="material_minute_selection">Выберите минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Чтобы ввести время, перейдите в режим часов.</string>
+    <string name="material_timepicker_hour">Час</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Выбор времени</string>
+    <string name="material_timepicker_text_input_mode_description">Чтобы ввести время, перейдите в режим ввода текста.</string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить \"%1$s\"</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns3:ignore="PluralsCandidate">Новых уведомлений больше %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Перейти к следующему месяцу</string>
+    <string name="mtrl_picker_a11y_prev_month">Перейти к предыдущему месяцу</string>
+    <string name="mtrl_picker_announce_current_range_selection">Выбранная дата начала: %1$s. Выбранная дата окончания: %2$s.</string>
+    <string name="mtrl_picker_announce_current_selection">Выбранный элемент: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">нет</string>
+    <string name="mtrl_picker_cancel">Отмена</string>
+    <string name="mtrl_picker_confirm">ОК</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">Столбец со днями недели: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Дата окончания: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Недействительный формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Недопустимый диапазон.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Перейти к текущему году: %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$d году</string>
+    <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата окончания</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала – дата окончания</string>
+    <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_start_date_description">Дата начала: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата окончания</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_today_description">Сегодня: %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим выбора дней</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Нажмите, чтобы перейти к Календарю</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Нажмите, чтобы выбрать год</string>
+    <string name="mtrl_timepicker_cancel">Отмена</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="tomtom_navigation_arrival_panel_arriving_at" ns2:desc="NIP message - ">Прибытие по адресу</string>
+    <string name="tomtom_navigation_arrival_panel_default_location_message" ns2:desc="NIP message -">Выбранное местоположение\n%1$f\n%2$f</string>
+    <string name="tomtom_navigation_arrival_panel_finish" ns2:desc="NIP message - ">Завершить</string>
+    <string name="tomtom_navigation_arrival_time_label" ns2:desc="NIP message - ">прибытие</string>
+    <string name="tomtom_navigation_combined_instruction_panel_then" ns2:desc="NIP message - ">Затем</string>
+    <string name="tomtom_navigation_kmh" ns2:desc="NIP message - Abbreviated version of &apos;kilometres per hour&apos;">км/ч</string>
+    <string name="tomtom_navigation_layout_preview_arrival_distance" ns2:desc="NIP message - ">--</string>
+    <string name="tomtom_navigation_layout_preview_arrival_distance_unit" ns2:desc="NIP message - Abbreviated version of &apos;kilometres&apos;">км</string>
+    <string name="tomtom_navigation_layout_preview_arrival_time" ns2:desc="NIP message - ">--:--</string>
+    <string name="tomtom_navigation_layout_preview_current_street" ns2:desc="NIP message - ">Неизвестная улица</string>
+    <string name="tomtom_navigation_layout_preview_guidance_instruction_text" ns2:desc="NIP message - ">--</string>
+    <string name="tomtom_navigation_layout_preview_nip_distance" ns2:desc="NIP message - ">900</string>
+    <string name="tomtom_navigation_layout_preview_nip_distance_unit" ns2:desc="NIP message - Abbreviated version of &apos;metres&apos;">м</string>
+    <string name="tomtom_navigation_layout_preview_travel_time" ns2:desc="NIP message - ">--</string>
+    <string name="tomtom_navigation_layout_preview_travel_time_unit" ns2:desc="NIP message - Abbreviated version of &apos;minutes&apos;">мин</string>
+    <string name="tomtom_navigation_metersPerSecond" ns2:desc="NIP message - Abbreviated version of &apos;metres per second&apos;">м/с</string>
+    <string name="tomtom_navigation_mph" ns2:desc="NIP message - Abbreviated version of &apos;miles per hour&apos;">миль/ч</string>
+    <string name="tomtom_navigation_routeCalculation" ns2:desc="Temporary NIP message before road will be calculated">Расчет маршрута…</string>
+    <string name="tomtom_navigation_route_updated_panel_route_updated" ns2:desc="NIP message - ">Маршрут обновлен</string>
+    <string name="tomtom_navigation_time_unit_short_hour" ns2:desc="NIP message - Abbreviated version of &apos;hour&apos;">ч</string>
+    <string name="tomtom_navigation_time_unit_short_minute" ns2:desc="NIP message - Abbreviated version of &apos;minute&apos;">мин</string>
+    <string name="tomtom_navigation_waypoint_arrival_panel_charge_unknown">Неизвестно</string>
+    <string name="tomtom_navigation_waypoint_arrival_panel_charging_station_title">Зарядная станция</string>
+    <string name="tomtom_navigation_waypoint_arrival_panel_continue_button">Продолжить</string>
+    <string name="tomtom_navigation_waypoint_arrival_panel_current_charge">Текущий уровень заряда</string>
+    <string name="tomtom_navigation_waypoint_arrival_panel_general_title">Маршрутная точка</string>
+    <string name="tomtom_navigation_waypoint_arrival_panel_target_charge">Целевой уровень заряда</string>
+</resources>

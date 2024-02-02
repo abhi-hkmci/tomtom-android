@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.usecase-merged_res-52:/drawable_splash_background.xml.flat",
+        "source": "com.example.usecase-main-54:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "com.example.usecase-merged_res-52:/drawable_master_concept_logo.jpeg.flat",
+        "source": "com.example.usecase-main-54:/drawable/master_concept_logo.jpeg"
+    },
+    {
+        "merged": "com.example.usecase-merged_res-52:/drawable_tom_tom_logo.png.flat",
+        "source": "com.example.usecase-main-54:/drawable/tom_tom_logo.png"
+    },
+    {
+        "merged": "com.example.usecase-merged_res-52:/drawable_bg_splash.png.flat",
+        "source": "com.example.usecase-main-54:/drawable/bg_splash.png"
+    },
+    {
+        "merged": "com.example.usecase-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "com.example.usecase-main-54:/layout/activity_main.xml"
+    }
+]

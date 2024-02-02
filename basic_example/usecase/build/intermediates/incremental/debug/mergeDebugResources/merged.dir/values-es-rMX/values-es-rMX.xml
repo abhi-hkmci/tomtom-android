@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/apk/res-auto">
+    <string name="distance_unit_short_feet" ns1:desc="Abbreviated version of &apos;feet&apos;">ft</string>
+    <string name="distance_unit_short_kilometers" ns1:desc="Abbreviated version of &apos;kilometres&apos;">km</string>
+    <string name="distance_unit_short_meters" ns1:desc="Abbreviated version of &apos;metres&apos;">m</string>
+    <string name="distance_unit_short_miles" ns1:desc="Abbreviated version of &apos;miles&apos;">mi</string>
+    <string name="distance_unit_short_yards" ns1:desc="Abbreviated version of &apos;yards&apos;">yd</string>
+    <string name="guidance_announcements_basic_maneuver_bear_left" ns1:desc="Voice driving instruction - ">Continúe por la izquierda</string>
+    <string name="guidance_announcements_basic_maneuver_bear_right" ns1:desc="Voice driving instruction - ">Continúe por la derecha</string>
+    <string name="guidance_announcements_basic_maneuver_keep_left" ns1:desc="Voice driving instruction - ">Manténgase a la izquierda</string>
+    <string name="guidance_announcements_basic_maneuver_keep_right" ns1:desc="Voice driving instruction - ">Manténgase a la derecha</string>
+    <string name="guidance_announcements_basic_maneuver_left" ns1:desc="Voice driving instruction - ">Gire a la izquierda</string>
+    <string name="guidance_announcements_basic_maneuver_right" ns1:desc="Voice driving instruction - ">Gire a la derecha</string>
+    <string name="guidance_announcements_basic_maneuver_sharp_left" ns1:desc="Voice driving instruction - ">Tome la curva pronunciada a la izquierda</string>
+    <string name="guidance_announcements_basic_maneuver_sharp_right" ns1:desc="Voice driving instruction - ">Tome la curva pronunciada a la derecha</string>
+    <string name="guidance_announcements_basic_maneuver_straight" ns1:desc="Voice driving instruction - ">Siga derecho</string>
+    <string name="guidance_announcements_basic_maneuver_try_u_turn" ns1:desc="Voice driving instruction - ">Cambie de sentido cuando sea posible</string>
+    <string name="guidance_announcements_basic_maneuver_u_turn" ns1:desc="Voice driving instruction - ">Cambie de sentido</string>
+    <string name="guidance_announcements_combined_sentence_format" ns1:desc="Combined Instruction delimiter ">%s, entonces %s</string>
+    <string name="guidance_announcements_few_feet_for" ns1:desc="Voice driving instruction - &apos;for {3/4} feet&apos;">por %d pies</string>
+    <string name="guidance_announcements_few_feet_in" ns1:desc="Voice driving instruction - &apos;In {3/4} feet&apos;">Después de %d pies</string>
+    <string name="guidance_announcements_few_kilometres_for" ns1:desc="Voice driving instruction - &apos;for {3/4} kilometres&apos;">por %d kilómetros</string>
+    <string name="guidance_announcements_few_kilometres_in" ns1:desc="Voice driving instruction - &apos;In {3/4} kilometres&apos;">Después de %d kilómetros</string>
+    <string name="guidance_announcements_few_meters_for" ns1:desc="Voice driving instruction - &apos;for {3/4} metres&apos;">por %d metros</string>
+    <string name="guidance_announcements_few_meters_in" ns1:desc="Voice driving instruction - &apos;In {3/4} metres&apos;">Después de %d metros</string>
+    <string name="guidance_announcements_few_miles_for" ns1:desc="Voice driving instruction - &apos;for {3/4} miles&apos;">por %d millas</string>
+    <string name="guidance_announcements_few_miles_in" ns1:desc="Voice driving instruction - &apos;In {3/4} miles&apos;">Después de %d millas</string>
+    <string name="guidance_announcements_few_yards_for" ns1:desc="Voice driving instruction - &apos;for {3/4} yards&apos;">por %d yardas</string>
+    <string name="guidance_announcements_few_yards_in" ns1:desc="Voice driving instruction - &apos;In {3/4} yards&apos;">Después de %d yardas</string>
+    <string name="guidance_announcements_float_unit_feet_for" ns1:desc="Voice driving instruction - &apos;for 10.5 feet&apos;">por %.1f pies</string>
+    <string name="guidance_announcements_float_unit_feet_in" ns1:desc="Voice driving instruction - &apos;In 10.5 feet&apos;">Después de %.1f pies</string>
+    <string name="guidance_announcements_float_unit_kilometers_for" ns1:desc="Voice driving instruction - &apos;for 1.5 kilometres&apos;">por %.1f kilómetros</string>
+    <string name="guidance_announcements_float_unit_kilometers_in" ns1:desc="Voice driving instruction - &apos;In 1.5 kilometres&apos;">Después de %.1f kilómetros</string>
+    <string name="guidance_announcements_float_unit_meters_for" ns1:desc="Voice driving instruction - &apos;for 10.5 metres&apos;">por %.1f metros</string>
+    <string name="guidance_announcements_float_unit_meters_in" ns1:desc="Voice driving instruction - &apos;In 10.5 metres&apos;">Después de %.1f metros</string>
+    <string name="guidance_announcements_float_unit_miles_for" ns1:desc="Voice driving instruction - &apos;for 10.5 miles&apos;">por %.1f millas</string>
+    <string name="guidance_announcements_float_unit_miles_in" ns1:desc="Voice driving instruction - &apos;In 10.5 miles&apos;">Después de %.1f millas</string>
+    <string name="guidance_announcements_float_unit_yards_for" ns1:desc="Voice driving instruction - &apos;for 10.5 yards&apos;">por %.1f yardas</string>
+    <string name="guidance_announcements_float_unit_yards_in" ns1:desc="Voice driving instruction - &apos;In 10.5 yards&apos;">Después de %.1f yardas</string>
+    <string name="guidance_announcements_half_mile_for" ns1:desc="Voice driving instruction - &apos;for half a mile&apos;">durante media milla</string>
+    <string name="guidance_announcements_half_mile_in" ns1:desc="Voice driving instruction - &apos;In half a mile&apos;">En media milla</string>
+    <string name="guidance_announcements_itinerary_arrive" ns1:desc="Voice driving instruction - ">Llegará a su destino</string>
+    <string name="guidance_announcements_itinerary_arrive_confirmation" ns1:desc="Voice driving instruction - ">Llegó a su destino</string>
+    <string name="guidance_announcements_itinerary_arrive_left_pointer" ns1:desc="Voice driving instruction - &apos;You have reached your waypoint, it is on the left&apos;">Está a la izquierda</string>
+    <string name="guidance_announcements_itinerary_arrive_right_pointer" ns1:desc="Voice driving instruction - &apos;You have reached your waypoint, it is on the right&apos;">Está a la derecha</string>
+    <string name="guidance_announcements_itinerary_departure" ns1:desc="Voice driving instruction - ">Empiece a conducir</string>
+    <string name="guidance_announcements_itinerary_waypoint" ns1:desc="Voice driving instruction - ">Llegará a su parada</string>
+    <string name="guidance_announcements_itinerary_waypoint_confirmation" ns1:desc="Voice driving instruction - ">Llegó a su parada</string>
+    <string name="guidance_announcements_many_feet_for" ns1:desc="Voice driving instruction - &apos;for 26 feet&apos;">por %d pies</string>
+    <string name="guidance_announcements_many_feet_in" ns1:desc="Voice driving instruction - &apos;In 26 feet&apos;">Después de %d pies</string>
+    <string name="guidance_announcements_many_kilometres_for" ns1:desc="Voice driving instruction - &apos;for 26 kilometres&apos;">por %d kilómetros</string>
+    <string name="guidance_announcements_many_kilometres_in" ns1:desc="Voice driving instruction - &apos;In 26 kilometres&apos;">Después de %d kilómetros</string>
+    <string name="guidance_announcements_many_meters_for" ns1:desc="Voice driving instruction - &apos;for 26 metres&apos;">por %d metros</string>
+    <string name="guidance_announcements_many_meters_in" ns1:desc="Voice driving instruction - &apos;In 26 metres&apos;">Después de %d metros</string>
+    <string name="guidance_announcements_many_miles_for" ns1:desc="Voice driving instruction - &apos;for 26 miles&apos;">por %d millas</string>
+    <string name="guidance_announcements_many_miles_in" ns1:desc="Voice driving instruction - &apos;In 26 miles&apos;">Después de %d millas</string>
+    <string name="guidance_announcements_many_yards_for" ns1:desc="Voice driving instruction - &apos;for 26 yards&apos;">por %d yardas</string>
+    <string name="guidance_announcements_many_yards_in" ns1:desc="Voice driving instruction - &apos;In 26 yards&apos;">Después de %d yardas</string>
+    <string name="guidance_announcements_motorway_maneuvers_enter_freeway" ns1:desc="Voice driving instruction - ">Incorpórese a la autopista</string>
+    <string name="guidance_announcements_motorway_maneuvers_enter_highway" ns1:desc="Voice driving instruction - ">Incorpórese a la autopista</string>
+    <string name="guidance_announcements_motorway_maneuvers_enter_motorway" ns1:desc="Voice driving instruction - ">Incorpórese a la autopista</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_left_no_number" ns1:desc="Voice driving instruction - ">Tome la salida izquierda</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_left_with_number" ns1:desc="Voice driving instruction - &apos;Take exit {exit number(s), for example &apos;10, 13-15&apos;} on the left&apos;">Tome la salida %s a la izquierda</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_no_direction_no_number" ns1:desc="Voice driving instruction - ">Tome la salida</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_number" ns1:desc="Voice driving instruction - Roundabout exit N (short)">Tome la salida %s</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_right_no_number" ns1:desc="Voice driving instruction - ">Tome la salida derecha</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_right_with_number" ns1:desc="Voice driving instruction - &apos;Take exit {exit number(s), for example &apos;10, 13-15&apos;} on the right&apos;">Tome la salida %s a la derecha</string>
+    <string name="guidance_announcements_one_and_half_mile_for" ns1:desc="Voice driving instruction - &apos;for one and a half miles&apos;">durante una milla y media</string>
+    <string name="guidance_announcements_one_and_half_mile_in" ns1:desc="Voice driving instruction - &apos;In one and a half miles&apos;">En una milla y media</string>
+    <string name="guidance_announcements_one_and_quarter_mile_for" ns1:desc="Voice driving instruction - &apos;for one and a quarter miles&apos;">durante una milla y un cuarto</string>
+    <string name="guidance_announcements_one_and_quarter_mile_in" ns1:desc="Voice driving instruction - &apos;In one and a quarter miles&apos;">En una milla y un cuarto</string>
+    <string name="guidance_announcements_one_and_three_quarters_mile_for" ns1:desc="Voice driving instruction - &apos;for one and three quarter miles&apos;">durante una milla y tres cuartos</string>
+    <string name="guidance_announcements_one_and_three_quarters_mile_in" ns1:desc="Voice driving instruction - &apos;In one and three quarter miles&apos;">En una milla y tres cuartos</string>
+    <string name="guidance_announcements_one_foot_for" ns1:desc="Voice driving instruction - &apos;for 1 foot&apos;">por %d pie</string>
+    <string name="guidance_announcements_one_foot_in" ns1:desc="Voice driving instruction - &apos;In 1 foot&apos;">Después de %d pie</string>
+    <string name="guidance_announcements_one_kilometre_for" ns1:desc="Voice driving instruction - &apos;for 1 kilometre&apos;">por %d kilómetro</string>
+    <string name="guidance_announcements_one_kilometre_in" ns1:desc="Voice driving instruction - &apos;In 1 kilometre&apos;">Después de %d kilómetro</string>
+    <string name="guidance_announcements_one_meter_for" ns1:desc="Voice driving instruction - &apos;for 1 metre&apos;">por %d metro</string>
+    <string name="guidance_announcements_one_meter_in" ns1:desc="Voice driving instruction - &apos;In 1 metre&apos;">Después de %d metro</string>
+    <string name="guidance_announcements_one_mile_for" ns1:desc="Voice driving instruction - &apos;for 1 mile&apos;">por %d milla</string>
+    <string name="guidance_announcements_one_mile_in" ns1:desc="Voice driving instruction - &apos;In 1 mile&apos;">Después de %d milla</string>
+    <string name="guidance_announcements_one_yard_for" ns1:desc="Voice driving instruction - &apos;for 1 yard&apos;">por %d yarda</string>
+    <string name="guidance_announcements_one_yard_in" ns1:desc="Voice driving instruction - &apos;In 1 yard&apos;">Después de %d yarda</string>
+    <string name="guidance_announcements_onto_street_format" ns1:desc="Voice driving instruction - &apos;Turn onto -some street name-&apos;">En %s</string>
+    <string name="guidance_announcements_other_feet_for" ns1:desc="Voice driving instruction - &apos;for 26 feet&apos;">por %d pies</string>
+    <string name="guidance_announcements_other_feet_in" ns1:desc="Voice driving instruction - &apos;In 26 feet&apos;">Después de %d pies</string>
+    <string name="guidance_announcements_other_kilometres_for" ns1:desc="Voice driving instruction - &apos;for 26 kilometres&apos;">por %d kilómetros</string>
+    <string name="guidance_announcements_other_kilometres_in" ns1:desc="Voice driving instruction - &apos;In 26 kilometres&apos;">Después de %d kilómetros</string>
+    <string name="guidance_announcements_other_meters_for" ns1:desc="Voice driving instruction - &apos;for 26 metres&apos;">por %d metros</string>
+    <string name="guidance_announcements_other_meters_in" ns1:desc="Voice driving instruction - &apos;In 26 metres&apos;">Después de %d metros</string>
+    <string name="guidance_announcements_other_miles_for" ns1:desc="Voice driving instruction - &apos;for 26 miles&apos;">por %d millas</string>
+    <string name="guidance_announcements_other_miles_in" ns1:desc="Voice driving instruction - &apos;In 26 miles&apos;">Después de %d millas</string>
+    <string name="guidance_announcements_other_yards_for" ns1:desc="Voice driving instruction - &apos;for 26 yards&apos;">por %d yardas</string>
+    <string name="guidance_announcements_other_yards_in" ns1:desc="Voice driving instruction - &apos;In 26 yards&apos;">Después de %d yardas</string>
+    <string name="guidance_announcements_quarter_mile_for" ns1:desc="Voice driving instruction - &apos;for a quarter of a mile&apos;">durante un cuarto de milla</string>
+    <string name="guidance_announcements_quarter_mile_in" ns1:desc="Voice driving instruction - &apos;In a quarter of a mile&apos;">Después de un cuarto de milla</string>
+    <string name="guidance_announcements_roundabout_exit_1" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Primera salida</string>
+    <string name="guidance_announcements_roundabout_exit_10" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Décima salida</string>
+    <string name="guidance_announcements_roundabout_exit_2" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Segunda salida</string>
+    <string name="guidance_announcements_roundabout_exit_3" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Tercera salida</string>
+    <string name="guidance_announcements_roundabout_exit_4" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Cuarta salida</string>
+    <string name="guidance_announcements_roundabout_exit_5" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Quinta salida</string>
+    <string name="guidance_announcements_roundabout_exit_6" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Sexta salida</string>
+    <string name="guidance_announcements_roundabout_exit_7" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Séptima salida</string>
+    <string name="guidance_announcements_roundabout_exit_8" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Octava salida</string>
+    <string name="guidance_announcements_roundabout_exit_9" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">Novena salida</string>
+    <string name="guidance_announcements_roundabout_left" ns1:desc="Voice driving instruction - ">Gire a la izquierda</string>
+    <string name="guidance_announcements_roundabout_main_and_exit_number_sentence" ns1:desc="Combined Instruction delimiter ">%s, %s</string>
+    <string name="guidance_announcements_roundabout_pointer" ns1:desc="Voice driving instruction - ">En la rotonda</string>
+    <string name="guidance_announcements_roundabout_right" ns1:desc="Voice driving instruction - ">Gire a la derecha</string>
+    <string name="guidance_announcements_roundabout_straight" ns1:desc="Voice driving instruction - ">Siga derecho</string>
+    <string name="guidance_announcements_roundabout_u_turn" ns1:desc="Voice driving instruction - ">Cambie de sentido</string>
+    <string name="guidance_announcements_special_follow_no_road_name" ns1:desc="Voice driving instruction - ">Siga la carretera</string>
+    <string name="guidance_announcements_special_follow_road_name" ns1:desc="Voice driving instruction, will be followed by a road number and a distance string, e.g. &apos;Follow A4 for 6.2 KM&apos;">Siga %s</string>
+    <string name="guidance_announcements_special_switch_main_road" ns1:desc="Voice driving instruction - ">Cámbiese a la carretera principal</string>
+    <string name="guidance_announcements_special_switch_parallel_road" ns1:desc="Voice driving instruction - ">Cámbiese a la carretera paralela</string>
+    <string name="guidance_announcements_special_take_ferry" ns1:desc="Voice driving instruction - ">Tome el ferry</string>
+    <string name="guidance_announcements_three_quarters_mile_for" ns1:desc="Voice driving instruction - &apos;for three quarters of a mile&apos;">durante tres cuartos de milla</string>
+    <string name="guidance_announcements_three_quarters_mile_in" ns1:desc="Voice driving instruction - &apos;In three quarters of a mile&apos;">En tres cuartos de milla</string>
+    <string name="guidance_announcements_two_and_half_mile_for" ns1:desc="Voice driving instruction - &apos;for two and a half miles&apos;">durante dos millas y media</string>
+    <string name="guidance_announcements_two_and_half_mile_in" ns1:desc="Voice driving instruction - &apos;In two and a half miles&apos;">En dos millas y media</string>
+    <string name="guidance_announcements_two_and_quarter_mile_for" ns1:desc="Voice driving instruction - &apos;for two and a quarter miles&apos;">durante dos millas y un cuarto</string>
+    <string name="guidance_announcements_two_and_quarter_mile_in" ns1:desc="Voice driving instruction - &apos;In two and a quarter miles&apos;">En dos millas y un cuarto</string>
+    <string name="guidance_announcements_two_and_three_quarters_mile_for" ns1:desc="Voice driving instruction - &apos;for two and three quarter miles&apos;">durante dos millas y tres cuartos</string>
+    <string name="guidance_announcements_two_and_three_quarters_mile_in" ns1:desc="Voice driving instruction - &apos;In two and three quarter miles&apos;">En dos millas y tres cuartos</string>
+    <string name="guidance_announcements_two_feet_for" ns1:desc="Voice driving instruction - &apos;for 2 feet&apos;">por %d pies</string>
+    <string name="guidance_announcements_two_feet_in" ns1:desc="Voice driving instruction - &apos;In 2 feet&apos;">Después de %d pies</string>
+    <string name="guidance_announcements_two_kilometres_for" ns1:desc="Voice driving instruction - &apos;for 2 kilometres&apos;">por %d kilómetros</string>
+    <string name="guidance_announcements_two_kilometres_in" ns1:desc="Voice driving instruction - &apos;In 2 kilometres&apos;">Después de %d kilómetros</string>
+    <string name="guidance_announcements_two_meters_for" ns1:desc="Voice driving instruction - &apos;for 2 metres&apos;">por %d metros</string>
+    <string name="guidance_announcements_two_meters_in" ns1:desc="Voice driving instruction - &apos;In 2 metres&apos;">Después de %d metros</string>
+    <string name="guidance_announcements_two_miles_for" ns1:desc="Voice driving instruction - &apos;for 2 miles&apos;">por %d millas</string>
+    <string name="guidance_announcements_two_miles_in" ns1:desc="Voice driving instruction - &apos;In 2 miles&apos;">Después de %d millas</string>
+    <string name="guidance_announcements_two_yards_for" ns1:desc="Voice driving instruction - &apos;for 2 yards&apos;">por %d yardas</string>
+    <string name="guidance_announcements_two_yards_in" ns1:desc="Voice driving instruction - &apos;In 2 yards&apos;">Después de %d yardas</string>
+    <string name="guidance_announcements_zero_feet_for" ns1:desc="Voice driving instruction - &apos;for 0 feet&apos;">por %d pies</string>
+    <string name="guidance_announcements_zero_feet_in" ns1:desc="Voice driving instruction - &apos;In 0 feet&apos;">Después de %d pies</string>
+    <string name="guidance_announcements_zero_kilometres_for" ns1:desc="Voice driving instruction - &apos;for 0 kilometres&apos;">por %d kilómetros</string>
+    <string name="guidance_announcements_zero_kilometres_in" ns1:desc="Voice driving instruction - &apos;In 0 kilometres&apos;">Después de %d kilómetros</string>
+    <string name="guidance_announcements_zero_meters_for" ns1:desc="Voice driving instruction - &apos;for 0 metres&apos;">por %d metros</string>
+    <string name="guidance_announcements_zero_meters_in" ns1:desc="Voice driving instruction - &apos;In 0 metres&apos;">Después de %d metros</string>
+    <string name="guidance_announcements_zero_miles_for" ns1:desc="Voice driving instruction - &apos;for 0 miles&apos;">por %d millas</string>
+    <string name="guidance_announcements_zero_miles_in" ns1:desc="Voice driving instruction - &apos;In 0 miles&apos;">Después de %d millas</string>
+    <string name="guidance_announcements_zero_yards_for" ns1:desc="Voice driving instruction - &apos;for 0 yards&apos;">por %d yardas</string>
+    <string name="guidance_announcements_zero_yards_in" ns1:desc="Voice driving instruction - &apos;In 0 yards&apos;">Después de %d yardas</string>
+    <string name="tomtom_navigation_arrival_panel_arriving_at" ns1:desc="NIP message - ">Llegando a</string>
+    <string name="tomtom_navigation_arrival_panel_default_location_message" ns1:desc="NIP message -">Ubicación seleccionada\n%1$f\n%2$f</string>
+    <string name="tomtom_navigation_arrival_panel_finish" ns1:desc="NIP message - ">Finalizar</string>
+    <string name="tomtom_navigation_arrival_time_label" ns1:desc="NIP message - ">llegada</string>
+    <string name="tomtom_navigation_combined_instruction_panel_then" ns1:desc="NIP message - ">Luego</string>
+    <string name="tomtom_navigation_kmh" ns1:desc="NIP message - Abbreviated version of &apos;kilometres per hour&apos;">km/h</string>
+    <string name="tomtom_navigation_layout_preview_arrival_distance" ns1:desc="NIP message - ">--</string>
+    <string name="tomtom_navigation_layout_preview_arrival_distance_unit" ns1:desc="NIP message - Abbreviated version of &apos;kilometres&apos;">km</string>
+    <string name="tomtom_navigation_layout_preview_arrival_time" ns1:desc="NIP message - ">--:--</string>
+    <string name="tomtom_navigation_layout_preview_current_street" ns1:desc="NIP message - ">Calle desconocida</string>
+    <string name="tomtom_navigation_layout_preview_guidance_instruction_text" ns1:desc="NIP message - ">--</string>
+    <string name="tomtom_navigation_layout_preview_nip_distance" ns1:desc="NIP message - ">900</string>
+    <string name="tomtom_navigation_layout_preview_nip_distance_unit" ns1:desc="NIP message - Abbreviated version of &apos;metres&apos;">m</string>
+    <string name="tomtom_navigation_layout_preview_travel_time" ns1:desc="NIP message - ">--</string>
+    <string name="tomtom_navigation_layout_preview_travel_time_unit" ns1:desc="NIP message - Abbreviated version of &apos;minutes&apos;">min</string>
+    <string name="tomtom_navigation_metersPerSecond" ns1:desc="NIP message - Abbreviated version of &apos;metres per second&apos;">m/s</string>
+    <string name="tomtom_navigation_mph" ns1:desc="NIP message - Abbreviated version of &apos;miles per hour&apos;">mph</string>
+    <string name="tomtom_navigation_routeCalculation" ns1:desc="Temporary NIP message before road will be calculated">Calculando ruta…</string>
+    <string name="tomtom_navigation_route_updated_panel_route_updated" ns1:desc="NIP message - ">Ruta actualizada</string>
+    <string name="tomtom_navigation_time_unit_short_hour" ns1:desc="NIP message - Abbreviated version of &apos;hour&apos;">h</string>
+    <string name="tomtom_navigation_time_unit_short_minute" ns1:desc="NIP message - Abbreviated version of &apos;minute&apos;">min</string>
+</resources>

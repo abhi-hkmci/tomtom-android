@@ -1,0 +1,2438 @@
+# Copyright (C) 2023 TomTom NV. All rights reserved.
+#
+# This software is the proprietary copyright of TomTom NV and its subsidiaries and may be
+# used for internal evaluation purposes or commercial use strictly subject to separate
+# license agreement between you and TomTom NV. If you are the licensee, you are only permitted
+# to use this software in accordance with the terms of your license agreement. If you are
+# not the licensee, you are not authorized to use this software in any manner and should
+# immediately return or destroy it.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-04 15:26+0200\n"
+"PO-Revision-Date: 2023-09-25 14:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "Follow the {road_number} for {distance}."
+msgstr "Pokračujte po ceste číslo {road_number} {distance}."
+
+msgid "Follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} for {distance}."
+msgstr "Pokračujte po ceste {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} {distance}."
+
+msgid "Follow {road_name} for {distance}."
+msgstr "Pokračujte po ceste {road_name} {distance}."
+
+msgid "Follow the freeway for {distance}."
+msgstr "Pokračujte po diaľnici {distance}."
+
+msgid "Follow the road for {distance}."
+msgstr "Pokračujte po ceste {distance}."
+
+msgid "In {distance} you will enter {country}."
+msgstr "O {distance} vstúpite na územie {country}."
+
+msgid "You are entering {country}."
+msgstr "Vstupujete na územie {country}."
+
+msgid "Start driving on the {road_number}."
+msgstr "Vydajte sa na cestu číslo {road_number}."
+
+msgid "Start driving on {road_name}."
+msgstr "Vydajte sa na cestu {road_name}."
+
+msgid "Start driving."
+msgstr "Vydajte sa na cestu."
+
+msgid "You have reached your destination at the {road_number}. It is on the right."
+msgstr "Dostali ste sa do cieľového miesta na {road_number}. Nachádza sa vpravo."
+
+msgid "You have reached your destination at {road_name}. It is on the right."
+msgstr "Dostali ste sa do cieľového miesta na {road_name}. Nachádza sa vpravo."
+
+msgid "You have reached your destination, it is on the right."
+msgstr "Dostali ste sa do cieľového miesta, nachádza sa vpravo."
+
+msgid "You have reached your destination at the {road_number}. It is on the left."
+msgstr "Dostali ste sa do cieľového miesta na {road_number}. Nachádza sa vľavo."
+
+msgid "You have reached your destination at {road_name}. It is on the left."
+msgstr "Dostali ste sa do cieľového miesta na {road_name}. Nachádza sa vľavo."
+
+msgid "You have reached your destination, it is on the left."
+msgstr "Dostali ste sa do cieľového miesta, nachádza sa vľavo."
+
+msgid "In {distance} you will reach your destination."
+msgstr "O {distance} sa dostanete do cieľového miesta."
+
+msgid "You have reached your destination."
+msgstr "Dostali ste sa do cieľového miesta."
+
+msgid "You have reached your stop at the {road_number}. It is on the right."
+msgstr "Dostali ste sa do zastávky na {road_number}. Nachádza sa vpravo."
+
+msgid "You have reached your stop at {road_name}. It is on the right."
+msgstr "Dostali ste sa do zastávky na {road_name}. Nachádza sa vpravo."
+
+msgid "You have reached your stop, it is on the right."
+msgstr "Dostali ste sa do zastávky, nachádza sa vpravo."
+
+msgid "You have reached your stop at the {road_number}. It is on the left."
+msgstr "Dostali ste sa do zastávky na {road_number}. Nachádza sa vľavo."
+
+msgid "You have reached your stop at {road_name}. It is on the left."
+msgstr "Dostali ste sa do zastávky na {road_name}. Nachádza sa vľavo."
+
+msgid "You have reached your stop, it is on the left."
+msgstr "Dostali ste sa do zastávky, nachádza sa vľavo."
+
+msgid "In {distance} you will reach your stop."
+msgstr "O {distance} sa dostanete do zastávky."
+
+msgid "You have reached your stop at the {road_number}."
+msgstr "Dostali ste sa do zastávky na {road_number}."
+
+msgid "You have reached your stop at {road_name}."
+msgstr "Dostali ste sa do zastávky na {road_name}."
+
+msgid "You have reached your stop."
+msgstr "Dostali ste sa do zastávky."
+
+msgid "In {distance} go straight {direction_details}."
+msgstr "O {distance} choďte rovno {direction_details}."
+
+msgid "In {distance} go straight."
+msgstr "O {distance} choďte rovno vpred."
+
+msgid "Go straight {direction_details}."
+msgstr "Choďte rovno {direction_details}."
+
+msgid "Then go straight."
+msgstr "Potom choďte rovno vpred."
+
+msgid "Go straight."
+msgstr "Choďte rovno vpred."
+
+msgid "In {distance} bear right at {intersection_name}."
+msgstr "O {distance} smerujte doprava na križovatke {intersection_name}."
+
+msgid "In {distance} {landmark} bear right {direction_details}."
+msgstr "O {distance} pri {landmark} smerujte doprava {direction_details}."
+
+msgid "In {distance} bear right {direction_details}."
+msgstr "O {distance} smerujte doprava {direction_details}."
+
+msgid "In {distance} {landmark} bear right."
+msgstr "O {distance} pri {landmark} smerujte doprava."
+
+msgid "In {distance} bear right."
+msgstr "O {distance} smerujte doprava."
+
+msgid "Bear right at {intersection_name}."
+msgstr "Na križovatke {intersection_name} smerujte doprava."
+
+msgid "{landmark} bear right {direction_details}."
+msgstr "Pri {landmark} smerujte doprava {direction_details}."
+
+msgid "Bear right {direction_details}."
+msgstr "Smerujte doprava {direction_details}."
+
+msgid "Then bear right."
+msgstr "Potom smerujte doprava."
+
+msgid "{landmark} bear right."
+msgstr "Smerujte doprava."
+
+msgid "Bear right."
+msgstr "Smerujte doprava."
+
+msgid "In {distance} turn right at {intersection_name}."
+msgstr "O {distance} na križovatke {intersection_name} odbočte doprava."
+
+msgid "In {distance} {landmark} turn right {direction_details}."
+msgstr "O {distance} pri {landmark} odbočte doprava {direction_details}."
+
+msgid "In {distance} turn right {direction_details}."
+msgstr "O {distance} odbočte doprava {direction_details}."
+
+msgid "In {distance} {landmark} turn right."
+msgstr "O {distance} pri {landmark} odbočte doprava."
+
+msgid "In {distance} turn right."
+msgstr "O {distance} odbočte doprava."
+
+msgid "Turn right at {intersection_name}."
+msgstr "Na križovatke {intersection_name} odbočte doprava."
+
+msgid "{landmark} turn right {direction_details}."
+msgstr "Pri {landmark} odbočte doprava {direction_details}."
+
+msgid "Turn right {direction_details}."
+msgstr "Odbočte doprava {direction_details}."
+
+msgid "Then turn right."
+msgstr "Potom odbočte doprava."
+
+msgid "{landmark} turn right."
+msgstr "Odbočte doprava."
+
+msgid "Turn right."
+msgstr "Odbočte doprava."
+
+msgid "In {distance} make a sharp right turn at {intersection_name}."
+msgstr "O {distance} na križovatke {intersection_name} urobte ostrú zákrutu vpravo."
+
+msgid "In {distance} {landmark} make a sharp right turn {direction_details}."
+msgstr "O {distance} pri {landmark} urobte ostrú zákrutu vpravo {direction_details}."
+
+msgid "In {distance} make a sharp right turn {direction_details}."
+msgstr "O {distance} urobte ostrú zákrutu vpravo {direction_details}."
+
+msgid "In {distance} {landmark} make a sharp right turn."
+msgstr "O {distance} pri {landmark} urobte ostrú zákrutu vpravo."
+
+msgid "In {distance} make a sharp right turn."
+msgstr "O {distance} urobte ostrú zákrutu vpravo."
+
+msgid "Make a sharp right turn at {intersection_name}."
+msgstr "Na križovatke {intersection_name} urobte ostrú zákrutu vpravo."
+
+msgid "{landmark} make a sharp right turn {direction_details}."
+msgstr "Pri {landmark} urobte ostrú zákrutu vpravo {direction_details}."
+
+msgid "Make a sharp right turn {direction_details}."
+msgstr "Urobte ostrú zákrutu vpravo {direction_details}."
+
+msgid "Then make a sharp right turn."
+msgstr "Potom urobte ostrú zákrutu vpravo."
+
+msgid "{landmark} make a sharp right turn."
+msgstr "Urobte ostrú zákrutu doprava."
+
+msgid "Make a sharp right turn."
+msgstr "Urobte ostrú zákrutu doprava."
+
+msgid "In {distance} bear left at {intersection_name}."
+msgstr "O {distance} smerujte doľava na križovatke {intersection_name}."
+
+msgid "In {distance} {landmark} bear left {direction_details}."
+msgstr "O {distance} pri {landmark} smerujte doľava {direction_details}."
+
+msgid "In {distance} bear left {direction_details}."
+msgstr "O {distance} smerujte doľava {direction_details}."
+
+msgid "In {distance} {landmark} bear left."
+msgstr "O {distance} pri {landmark} smerujte doľava."
+
+msgid "In {distance} bear left."
+msgstr "O {distance} smerujte doľava."
+
+msgid "Bear left at {intersection_name}."
+msgstr "Na križovatke {intersection_name} smerujte doľava."
+
+msgid "{landmark} bear left {direction_details}."
+msgstr "Pri {landmark} smerujte doľava {direction_details}."
+
+msgid "Bear left {direction_details}."
+msgstr "Smerujte doľava {direction_details}."
+
+msgid "Then bear left."
+msgstr "Potom smerujte doľava."
+
+msgid "{landmark} bear left."
+msgstr "Smerujte doľava."
+
+msgid "Bear left."
+msgstr "Smerujte doľava."
+
+msgid "In {distance} turn left at {intersection_name}."
+msgstr "O {distance} na križovatke {intersection_name} odbočte doľava."
+
+msgid "In {distance} {landmark} turn left {direction_details}."
+msgstr "O {distance} pri {landmark} odbočte doľava {direction_details}."
+
+msgid "In {distance} turn left {direction_details}."
+msgstr "O {distance} odbočte doľava {direction_details}."
+
+msgid "In {distance} {landmark} turn left."
+msgstr "O {distance} pri {landmark} odbočte doľava."
+
+msgid "In {distance} turn left."
+msgstr "O {distance} odbočte doľava."
+
+msgid "Turn left at {intersection_name}."
+msgstr "Na križovatke {intersection_name} odbočte doľava."
+
+msgid "{landmark} turn left {direction_details}."
+msgstr "Pri {landmark} odbočte doľava {direction_details}."
+
+msgid "Turn left {direction_details}."
+msgstr "Odbočte doľava {direction_details}."
+
+msgid "Then turn left."
+msgstr "Potom odbočte doľava."
+
+msgid "{landmark} turn left."
+msgstr "Odbočte doľava."
+
+msgid "Turn left."
+msgstr "Odbočte doľava."
+
+msgid "In {distance} make a sharp left turn at {intersection_name}."
+msgstr "O {distance} na križovatke {intersection_name} urobte ostrú zákrutu vľavo."
+
+msgid "In {distance} {landmark} make a sharp left turn {direction_details}."
+msgstr "O {distance} pri {landmark} urobte ostrú zákrutu vľavo {direction_details}."
+
+msgid "In {distance} make a sharp left turn {direction_details}."
+msgstr "O {distance} urobte ostrú zákrutu vľavo {direction_details}."
+
+msgid "In {distance} {landmark} make a sharp left turn."
+msgstr "O {distance} pri {landmark} urobte ostrú zákrutu vľavo."
+
+msgid "In {distance} make a sharp left turn."
+msgstr "O {distance} urobte ostrú zákrutu vľavo."
+
+msgid "Make a sharp left turn at {intersection_name}."
+msgstr "Na križovatke {intersection_name} urobte ostrú zákrutu vľavo."
+
+msgid "{landmark} make a sharp left turn {direction_details}."
+msgstr "Pri {landmark} urobte ostrú zákrutu vľavo {direction_details}."
+
+msgid "Make a sharp left turn {direction_details}."
+msgstr "Urobte ostrú zákrutu vľavo {direction_details}."
+
+msgid "Then make a sharp left turn."
+msgstr "Potom urobte ostrú zákrutu vľavo."
+
+msgid "{landmark} make a sharp left turn."
+msgstr "Urobte ostrú zákrutu vľavo."
+
+msgid "Make a sharp left turn."
+msgstr "Urobte ostrú zákrutu vľavo."
+
+msgid "In {distance} make a U-turn at {intersection_name}."
+msgstr "O {distance} sa na križovatke {intersection_name} otočte späť."
+
+msgid "In {distance} {landmark} make a U-turn {direction_details}."
+msgstr "O {distance} pri {landmark} sa otočte späť {direction_details}."
+
+msgid "In {distance} make a U-turn {direction_details}."
+msgstr "O {distance} sa otočte späť {direction_details}."
+
+msgid "In {distance} {landmark} make a U-turn."
+msgstr "O {distance} pri {landmark} sa otočte späť."
+
+msgid "In {distance} make a U-turn."
+msgstr "O {distance} sa otočte späť."
+
+msgid "Make a U-turn at {intersection_name}."
+msgstr "Na križovatke {intersection_name} sa otočte späť."
+
+msgid "{landmark} make a U-turn {direction_details}."
+msgstr "Pri {landmark} sa otočte späť {direction_details}."
+
+msgid "Make a U-turn {direction_details}."
+msgstr "Otočte sa späť {direction_details}."
+
+msgid "Then make a U-turn."
+msgstr "Potom sa otočte späť."
+
+msgid "{landmark} make a U-turn."
+msgstr "Otočte sa späť."
+
+msgid "Make a U-turn."
+msgstr "Otočte sa späť."
+
+msgid "In {distance} follow the road to the right."
+msgstr "O {distance} pokračujte po ceste vpravo."
+
+msgid "Then follow the road to the right."
+msgstr "Potom pokračujte po ceste vpravo."
+
+msgid "Follow the road to the right."
+msgstr "Držte sa cesty vpravo."
+
+msgid "In {distance} follow the road to the left."
+msgstr "O {distance} pokračujte po ceste vľavo."
+
+msgid "Then follow the road to the left."
+msgstr "Potom pokračujte po ceste vľavo."
+
+msgid "Follow the road to the left."
+msgstr "Držte sa cesty vľavo."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} doľava na križovatke {intersection_name} smerom na {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} doľava na križovatke {intersection_name} smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} doľava na križovatke {intersection_name}."
+
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} doľava na križovatke {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left {direction_details}."
+msgstr "O {distance} choďte na výjazd {exit_number} vľavo {direction_details}."
+
+msgid "In {distance} take the exit {exit_number} on the left {direction_details}."
+msgstr "O {distance} choďte na výjazd {exit_number} vľavo {direction_details}."
+
+msgid "In {distance} take the left exit at {intersection_name} toward {toward_name}."
+msgstr "O {distance} choďte na ľavý výjazd na križovatke {intersection_name} smerom na {toward_name}."
+
+msgid "In {distance} take the left exit at {intersection_name}."
+msgstr "O {distance} choďte na ľavý výjazd na križovatke {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the left exit {direction_details}."
+msgstr "O {distance} choďte na ľavý výjazd {direction_details}."
+
+msgid "In {distance} take the left exit {direction_details}."
+msgstr "O {distance} choďte na ľavý výjazd {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left toward {toward_name}."
+msgstr "Choďte na výjazd {exit_number} vľavo smerom na {toward_name}."
+
+msgid "Take the exit {exit_number} on the left toward {toward_name}."
+msgstr "Choďte na výjazd {exit_number} vľavo smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left."
+msgstr "Choďte na výjazd {exit_number} doľava."
+
+msgid "Take the exit {exit_number} on the left."
+msgstr "Choďte na výjazd {exit_number} doľava."
+
+msgid "Take the left exit toward {toward_name}."
+msgstr "Choďte na ľavý výjazd smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left toward {toward_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} vľavo smerom na {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} on the left toward {toward_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} vľavo smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left."
+msgstr "O {distance} choďte na výjazd {exit_number} vľavo."
+
+msgid "In {distance} take the exit {exit_number} on the left."
+msgstr "O {distance} choďte na výjazd {exit_number} vľavo."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the left exit toward {toward_name}."
+msgstr "O {distance} choďte na ľavý výjazd smerom na {toward_name}."
+
+msgid "In {distance} take the left exit toward {toward_name}."
+msgstr "O {distance} choďte na ľavý výjazd smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the left exit."
+msgstr "O {distance} choďte na ľavý výjazd."
+
+msgid "In {distance} take the left exit."
+msgstr "O {distance} choďte na ľavý výjazd."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "Choďte na druhý výjazd vľavo na križovatke {intersection_name} smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "Choďte na výjazd {exit_number} vľavo na križovatke {intersection_name} smerom na {toward_name}."
+
+msgid "Take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "Choďte na výjazd {exit_number} vľavo na križovatke {intersection_name} smerom na {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left at {intersection_name}."
+msgstr "Choďte na druhý výjazd vľavo na križovatke {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left at {intersection_name}."
+msgstr "Choďte na výjazd {exit_number} vľavo na križovatke {intersection_name}."
+
+msgid "Take the exit {exit_number} on the left at {intersection_name}."
+msgstr "Choďte na výjazd {exit_number} vľavo na križovatke {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left {direction_details}."
+msgstr "Choďte na druhý výjazd vľavo {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left {direction_details}."
+msgstr "Choďte na výjazd {exit_number} vľavo {direction_details}."
+
+msgid "Take the exit {exit_number} on the left {direction_details}."
+msgstr "Choďte na výjazd {exit_number} vľavo {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit at {intersection_name} toward {toward_name}."
+msgstr "Choďte na druhý výjazd vľavo na križovatke {intersection_name} smerom na {toward_name}."
+
+msgid "Take the left exit at {intersection_name} toward {toward_name}."
+msgstr "Choďte na ľavý výjazd na križovatke {intersection_name} smerom na {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit at {intersection_name}."
+msgstr "Na križovatke {intersection_name} choďte na druhý výjazd vľavo."
+
+msgid "Take the left exit at {intersection_name}."
+msgstr "Na križovatke {intersection_name} choďte na ľavý výjazd."
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit {direction_details}."
+msgstr "Choďte na druhý výjazd vľavo {direction_details}."
+
+msgid "Take the left exit {direction_details}."
+msgstr "Choďte na ľavý výjazd {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit {exit_number} on the left."
+msgstr "Potom choďte na druhý výjazd vľavo."
+
+msgctxt "has_exit_name"
+msgid "Then take the exit {exit_number} on the left."
+msgstr "Potom choďte na výjazd {exit_number} doľava."
+
+msgid "Then take the exit {exit_number} on the left."
+msgstr "Potom choďte na výjazd {exit_number} doľava."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the left exit."
+msgstr "Potom choďte na druhý výjazd vľavo."
+
+msgid "Then take the left exit."
+msgstr "Potom choďte na ľavý výjazd."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left."
+msgstr "Choďte na druhý výjazd vľavo."
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit."
+msgstr "Choďte na druhý výjazd vľavo."
+
+msgid "Take the left exit."
+msgstr "Choďte na ľavý výjazd."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} doprava na križovatke {intersection_name} smerom na {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} doprava na križovatke {intersection_name} smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} doprava na križovatke {intersection_name}."
+
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} doprava na križovatke {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right {direction_details}."
+msgstr "O {distance} choďte na výjazd {exit_number} vpravo {direction_details}."
+
+msgid "In {distance} take the exit {exit_number} on the right {direction_details}."
+msgstr "O {distance} choďte na výjazd {exit_number} vpravo {direction_details}."
+
+msgid "In {distance} take the right exit at {intersection_name} toward {toward_name}."
+msgstr "O {distance} choďte na pravý výjazd na križovatke {intersection_name} smerom na {toward_name}."
+
+msgid "In {distance} take the right exit at {intersection_name}."
+msgstr "O {distance} choďte na pravý výjazd na križovatke {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the right exit {direction_details}."
+msgstr "O {distance} choďte na pravý výjazd {direction_details}."
+
+msgid "In {distance} take the right exit {direction_details}."
+msgstr "O {distance} choďte na pravý výjazd {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right toward {toward_name}."
+msgstr "Choďte na výjazd {exit_number} vpravo smerom na {toward_name}."
+
+msgid "Take the exit {exit_number} on the right toward {toward_name}."
+msgstr "Choďte na výjazd {exit_number} vpravo smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right."
+msgstr "Choďte na výjazd {exit_number} vpravo."
+
+msgid "Take the exit {exit_number} on the right."
+msgstr "Choďte na výjazd {exit_number} vpravo."
+
+msgid "Take the right exit toward {toward_name}."
+msgstr "Choďte na pravý výjazd smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right toward {toward_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} vpravo smerom na {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} on the right toward {toward_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} vpravo smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right."
+msgstr "O {distance} choďte na výjazd {exit_number} vpravo."
+
+msgid "In {distance} take the exit {exit_number} on the right."
+msgstr "O {distance} choďte na výjazd {exit_number} vpravo."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the right exit toward {toward_name}."
+msgstr "O {distance} choďte na pravý výjazd smerom na {toward_name}."
+
+msgid "In {distance} take the right exit toward {toward_name}."
+msgstr "O {distance} choďte na pravý výjazd smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the right exit."
+msgstr "O {distance} choďte na pravý výjazd."
+
+msgid "In {distance} take the right exit."
+msgstr "O {distance} choďte na pravý výjazd."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "Choďte na druhý výjazd vpravo na križovatke {intersection_name} smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "Choďte na výjazd {exit_number} vpravo na križovatke {intersection_name} smerom na {toward_name}."
+
+msgid "Take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "Choďte na výjazd {exit_number} vpravo na križovatke {intersection_name} smerom na {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right at {intersection_name}."
+msgstr "Choďte na druhý výjazd vpravo na križovatke {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right at {intersection_name}."
+msgstr "Choďte na výjazd {exit_number} vpravo na križovatke {intersection_name}."
+
+msgid "Take the exit {exit_number} on the right at {intersection_name}."
+msgstr "Choďte na výjazd {exit_number} vpravo na križovatke {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right {direction_details}."
+msgstr "Choďte na druhý výjazd vpravo {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right {direction_details}."
+msgstr "Choďte na výjazd {exit_number} vpravo {direction_details}."
+
+msgid "Take the exit {exit_number} on the right {direction_details}."
+msgstr "Choďte na výjazd {exit_number} vpravo {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit at {intersection_name} toward {toward_name}."
+msgstr "Choďte na druhý výjazd vpravo na križovatke {intersection_name} smerom na {toward_name}."
+
+msgid "Take the right exit at {intersection_name} toward {toward_name}."
+msgstr "Choďte na pravý výjazd na križovatke {intersection_name} smerom na {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit at {intersection_name}."
+msgstr "Na križovatke {intersection_name} choďte na druhý výjazd vpravo."
+
+msgid "Take the right exit at {intersection_name}."
+msgstr "Na križovatke {intersection_name} choďte na pravý výjazd."
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit {direction_details}."
+msgstr "Choďte na druhý výjazd vpravo {direction_details}."
+
+msgid "Take the right exit {direction_details}."
+msgstr "Choďte na pravý výjazd {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit {exit_number} on the right."
+msgstr "Potom choďte na druhý výjazd vpravo."
+
+msgctxt "has_exit_name"
+msgid "Then take the exit {exit_number} on the right."
+msgstr "Potom choďte na výjazd {exit_number} vpravo."
+
+msgid "Then take the exit {exit_number} on the right."
+msgstr "Potom choďte na výjazd {exit_number} vpravo."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the right exit."
+msgstr "Potom choďte na druhý výjazd vpravo."
+
+msgid "Then take the right exit."
+msgstr "Potom choďte na pravý výjazd."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right."
+msgstr "Choďte na druhý výjazd vpravo."
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit."
+msgstr "Choďte na druhý výjazd vpravo."
+
+msgid "Take the right exit."
+msgstr "Choďte na pravý výjazd."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "O {distance} na križovatke {intersection_name} choďte na výjazd {exit_number} smerom na {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "O {distance} na križovatke {intersection_name} choďte na výjazd {exit_number} smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} at {intersection_name}."
+msgstr "O {distance} na križovatke {intersection_name} choďte na výjazd {exit_number}."
+
+msgid "In {distance} take the exit {exit_number} at {intersection_name}."
+msgstr "O {distance} na križovatke {intersection_name} choďte na výjazd {exit_number}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} {direction_details}."
+msgstr "O {distance} choďte na výjazd {exit_number} {direction_details}."
+
+msgid "In {distance} take the exit {exit_number} {direction_details}."
+msgstr "O {distance} choďte na výjazd {exit_number} {direction_details}."
+
+msgid "In {distance} take the exit at {intersection_name} toward {toward_name}."
+msgstr "O {distance} na križovatke {intersection_name} choďte na výjazd smerom na {toward_name}."
+
+msgid "In {distance} take the exit at {intersection_name}."
+msgstr "O {distance} na križovatke {intersection_name} choďte na výjazd."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {direction_details}."
+msgstr "O {distance} choďte na výjazd {direction_details}."
+
+msgid "In {distance} take the exit {direction_details}."
+msgstr "O {distance} choďte na výjazd {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} toward {toward_name}."
+msgstr "Choďte na výjazd {exit_number} smerom na {toward_name}."
+
+msgid "Take the exit {exit_number} toward {toward_name}."
+msgstr "Choďte na výjazd {exit_number} smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number}."
+msgstr "Choďte na výjazd {exit_number}."
+
+msgid "Take the exit {exit_number}."
+msgstr "Choďte na výjazd {exit_number}."
+
+msgid "Take the exit toward {toward_name}."
+msgstr "Choďte na výjazd smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} toward {toward_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} smerom na {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} toward {toward_name}."
+msgstr "O {distance} choďte na výjazd {exit_number} smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number}."
+msgstr "O {distance} choďte na výjazd {exit_number}."
+
+msgid "In {distance} take the exit {exit_number}."
+msgstr "O {distance} choďte na výjazd {exit_number}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit toward {toward_name}."
+msgstr "O {distance} choďte na výjazd smerom na {toward_name}."
+
+msgid "In {distance} take the exit toward {toward_name}."
+msgstr "O {distance} choďte na výjazd smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit."
+msgstr "O {distance} choďte na výjazd."
+
+msgid "In {distance} take the exit."
+msgstr "O {distance} choďte na výjazd."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "Na križovatke {intersection_name} choďte na druhý výjazd smerom na {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "Na križovatke {intersection_name} choďte na výjazd {exit_number} smerom na {toward_name}."
+
+msgid "Take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "Na križovatke {intersection_name} choďte na výjazd {exit_number} smerom na {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} at {intersection_name}."
+msgstr "Na križovatke {intersection_name} choďte na druhý výjazd."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} at {intersection_name}."
+msgstr "Na križovatke {intersection_name} choďte na výjazd {exit_number}."
+
+msgid "Take the exit {exit_number} at {intersection_name}."
+msgstr "Na križovatke {intersection_name} choďte na výjazd {exit_number}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} {direction_details}."
+msgstr "Choďte na druhý výjazd {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} {direction_details}."
+msgstr "Choďte na výjazd {exit_number} {direction_details}."
+
+msgid "Take the exit {exit_number} {direction_details}."
+msgstr "Choďte na výjazd {exit_number} {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit at {intersection_name} toward {toward_name}."
+msgstr "Na križovatke {intersection_name} choďte na druhý výjazd smerom na {toward_name}."
+
+msgid "Take the exit at {intersection_name} toward {toward_name}."
+msgstr "Na križovatke {intersection_name} choďte na výjazd smerom na {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit at {intersection_name}."
+msgstr "Na križovatke {intersection_name} choďte na druhý výjazd."
+
+msgid "Take the exit at {intersection_name}."
+msgstr "Na križovatke {intersection_name} choďte na výjazd."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {direction_details}."
+msgstr "Choďte na druhý výjazd {direction_details}."
+
+msgid "Take the exit {direction_details}."
+msgstr "Choďte na výjazd {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit {exit_number}."
+msgstr "Potom choďte na druhý výjazd."
+
+msgctxt "has_exit_name"
+msgid "Then take the exit {exit_number}."
+msgstr "Potom choďte na výjazd {exit_number}."
+
+msgid "Then take the exit {exit_number}."
+msgstr "Potom choďte na výjazd {exit_number}."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit."
+msgstr "Potom choďte na druhý výjazd."
+
+msgid "Then take the exit."
+msgstr "Potom choďte na výjazd."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number}."
+msgstr "Choďte na druhý výjazd."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit."
+msgstr "Choďte na druhý výjazd."
+
+msgid "Take the exit."
+msgstr "Choďte na výjazd."
+
+msgid "In {distance} keep left at {intersection_name} toward {toward_name}."
+msgstr "O {distance} sa na križovatke {intersection_name} držte vľavo smerom na {toward_name}."
+
+msgid "In {distance} keep left at {intersection_name}."
+msgstr "O {distance} sa na križovatke {intersection_name} držte vľavo."
+
+msgid "In {distance} keep left {direction_details}."
+msgstr "O {distance} sa držte vľavo {direction_details}."
+
+msgid "In {distance} keep left."
+msgstr "O {distance} sa držte vľavo."
+
+msgid "Keep left at {intersection_name} toward {toward_name}."
+msgstr "Na križovatke {intersection_name} sa držte vľavo smerom na {toward_name}."
+
+msgid "Keep left at {intersection_name}."
+msgstr "Na križovatke {intersection_name} sa držte vľavo."
+
+msgid "Then keep left."
+msgstr "Potom sa držte vľavo."
+
+msgid "Keep left {direction_details}."
+msgstr "Držte sa vľavo {direction_details}."
+
+msgid "Keep left."
+msgstr "Držte sa vľavo."
+
+msgid "In {distance} keep right at {intersection_name} toward {toward_name}."
+msgstr "O {distance} sa na križovatke {intersection_name} držte vpravo smerom na {toward_name}."
+
+msgid "In {distance} keep right at {intersection_name}."
+msgstr "O {distance} sa na križovatke {intersection_name} držte vpravo."
+
+msgid "In {distance} keep right {direction_details}."
+msgstr "O {distance} sa držte vpravo {direction_details}."
+
+msgid "In {distance} keep right."
+msgstr "O {distance} sa držte vpravo."
+
+msgid "Keep right at {intersection_name} toward {toward_name}."
+msgstr "Na križovatke {intersection_name} sa držte vpravo smerom na {toward_name}."
+
+msgid "Keep right at {intersection_name}."
+msgstr "Na križovatke {intersection_name} sa držte vpravo."
+
+msgid "Then keep right."
+msgstr "Potom sa držte vpravo."
+
+msgid "Keep right {direction_details}."
+msgstr "Držte sa vpravo {direction_details}."
+
+msgid "Keep right."
+msgstr "Držte sa vpravo."
+
+msgctxt "merge_onto_another_road"
+msgid "In {distance} take the {road_number}."
+msgstr "O {distance} choďte na cestu číslo {road_number}."
+
+msgctxt "merge_onto_another_road"
+msgid "Then take the {road_number}."
+msgstr "Potom choďte na cestu číslo {road_number}."
+
+msgctxt "merge_onto_another_road"
+msgid "Take the {road_number}."
+msgstr "Choďte na cestu číslo {road_number}."
+
+msgctxt "merge_onto_another_road"
+msgid "In {distance} take {road_name}."
+msgstr "O {distance} choďte na cestu {road_name}."
+
+msgctxt "merge_onto_another_road"
+msgid "Then take {road_name}."
+msgstr "Potom choďte na cestu {road_name}."
+
+msgctxt "merge_onto_another_road"
+msgid "Take {road_name}."
+msgstr "Choďte na cestu {road_name}."
+
+msgctxt "merge_onto_another_road"
+msgid "In {distance} take the freeway."
+msgstr "O {distance} choďte na diaľnicu."
+
+msgctxt "merge_onto_another_road"
+msgid "Then take the freeway."
+msgstr "Potom choďte na diaľnicu."
+
+msgctxt "merge_onto_another_road"
+msgid "Take the freeway."
+msgstr "Choďte na diaľnicu."
+
+msgid "Make a U-turn when possible."
+msgstr "Otočte sa späť, keď to bude možné."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde o {distance} choďte rovno, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde o {distance} choďte rovno, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde choďte rovno, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde o {distance} choďte rovno, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde o {distance} choďte rovno, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde choďte rovno, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde o {distance} choďte rovno, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde o {distance} choďte rovno, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgid "At the roundabout go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde choďte rovno, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde o {distance} odbočte doprava, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde o {distance} odbočte doprava, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde odbočte doprava, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde o {distance} odbočte doprava, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde o {distance} odbočte doprava, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde odbočte doprava, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde o {distance} odbočte doprava, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde o {distance} odbočte doprava, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgid "At the roundabout turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde odbočte doprava, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde o {distance} odbočte doľava, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde o {distance} odbočte doľava, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde odbočte doľava, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde o {distance} odbočte doľava, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde o {distance} odbočte doľava, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde odbočte doľava, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde o {distance} odbočte doľava, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde o {distance} odbočte doľava, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgid "At the roundabout turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde odbočte doľava, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} make a U-turn, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde o {distance} sa otočte späť, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} make a U-turn, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde o {distance} sa otočte späť, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgid "At the roundabout make a U-turn, {roundabout_exit_number} exit {direction_details}."
+msgstr "Na kruhovom objazde sa otočte späť, choďte na výjazd číslo {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} take the {roundabout_exit_number_v2} exit."
+msgstr "Na kruhovom objazde o {distance} choďte na výjazd číslo {roundabout_exit_number_v2}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde choďte rovno, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde choďte rovno, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgid "At the roundabout go straight, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde choďte rovno, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgid "At the roundabout make a U-turn, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde sa otočte späť, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde odbočte doprava, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde odbočte doprava, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgid "At the roundabout turn right, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde odbočte doprava, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde odbočte doľava, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde odbočte doľava, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgid "At the roundabout turn left, {roundabout_exit_number} exit."
+msgstr "Na kruhovom objazde odbočte doľava, choďte na výjazd číslo {roundabout_exit_number}."
+
+msgid "At the roundabout take the {roundabout_exit_number_v2} exit."
+msgstr "Na kruhovom objazde choďte na výjazd číslo {roundabout_exit_number_v2}."
+
+msgid "In {distance} exit the roundabout {direction_details}."
+msgstr "O {distance} opustite kruhový objazd {direction_details}."
+
+msgid "In {distance} exit the roundabout."
+msgstr "O {distance} opustite kruhový objazd."
+
+msgid "Exit the roundabout."
+msgstr "Opustite kruhový objazd."
+
+msgid "In {distance} take the ferry {road_name}."
+msgstr "O {distance} choďte na trajekt {road_name}."
+
+msgid "In {distance} take the {road_name} train."
+msgstr "O {distance} choďte na autovlak {road_name}."
+
+msgid "In {distance} take the ferry."
+msgstr "O {distance} choďte na trajekt."
+
+msgid "In {distance} take the train."
+msgstr "O {distance} choďte na autovlak."
+
+msgid "Take the ferry {road_name}."
+msgstr "Choďte na trajekt {road_name}."
+
+msgid "Take the {road_name} train."
+msgstr "Choďte na autovlak {road_name}."
+
+msgid "Then take the ferry."
+msgstr "Potom choďte na trajekt."
+
+msgid "Take the ferry."
+msgstr "Choďte na trajekt."
+
+msgid "Then take the train."
+msgstr "Potom choďte na autovlak."
+
+msgid "Take the train."
+msgstr "Choďte na autovlak."
+
+msgid "Disembark from the ferry."
+msgstr "Vystúpte z trajektu."
+
+msgid "Disembark from the train."
+msgstr "Vystúpte z autovlaku."
+
+msgid "In {distance} keep left to enter the HOV carpool lane."
+msgstr "O {distance} sa držte vľavo a prejdite do pruhu HOV carpool."
+
+msgid "In {distance} keep right to enter the HOV carpool lane."
+msgstr "O {distance} sa držte vpravo a prejdite do pruhu HOV carpool."
+
+msgid "Keep right to enter the HOV carpool lane."
+msgstr "Držte sa vpravo a prejdite do pruhu HOV carpool."
+
+msgid "Keep left to enter the HOV carpool lane."
+msgstr "Držte sa vľavo a prejdite do pruhu HOV carpool."
+
+msgid "In {distance} keep left to exit the HOV carpool lane."
+msgstr "O {distance} sa držte vľavo a opustite pruh HOV carpool."
+
+msgid "In {distance} keep right to exit the HOV carpool lane."
+msgstr "O {distance} sa držte vpravo a opustite pruh HOV carpool."
+
+msgid "Keep right to exit the HOV carpool lane."
+msgstr "Držte sa vpravo a opustite pruh HOV carpool."
+
+msgid "Keep left to exit the HOV carpool lane."
+msgstr "Držte sa vľavo a opustite pruh HOV carpool."
+
+msgid "In {distance} pass through the toll gate."
+msgstr "O {distance} prejdite mýtnou bránou."
+
+msgid "Then pass through the toll gate."
+msgstr "Potom prejdite mýtnou bránou."
+
+msgid "Pass through the toll gate."
+msgstr "Prejdite mýtnou bránou."
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on the {road_number} toward {toward_name}"
+msgstr "aby ste zostali na ceste číslo {road_number} smerom na {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on the {road_number} toward {toward_name}"
+msgstr "aby ste zostali na ceste číslo {road_number} smerom na {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on the {road_number}"
+msgstr "aby ste zostali na ceste číslo {road_number}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on the {road_number}"
+msgstr "aby ste zostali na ceste číslo {road_number}"
+
+msgctxt "{direction_details} for exit highway"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "na cestu číslo {road_number} smerom na {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "na cestu číslo {road_number} smerom na {toward_name}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "na cestu číslo {road_number} smerom na {toward_name}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "na cestu číslo {road_number} smerom na {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take the {road_number} toward {toward_name}"
+msgstr "aby ste prešli na cestu číslo {road_number} smerom na {toward_name}"
+
+msgctxt "{direction_details}"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "na cestu číslo {road_number} smerom na {toward_name}"
+
+msgctxt "{direction_details} for exit highway"
+msgid "onto the {road_number}"
+msgstr "na cestu číslo {road_number}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "onto the {road_number}"
+msgstr "na cestu číslo {road_number}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto the {road_number}"
+msgstr "na cestu číslo {road_number}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto the {road_number}"
+msgstr "na cestu číslo {road_number}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take the {road_number}"
+msgstr "aby ste prešli na cestu číslo {road_number}"
+
+msgctxt "{direction_details}"
+msgid "onto the {road_number}"
+msgstr "na cestu číslo {road_number}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} toward {toward_name}"
+msgstr "a pokračujte po ceste {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} smerom na {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} toward {toward_name}"
+msgstr "a pokračujte po ceste {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} smerom na {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on {road_name} toward {toward_name}"
+msgstr "aby ste zostali na ceste {road_name} smerom na {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on {road_name} toward {toward_name}"
+msgstr "aby ste zostali na ceste {road_name} smerom na {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+msgstr "a pokračujte po ceste {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+
+msgctxt "{direction_details} for fork"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+msgstr "a pokračujte po ceste {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on {road_name}"
+msgstr "aby ste zostali na ceste {road_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on {road_name}"
+msgstr "aby ste zostali na ceste {road_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} toward {toward_name}"
+msgstr "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} smerom na {toward_name}"
+
+msgctxt "{direction_details}"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} toward {toward_name}"
+msgstr "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} smerom na {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+msgstr "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+
+msgctxt "{direction_details}"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+msgstr "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take {road_name} toward {toward_name}"
+msgstr "aby ste prešli na cestu {road_name} smerom na {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take {road_name}"
+msgstr "aby ste presli na cestu {road_name}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto {road_name} toward {toward_name}"
+msgstr "na cestu {road_name} smerom na {toward_name}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto {road_name} toward {toward_name}"
+msgstr "na cestu {road_name} smerom na {toward_name}"
+
+msgctxt "{direction_details}"
+msgid "onto {road_name} toward {toward_name}"
+msgstr "na cestu {road_name} smerom na {toward_name}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto {road_name}"
+msgstr "na cestu {road_name}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto {road_name}"
+msgstr "na cestu {road_name}"
+
+msgctxt "{direction_details}"
+msgid "onto {road_name}"
+msgstr "na cestu {road_name}"
+
+msgctxt "{direction_details}"
+msgid "toward {toward_name}"
+msgstr "smerom na {toward_name}"
+
+msgctxt "you are entering {country}"
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+msgctxt "you are entering {country}"
+msgid "Albania"
+msgstr "Albánsko"
+
+msgctxt "you are entering {country}"
+msgid "Algeria"
+msgstr "Alžírsko"
+
+msgctxt "you are entering {country}"
+msgid "Andorra"
+msgstr "Andorra"
+
+msgctxt "you are entering {country}"
+msgid "Angola"
+msgstr "Angola"
+
+msgctxt "you are entering {country}"
+msgid "Argentina"
+msgstr "Argentína"
+
+msgctxt "you are entering {country}"
+msgid "Armenia"
+msgstr "Arménsko"
+
+msgctxt "you are entering {country}"
+msgid "Austria"
+msgstr "Rakúsko"
+
+msgctxt "you are entering {country}"
+msgid "Azerbaijan"
+msgstr "Azerbajdžan"
+
+msgctxt "you are entering {country}"
+msgid "Bahrain"
+msgstr "Bahrajn"
+
+msgctxt "you are entering {country}"
+msgid "Bangladesh"
+msgstr "Bangladéš"
+
+msgctxt "you are entering {country}"
+msgid "Belarus"
+msgstr "Bielorusko"
+
+msgctxt "you are entering {country}"
+msgid "Belgium"
+msgstr "Belgicko"
+
+msgctxt "you are entering {country}"
+msgid "Belize"
+msgstr "Belize"
+
+msgctxt "you are entering {country}"
+msgid "Benin"
+msgstr "Benin"
+
+msgctxt "you are entering {country}"
+msgid "Bhutan"
+msgstr "Bhután"
+
+msgctxt "you are entering {country}"
+msgid "Bolivia"
+msgstr "Bolívia"
+
+msgctxt "you are entering {country}"
+msgid "Bosnia and Herzegowina"
+msgstr "Bosna a Hercegovina"
+
+msgctxt "you are entering {country}"
+msgid "Botswana"
+msgstr "Botswana"
+
+msgctxt "you are entering {country}"
+msgid "Brazil"
+msgstr "Brazília"
+
+msgctxt "you are entering {country}"
+msgid "Brunei"
+msgstr "Brunej"
+
+msgctxt "you are entering {country}"
+msgid "Bulgaria"
+msgstr "Bulharsko"
+
+msgctxt "you are entering {country}"
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgctxt "you are entering {country}"
+msgid "Burundi"
+msgstr "Burundi"
+
+msgctxt "you are entering {country}"
+msgid "Cambodia"
+msgstr "Kambodža"
+
+msgctxt "you are entering {country}"
+msgid "Cameroon"
+msgstr "Kamerun"
+
+msgctxt "you are entering {country}"
+msgid "Canada"
+msgstr "Kanada"
+
+msgctxt "you are entering {country}"
+msgid "the Central African Republic"
+msgstr "Stredoafrická republika"
+
+msgctxt "you are entering {country}"
+msgid "Chad"
+msgstr "Čad"
+
+msgctxt "you are entering {country}"
+msgid "Chile"
+msgstr "Chile"
+
+msgctxt "you are entering {country}"
+msgid "China"
+msgstr "Čína"
+
+msgctxt "you are entering {country}"
+msgid "Colombia"
+msgstr "Kolumbia"
+
+msgctxt "you are entering {country}"
+msgid "the Republic of the Congo"
+msgstr "Republika Kongo"
+
+msgctxt "you are entering {country}"
+msgid "the Democratic Republic of the Congo"
+msgstr "Demokratická republika Kongo"
+
+msgctxt "you are entering {country}"
+msgid "Costa Rica"
+msgstr "Kostarika"
+
+msgctxt "you are entering {country}"
+msgid "Ivory Coast"
+msgstr "Pobrežie slonoviny"
+
+msgctxt "you are entering {country}"
+msgid "Croatia"
+msgstr "Chorvátsko"
+
+msgctxt "you are entering {country}"
+msgid "Cyprus"
+msgstr "Cyprus"
+
+msgctxt "you are entering {country}"
+msgid "the Czech Republic"
+msgstr "Česká republika"
+
+msgctxt "you are entering {country}"
+msgid "Denmark"
+msgstr "Dánsko"
+
+msgctxt "you are entering {country}"
+msgid "Djibouti"
+msgstr "Džibutsko"
+
+msgctxt "you are entering {country}"
+msgid "the Dominican Republic"
+msgstr "Dominikánska republika"
+
+msgctxt "you are entering {country}"
+msgid "East Timor"
+msgstr "Východný Timor"
+
+msgctxt "you are entering {country}"
+msgid "Ecuador"
+msgstr "Ekvádor"
+
+msgctxt "you are entering {country}"
+msgid "Egypt"
+msgstr "Egypt"
+
+msgctxt "you are entering {country}"
+msgid "El Salvador"
+msgstr "Salvádor"
+
+msgctxt "you are entering {country}"
+msgid "Equatorial Guinea"
+msgstr "Rovníková Guinea"
+
+msgctxt "you are entering {country}"
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgctxt "you are entering {country}"
+msgid "Estonia"
+msgstr "Estónsko"
+
+msgctxt "you are entering {country}"
+msgid "Ethiopia"
+msgstr "Etiópia"
+
+msgctxt "you are entering {country}"
+msgid "Finland"
+msgstr "Fínsko"
+
+msgctxt "you are entering {country}"
+msgid "France"
+msgstr "Francúzsko"
+
+msgctxt "you are entering {country}"
+msgid "French Guiana"
+msgstr "Francúzska Guyana"
+
+msgctxt "you are entering {country}"
+msgid "Gabon"
+msgstr "Gabon"
+
+msgctxt "you are entering {country}"
+msgid "the Gambia"
+msgstr "Gambia"
+
+msgctxt "you are entering {country}"
+msgid "Georgia"
+msgstr "Gruzínsko"
+
+msgctxt "you are entering {country}"
+msgid "Germany"
+msgstr "Nemecko"
+
+msgctxt "you are entering {country}"
+msgid "Ghana"
+msgstr "Ghana"
+
+msgctxt "you are entering {country}"
+msgid "Gibraltar"
+msgstr "Gibraltár"
+
+msgctxt "you are entering {country}"
+msgid "Greece"
+msgstr "Grécko"
+
+msgctxt "you are entering {country}"
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgctxt "you are entering {country}"
+msgid "Guinea"
+msgstr "Guinea"
+
+msgctxt "you are entering {country}"
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+msgctxt "you are entering {country}"
+msgid "Guyana"
+msgstr "Guyana"
+
+msgctxt "you are entering {country}"
+msgid "Haiti"
+msgstr "Haiti"
+
+msgctxt "you are entering {country}"
+msgid "Vatican City"
+msgstr "Vatikán"
+
+msgctxt "you are entering {country}"
+msgid "Honduras"
+msgstr "Honduras"
+
+msgctxt "you are entering {country}"
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+msgctxt "you are entering {country}"
+msgid "Hungary"
+msgstr "Maďarsko"
+
+msgctxt "you are entering {country}"
+msgid "India"
+msgstr "India"
+
+msgctxt "you are entering {country}"
+msgid "Indonesia"
+msgstr "Indonézia"
+
+msgctxt "you are entering {country}"
+msgid "Iran"
+msgstr "Irán"
+
+msgctxt "you are entering {country}"
+msgid "Iraq"
+msgstr "Irak"
+
+msgctxt "you are entering {country}"
+msgid "Ireland"
+msgstr "Írsko"
+
+msgctxt "you are entering {country}"
+msgid "Israel"
+msgstr "Izrael"
+
+msgctxt "you are entering {country}"
+msgid "Italy"
+msgstr "Taliansko"
+
+msgctxt "you are entering {country}"
+msgid "Jamaica"
+msgstr "Jamajka"
+
+msgctxt "you are entering {country}"
+msgid "Jordan"
+msgstr "Jordánsko"
+
+msgctxt "you are entering {country}"
+msgid "Kazakhstan"
+msgstr "Kazachstan"
+
+msgctxt "you are entering {country}"
+msgid "Kenya"
+msgstr "Keňa"
+
+msgctxt "you are entering {country}"
+msgid "North Korea"
+msgstr "Severná Kórea"
+
+msgctxt "you are entering {country}"
+msgid "South Korea"
+msgstr "Južná Kórea"
+
+msgctxt "you are entering {country}"
+msgid "Kosovo"
+msgstr "Kosovo"
+
+msgctxt "you are entering {country}"
+msgid "Kuwait"
+msgstr "Kuvajt"
+
+msgctxt "you are entering {country}"
+msgid "Kyrgyzstan"
+msgstr "Kirgizsko"
+
+msgctxt "you are entering {country}"
+msgid "Laos"
+msgstr "Laos"
+
+msgctxt "you are entering {country}"
+msgid "Latvia"
+msgstr "Lotyšsko"
+
+msgctxt "you are entering {country}"
+msgid "Lebanon"
+msgstr "Libanon"
+
+msgctxt "you are entering {country}"
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgctxt "you are entering {country}"
+msgid "Liberia"
+msgstr "Libéria"
+
+msgctxt "you are entering {country}"
+msgid "Libya"
+msgstr "Líbya"
+
+msgctxt "you are entering {country}"
+msgid "Liechtenstein"
+msgstr "Lichtenštajnsko"
+
+msgctxt "you are entering {country}"
+msgid "Lithuania"
+msgstr "Litva"
+
+msgctxt "you are entering {country}"
+msgid "Luxembourg"
+msgstr "Luxembursko"
+
+msgctxt "you are entering {country}"
+msgid "Macau"
+msgstr "Macao"
+
+msgctxt "you are entering {country}"
+msgid "North Macedonia"
+msgstr "Severné Macedónsko"
+
+msgctxt "you are entering {country}"
+msgid "Malawi"
+msgstr "Malawi"
+
+msgctxt "you are entering {country}"
+msgid "Malaysia"
+msgstr "Malajzia"
+
+msgctxt "you are entering {country}"
+msgid "Mali"
+msgstr "Mali"
+
+msgctxt "you are entering {country}"
+msgid "Malta"
+msgstr "Malta"
+
+msgctxt "you are entering {country}"
+msgid "Mauritania"
+msgstr "Mauritánia"
+
+msgctxt "you are entering {country}"
+msgid "Mexico"
+msgstr "Mexiko"
+
+msgctxt "you are entering {country}"
+msgid "Moldova"
+msgstr "Moldavsko"
+
+msgctxt "you are entering {country}"
+msgid "Monaco"
+msgstr "Monako"
+
+msgctxt "you are entering {country}"
+msgid "Mongolia"
+msgstr "Mongolsko"
+
+msgctxt "you are entering {country}"
+msgid "Montenegro"
+msgstr "Čierna Hora"
+
+msgctxt "you are entering {country}"
+msgid "Morocco"
+msgstr "Maroko"
+
+msgctxt "you are entering {country}"
+msgid "Mozambique"
+msgstr "Mozambik"
+
+msgctxt "you are entering {country}"
+msgid "Myanmar"
+msgstr "Mjanmarsko"
+
+msgctxt "you are entering {country}"
+msgid "Namibia"
+msgstr "Namíbia"
+
+msgctxt "you are entering {country}"
+msgid "Nepal"
+msgstr "Nepál"
+
+msgctxt "you are entering {country}"
+msgid "the Netherlands"
+msgstr "Holandsko"
+
+msgctxt "you are entering {country}"
+msgid "Nicaragua"
+msgstr "Nikaragua"
+
+msgctxt "you are entering {country}"
+msgid "Niger"
+msgstr "Niger"
+
+msgctxt "you are entering {country}"
+msgid "Nigeria"
+msgstr "Nigéria"
+
+msgctxt "you are entering {country}"
+msgid "Norway"
+msgstr "Nórsko"
+
+msgctxt "you are entering {country}"
+msgid "Oman"
+msgstr "Omán"
+
+msgctxt "you are entering {country}"
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgctxt "you are entering {country}"
+msgid "Palestine"
+msgstr "Palestína"
+
+msgctxt "you are entering {country}"
+msgid "Panama"
+msgstr "Panama"
+
+msgctxt "you are entering {country}"
+msgid "Papua New Guinea"
+msgstr "Papua-Nová Guinea"
+
+msgctxt "you are entering {country}"
+msgid "Paraguay"
+msgstr "Paraguaj"
+
+msgctxt "you are entering {country}"
+msgid "Peru"
+msgstr "Peru"
+
+msgctxt "you are entering {country}"
+msgid "Poland"
+msgstr "Poľsko"
+
+msgctxt "you are entering {country}"
+msgid "Portugal"
+msgstr "Portugalsko"
+
+msgctxt "you are entering {country}"
+msgid "Qatar"
+msgstr "Katar"
+
+msgctxt "you are entering {country}"
+msgid "Romania"
+msgstr "Rumunsko"
+
+msgctxt "you are entering {country}"
+msgid "the Russian Federation"
+msgstr "Ruská federácia"
+
+msgctxt "you are entering {country}"
+msgid "Rwanda"
+msgstr "Rwanda"
+
+msgctxt "you are entering {country}"
+msgid "Saint Martin"
+msgstr "Svätý Martin"
+
+msgctxt "you are entering {country}"
+msgid "San Marino"
+msgstr "San Maríno"
+
+msgctxt "you are entering {country}"
+msgid "Saudi Arabia"
+msgstr "Saudská Arábia"
+
+msgctxt "you are entering {country}"
+msgid "Senegal"
+msgstr "Senegal"
+
+msgctxt "you are entering {country}"
+msgid "Serbia"
+msgstr "Srbsko"
+
+msgctxt "you are entering {country}"
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgctxt "you are entering {country}"
+msgid "Singapore"
+msgstr "Singapur"
+
+msgctxt "you are entering {country}"
+msgid "Sint Maarten"
+msgstr "Svätý Martin (holandská časť)"
+
+msgctxt "you are entering {country}"
+msgid "Slovakia"
+msgstr "Slovensko"
+
+msgctxt "you are entering {country}"
+msgid "Slovenia"
+msgstr "Slovinsko"
+
+msgctxt "you are entering {country}"
+msgid "Somalia"
+msgstr "Somálsko"
+
+msgctxt "you are entering {country}"
+msgid "South Africa"
+msgstr "Južná Afrika"
+
+msgctxt "you are entering {country}"
+msgid "South Sudan"
+msgstr "Južný Sudán"
+
+msgctxt "you are entering {country}"
+msgid "Spain"
+msgstr "Španielsko"
+
+msgctxt "you are entering {country}"
+msgid "Sudan"
+msgstr "Sudán"
+
+msgctxt "you are entering {country}"
+msgid "Suriname"
+msgstr "Surinam"
+
+msgctxt "you are entering {country}"
+msgid "Swaziland"
+msgstr "Svazijsko"
+
+msgctxt "you are entering {country}"
+msgid "Sweden"
+msgstr "Švédsko"
+
+msgctxt "you are entering {country}"
+msgid "Switzerland"
+msgstr "Švajčiarsko"
+
+msgctxt "you are entering {country}"
+msgid "Syria"
+msgstr "Sýria"
+
+msgctxt "you are entering {country}"
+msgid "Tajikistan"
+msgstr "Tadžikistan"
+
+msgctxt "you are entering {country}"
+msgid "Tanzania"
+msgstr "Tanzánia"
+
+msgctxt "you are entering {country}"
+msgid "Thailand"
+msgstr "Thajsko"
+
+msgctxt "you are entering {country}"
+msgid "Timor-Leste"
+msgstr "Východný Timor"
+
+msgctxt "you are entering {country}"
+msgid "Togo"
+msgstr "Togo"
+
+msgctxt "you are entering {country}"
+msgid "Tunisia"
+msgstr "Tunisko"
+
+msgctxt "you are entering {country}"
+msgid "Turkey"
+msgstr "Turecko"
+
+msgctxt "you are entering {country}"
+msgid "Turkmenistan"
+msgstr "Turkménsko"
+
+msgctxt "you are entering {country}"
+msgid "Uganda"
+msgstr "Uganda"
+
+msgctxt "you are entering {country}"
+msgid "Ukraine"
+msgstr "Ukrajina"
+
+msgctxt "you are entering {country}"
+msgid "the United Arab Emirates"
+msgstr "Spojené arabské emiráty"
+
+msgctxt "you are entering {country}"
+msgid "the United Kingdom"
+msgstr "Spojené kráľovstvo"
+
+msgctxt "you are entering {country}"
+msgid "the United States of America"
+msgstr "Spojené štáty americké"
+
+msgctxt "you are entering {country}"
+msgid "Uruguay"
+msgstr "Uruguaj"
+
+msgctxt "you are entering {country}"
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+msgctxt "you are entering {country}"
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgctxt "you are entering {country}"
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgctxt "you are entering {country}"
+msgid "Western Sahara"
+msgstr "Západná Sahara"
+
+msgctxt "you are entering {country}"
+msgid "Yemen"
+msgstr "Jemen"
+
+msgctxt "you are entering {country}"
+msgid "Zambia"
+msgstr "Zambia"
+
+msgctxt "you are entering {country}"
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgctxt "{roundabout_exit_number}"
+msgid "first"
+msgstr "prvý"
+
+msgctxt "{roundabout_exit_number}"
+msgid "second"
+msgstr "druhý"
+
+msgctxt "{roundabout_exit_number}"
+msgid "third"
+msgstr "tretí"
+
+msgctxt "{roundabout_exit_number}"
+msgid "fourth"
+msgstr "štvrtý"
+
+msgctxt "{roundabout_exit_number}"
+msgid "fifth"
+msgstr "piaty"
+
+msgctxt "{roundabout_exit_number}"
+msgid "sixth"
+msgstr "šiesty"
+
+msgctxt "{roundabout_exit_number}"
+msgid "seventh"
+msgstr "siedmy"
+
+msgctxt "{roundabout_exit_number}"
+msgid "eighth"
+msgstr "ôsmy"
+
+msgctxt "{roundabout_exit_number}"
+msgid "ninth"
+msgstr "deviaty"
+
+msgctxt "{roundabout_exit_number}"
+msgid "tenth"
+msgstr "desiaty"
+
+msgctxt "{roundabout_exit_number}"
+msgid "eleventh"
+msgstr "jedenásty"
+
+msgctxt "{roundabout_exit_number}"
+msgid "twelfth"
+msgstr "dvanásty"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "first"
+msgstr "prvý"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "second"
+msgstr "druhý"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "third"
+msgstr "tretí"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "fourth"
+msgstr "štvrtý"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "fifth"
+msgstr "piaty"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "sixth"
+msgstr "šiesty"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "seventh"
+msgstr "siedmy"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "eighth"
+msgstr "ôsmy"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "ninth"
+msgstr "deviaty"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "tenth"
+msgstr "desiaty"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "eleventh"
+msgstr "jedenásty"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "twelfth"
+msgstr "dvanásty"
+
+msgctxt "{landmark}"
+msgid "at the end of the road"
+msgstr "na konci cesty"
+
+msgctxt "{landmark}"
+msgid "at the traffic light"
+msgstr "na semaforoch"
+
+msgctxt "In {distance}"
+msgid "{count} meter"
+msgid_plural "{count} meters"
+msgstr[0] "{count} meter"
+msgstr[1] "{count} metrov"
+msgstr[2] "{count} metrov"
+
+msgctxt "In {distance}"
+msgid "{count} kilometer"
+msgid_plural "{count} kilometers"
+msgstr[0] "{count} kilometer"
+msgstr[1] "{count} kilometrov"
+msgstr[2] "{count} kilometrov"
+
+msgctxt "In {distance}"
+msgid "{count} foot"
+msgid_plural "{count} feet"
+msgstr[0] "{count} stopa"
+msgstr[1] "{count} stôp"
+msgstr[2] "{count} stôp"
+
+msgctxt "In {distance}"
+msgid "{count} yard"
+msgid_plural "{count} yards"
+msgstr[0] "{count} yard"
+msgstr[1] "{count} yardov"
+msgstr[2] "{count} yardov"
+
+msgctxt "In {distance}"
+msgid "{count} mile"
+msgid_plural "{count} miles"
+msgstr[0] "{count} míľa"
+msgstr[1] "{count} míľ"
+msgstr[2] "{count} míľ"
+
+msgctxt "follow for {distance}"
+msgid "{count} meter"
+msgid_plural "{count} meters"
+msgstr[0] "{count} meter"
+msgstr[1] "{count} metrov"
+msgstr[2] "{count} metrov"
+
+msgctxt "follow for {distance}"
+msgid "{count} kilometer"
+msgid_plural "{count} kilometers"
+msgstr[0] "{count} kilometer"
+msgstr[1] "{count} kilometrov"
+msgstr[2] "{count} kilometrov"
+
+msgctxt "follow for {distance}"
+msgid "{count} foot"
+msgid_plural "{count} feet"
+msgstr[0] "{count} stopa"
+msgstr[1] "{count} stôp"
+msgstr[2] "{count} stôp"
+
+msgctxt "follow for {distance}"
+msgid "{count} yard"
+msgid_plural "{count} yards"
+msgstr[0] "{count} yard"
+msgstr[1] "{count} yardov"
+msgstr[2] "{count} yardov"
+
+msgctxt "follow for {distance}"
+msgid "{count} mile"
+msgid_plural "{count} miles"
+msgstr[0] "{count} míľa"
+msgstr[1] "{count} míľ"
+msgstr[2] "{count} míľ"
+
+msgctxt "after {distance}"
+msgid "{count} meter"
+msgid_plural "{count} meters"
+msgstr[0] "{count} meter"
+msgstr[1] "{count} metrov"
+msgstr[2] "{count} metrov"
+
+msgctxt "after {distance}"
+msgid "{count} kilometer"
+msgid_plural "{count} kilometers"
+msgstr[0] "{count} kilometer"
+msgstr[1] "{count} kilometrov"
+msgstr[2] "{count} kilometrov"
+
+msgctxt "after {distance}"
+msgid "{count} foot"
+msgid_plural "{count} feet"
+msgstr[0] "{count} stopa"
+msgstr[1] "{count} stôp"
+msgstr[2] "{count} stôp"
+
+msgctxt "after {distance}"
+msgid "{count} yard"
+msgid_plural "{count} yards"
+msgstr[0] "{count} yard"
+msgstr[1] "{count} yardov"
+msgstr[2] "{count} yardov"
+
+msgctxt "after {distance}"
+msgid "{count} mile"
+msgid_plural "{count} miles"
+msgstr[0] "{count} míľa"
+msgstr[1] "{count} míľ"
+msgstr[2] "{count} míľ"
+
+msgctxt "In {distance}"
+msgid "one and a half kilometers"
+msgstr "jeden a pol kilometra"
+
+msgctxt "In {distance}"
+msgid "two and a half kilometers"
+msgstr "dva a pol kilometra"
+
+msgctxt "In {distance}"
+msgid "three and a half kilometers"
+msgstr "tri a pol kilometra"
+
+msgctxt "In {distance}"
+msgid "four and a half kilometers"
+msgstr "štyri a pol kilometra"
+
+msgctxt "In {distance}"
+msgid "a quarter of a mile"
+msgstr "štvrť míle"
+
+msgctxt "In {distance}"
+msgid "half a mile"
+msgstr "pol míle"
+
+msgctxt "In {distance}"
+msgid "three quarters of a mile"
+msgstr "tri štvrtiny míle"
+
+msgctxt "In {distance}"
+msgid "one and a half miles"
+msgstr "jedna a pol míle"
+
+msgctxt "In {distance}"
+msgid "two and a half miles"
+msgstr "dve a pol míle"
+
+msgctxt "In {distance}"
+msgid "three and a half miles"
+msgstr "tri a pol míle"
+
+msgctxt "In {distance}"
+msgid "four and a half miles"
+msgstr "štyri a pol míle"
+
+msgctxt "In {distance}"
+msgid "five and a half miles"
+msgstr "päť a pol míle"
+
+msgctxt "In {distance}"
+msgid "six and a half miles"
+msgstr "šesť a pol míle"
+
+msgctxt "In {distance}"
+msgid "seven and a half miles"
+msgstr "sedem a pol míle"
+
+msgctxt "In {distance}"
+msgid "eight and a half miles"
+msgstr "osem a pol míle"
+
+msgctxt "In {distance}"
+msgid "nine and a half miles"
+msgstr "deväť a pol míle"
+
+msgctxt "follow for {distance}"
+msgid "one and a half kilometers"
+msgstr "jeden a pol kilometra"
+
+msgctxt "follow for {distance}"
+msgid "two and a half kilometers"
+msgstr "dva a pol kilometra"
+
+msgctxt "follow for {distance}"
+msgid "three and a half kilometers"
+msgstr "tri a pol kilometra"
+
+msgctxt "follow for {distance}"
+msgid "four and a half kilometers"
+msgstr "štyri a pol kilometra"
+
+msgctxt "follow for {distance}"
+msgid "a quarter of a mile"
+msgstr "štvrť míle"
+
+msgctxt "follow for {distance}"
+msgid "half a mile"
+msgstr "pol míle"
+
+msgctxt "follow for {distance}"
+msgid "three quarters of a mile"
+msgstr "tri štvrtiny míle"
+
+msgctxt "follow for {distance}"
+msgid "one and a half miles"
+msgstr "jedna a pol míle"
+
+msgctxt "follow for {distance}"
+msgid "two and a half miles"
+msgstr "dve a pol míle"
+
+msgctxt "follow for {distance}"
+msgid "three and a half miles"
+msgstr "tri a pol míle"
+
+msgctxt "follow for {distance}"
+msgid "four and a half miles"
+msgstr "štyri a pol míle"
+
+msgctxt "follow for {distance}"
+msgid "five and a half miles"
+msgstr "päť a pol míle"
+
+msgctxt "follow for {distance}"
+msgid "six and a half miles"
+msgstr "šesť a pol míle"
+
+msgctxt "follow for {distance}"
+msgid "seven and a half miles"
+msgstr "sedem a pol míle"
+
+msgctxt "follow for {distance}"
+msgid "eight and a half miles"
+msgstr "osem a pol míle"
+
+msgctxt "follow for {distance}"
+msgid "nine and a half miles"
+msgstr "deväť a pol míle"
+
+msgctxt "In {distance}"
+msgid "one kilometer"
+msgstr "jeden kilometer"
+
+msgctxt "In {distance}"
+msgid "two kilometers"
+msgstr "dva kilometre"
+
+msgctxt "In {distance}"
+msgid "three kilometers"
+msgstr "tri kilometre"
+
+msgctxt "In {distance}"
+msgid "one mile"
+msgstr "jedna míľa"
+
+msgctxt "In {distance}"
+msgid "two miles"
+msgstr "dve míle"
+
+msgctxt "In {distance}"
+msgid "three miles"
+msgstr "tri míle"
+
+msgctxt "follow for {distance}"
+msgid "one kilometer"
+msgstr "jeden kilometer"
+
+msgctxt "follow for {distance}"
+msgid "two kilometers"
+msgstr "dva kilometre"
+
+msgctxt "follow for {distance}"
+msgid "three kilometers"
+msgstr "tri kilometre"
+
+msgctxt "follow for {distance}"
+msgid "one mile"
+msgstr "jedna míľa"
+
+msgctxt "follow for {distance}"
+msgid "two miles"
+msgstr "dve míle"
+
+msgctxt "follow for {distance}"
+msgid "three miles"
+msgstr "tri míle"
+
+msgctxt "after {distance}"
+msgid "one kilometer"
+msgstr "jeden kilometer"
+
+msgctxt "after {distance}"
+msgid "two kilometers"
+msgstr "dva kilometre"
+
+msgctxt "after {distance}"
+msgid "three kilometers"
+msgstr "tri kilometre"
+
+msgctxt "after {distance}"
+msgid "one mile"
+msgstr "jedna míľa"
+
+msgctxt "after {distance}"
+msgid "two miles"
+msgstr "dve míle"
+
+msgctxt "after {distance}"
+msgid "three miles"
+msgstr "tri míle"
+
+msgctxt "In {distance} - fractional"
+msgid "{count} kilometers"
+msgstr "{count} kilometrov"
+
+msgctxt "In {distance} - fractional"
+msgid "{count} miles"
+msgstr "{count} míľ"
+
+msgctxt "follow for {distance} - fractional"
+msgid "{count} kilometers"
+msgstr "{count} kilometrov"
+
+msgctxt "follow for {distance} - fractional"
+msgid "{count} miles"
+msgstr "{count} míľ"
+
+msgctxt "after {distance} - fractional"
+msgid "{count} kilometers"
+msgstr "{count} kilometrov"
+
+msgctxt "after {distance} - fractional"
+msgid "{count} miles"
+msgstr "{count} míľ"

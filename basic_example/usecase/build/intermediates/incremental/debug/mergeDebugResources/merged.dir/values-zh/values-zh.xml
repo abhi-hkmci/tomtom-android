@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/apk/res-auto">
+    <string name="distance_unit_short_feet" ns1:desc="Abbreviated version of &apos;feet&apos;">英尺</string>
+    <string name="distance_unit_short_kilometers" ns1:desc="Abbreviated version of &apos;kilometres&apos;">公里</string>
+    <string name="distance_unit_short_meters" ns1:desc="Abbreviated version of &apos;metres&apos;">公尺</string>
+    <string name="distance_unit_short_miles" ns1:desc="Abbreviated version of &apos;miles&apos;">英里</string>
+    <string name="distance_unit_short_yards" ns1:desc="Abbreviated version of &apos;yards&apos;">碼</string>
+    <string name="guidance_announcements_basic_maneuver_bear_left" ns1:desc="Voice driving instruction - ">转向左侧车道</string>
+    <string name="guidance_announcements_basic_maneuver_bear_right" ns1:desc="Voice driving instruction - ">转向右侧车道</string>
+    <string name="guidance_announcements_basic_maneuver_keep_left" ns1:desc="Voice driving instruction - ">在左侧车道行驶</string>
+    <string name="guidance_announcements_basic_maneuver_keep_right" ns1:desc="Voice driving instruction - ">在右侧车道行驶</string>
+    <string name="guidance_announcements_basic_maneuver_left" ns1:desc="Voice driving instruction - ">左转弯</string>
+    <string name="guidance_announcements_basic_maneuver_right" ns1:desc="Voice driving instruction - ">右转弯</string>
+    <string name="guidance_announcements_basic_maneuver_sharp_left" ns1:desc="Voice driving instruction - ">向左急转弯</string>
+    <string name="guidance_announcements_basic_maneuver_sharp_right" ns1:desc="Voice driving instruction - ">右侧急转弯</string>
+    <string name="guidance_announcements_basic_maneuver_straight" ns1:desc="Voice driving instruction - ">直行</string>
+    <string name="guidance_announcements_basic_maneuver_try_u_turn" ns1:desc="Voice driving instruction - ">请在适当时间掉头</string>
+    <string name="guidance_announcements_basic_maneuver_u_turn" ns1:desc="Voice driving instruction - ">请掉头</string>
+    <string name="guidance_announcements_combined_sentence_format" ns1:desc="Combined Instruction delimiter ">%s，然后 %s</string>
+    <string name="guidance_announcements_few_feet_for" ns1:desc="Voice driving instruction - &apos;for {3/4} feet&apos;">行駛 %d 呎</string>
+    <string name="guidance_announcements_few_feet_in" ns1:desc="Voice driving instruction - &apos;In {3/4} feet&apos;">%d 呎後</string>
+    <string name="guidance_announcements_few_kilometres_for" ns1:desc="Voice driving instruction - &apos;for {3/4} kilometres&apos;">行駛 %d 公里</string>
+    <string name="guidance_announcements_few_kilometres_in" ns1:desc="Voice driving instruction - &apos;In {3/4} kilometres&apos;">%d 公里後</string>
+    <string name="guidance_announcements_few_meters_for" ns1:desc="Voice driving instruction - &apos;for {3/4} metres&apos;">行駛 %d 公尺</string>
+    <string name="guidance_announcements_few_meters_in" ns1:desc="Voice driving instruction - &apos;In {3/4} metres&apos;">%d 公尺後</string>
+    <string name="guidance_announcements_few_miles_for" ns1:desc="Voice driving instruction - &apos;for {3/4} miles&apos;">行駛 %d 英里</string>
+    <string name="guidance_announcements_few_miles_in" ns1:desc="Voice driving instruction - &apos;In {3/4} miles&apos;">%d 英里後</string>
+    <string name="guidance_announcements_few_yards_for" ns1:desc="Voice driving instruction - &apos;for {3/4} yards&apos;">行駛 %d 碼</string>
+    <string name="guidance_announcements_few_yards_in" ns1:desc="Voice driving instruction - &apos;In {3/4} yards&apos;">%d 碼後</string>
+    <string name="guidance_announcements_float_unit_feet_for" ns1:desc="Voice driving instruction - &apos;for 10.5 feet&apos;">行駛 %.1f 呎</string>
+    <string name="guidance_announcements_float_unit_feet_in" ns1:desc="Voice driving instruction - &apos;In 10.5 feet&apos;">%.1f 呎後</string>
+    <string name="guidance_announcements_float_unit_kilometers_for" ns1:desc="Voice driving instruction - &apos;for 1.5 kilometres&apos;">行駛 %.1f 公里</string>
+    <string name="guidance_announcements_float_unit_kilometers_in" ns1:desc="Voice driving instruction - &apos;In 1.5 kilometres&apos;">%.1f 公里後</string>
+    <string name="guidance_announcements_float_unit_meters_for" ns1:desc="Voice driving instruction - &apos;for 10.5 metres&apos;">行駛 %.1f 公尺</string>
+    <string name="guidance_announcements_float_unit_meters_in" ns1:desc="Voice driving instruction - &apos;In 10.5 metres&apos;">%.1f 公尺後</string>
+    <string name="guidance_announcements_float_unit_miles_for" ns1:desc="Voice driving instruction - &apos;for 10.5 miles&apos;">行駛 %.1f 英里</string>
+    <string name="guidance_announcements_float_unit_miles_in" ns1:desc="Voice driving instruction - &apos;In 10.5 miles&apos;">%.1f 英里後</string>
+    <string name="guidance_announcements_float_unit_yards_for" ns1:desc="Voice driving instruction - &apos;for 10.5 yards&apos;">行駛 %.1f 碼</string>
+    <string name="guidance_announcements_float_unit_yards_in" ns1:desc="Voice driving instruction - &apos;In 10.5 yards&apos;">%.1f 碼後</string>
+    <string name="guidance_announcements_half_mile_for" ns1:desc="Voice driving instruction - &apos;for half a mile&apos;">0.5 英里</string>
+    <string name="guidance_announcements_half_mile_in" ns1:desc="Voice driving instruction - &apos;In half a mile&apos;">在 0.5 英里內</string>
+    <string name="guidance_announcements_itinerary_arrive" ns1:desc="Voice driving instruction - ">您即将到达目的地</string>
+    <string name="guidance_announcements_itinerary_arrive_confirmation" ns1:desc="Voice driving instruction - ">您已经到达目的地</string>
+    <string name="guidance_announcements_itinerary_arrive_left_pointer" ns1:desc="Voice driving instruction - &apos;You have reached your waypoint, it is on the left&apos;">目的地在您左侧</string>
+    <string name="guidance_announcements_itinerary_arrive_right_pointer" ns1:desc="Voice driving instruction - &apos;You have reached your waypoint, it is on the right&apos;">目的地在您右侧</string>
+    <string name="guidance_announcements_itinerary_departure" ns1:desc="Voice driving instruction - ">开始行驶</string>
+    <string name="guidance_announcements_itinerary_waypoint" ns1:desc="Voice driving instruction - ">您即将到达停靠点</string>
+    <string name="guidance_announcements_itinerary_waypoint_confirmation" ns1:desc="Voice driving instruction - ">您已经到达停靠点</string>
+    <string name="guidance_announcements_many_feet_for" ns1:desc="Voice driving instruction - &apos;for 26 feet&apos;">行駛 %d 呎</string>
+    <string name="guidance_announcements_many_feet_in" ns1:desc="Voice driving instruction - &apos;In 26 feet&apos;">%d 呎後</string>
+    <string name="guidance_announcements_many_kilometres_for" ns1:desc="Voice driving instruction - &apos;for 26 kilometres&apos;">行駛 %d 公里</string>
+    <string name="guidance_announcements_many_kilometres_in" ns1:desc="Voice driving instruction - &apos;In 26 kilometres&apos;">%d 公里後</string>
+    <string name="guidance_announcements_many_meters_for" ns1:desc="Voice driving instruction - &apos;for 26 metres&apos;">行駛 %d 公尺</string>
+    <string name="guidance_announcements_many_meters_in" ns1:desc="Voice driving instruction - &apos;In 26 metres&apos;">%d 公尺後</string>
+    <string name="guidance_announcements_many_miles_for" ns1:desc="Voice driving instruction - &apos;for 26 miles&apos;">行駛 %d 英里</string>
+    <string name="guidance_announcements_many_miles_in" ns1:desc="Voice driving instruction - &apos;In 26 miles&apos;">%d 英里後</string>
+    <string name="guidance_announcements_many_yards_for" ns1:desc="Voice driving instruction - &apos;for 26 yards&apos;">行駛 %d 碼</string>
+    <string name="guidance_announcements_many_yards_in" ns1:desc="Voice driving instruction - &apos;In 26 yards&apos;">%d 碼後</string>
+    <string name="guidance_announcements_motorway_maneuvers_enter_freeway" ns1:desc="Voice driving instruction - ">请走高速公路</string>
+    <string name="guidance_announcements_motorway_maneuvers_enter_highway" ns1:desc="Voice driving instruction - ">请走高速公路</string>
+    <string name="guidance_announcements_motorway_maneuvers_enter_motorway" ns1:desc="Voice driving instruction - ">请走高速公路</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_left_no_number" ns1:desc="Voice driving instruction - ">从左侧出口驶出</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_left_with_number" ns1:desc="Voice driving instruction - &apos;Take exit {exit number(s), for example &apos;10, 13-15&apos;} on the left&apos;">从左侧 %s 出口驶出</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_no_direction_no_number" ns1:desc="Voice driving instruction - ">从出口驶出</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_number" ns1:desc="Voice driving instruction - Roundabout exit N (short)">从 %s 出口驶出</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_right_no_number" ns1:desc="Voice driving instruction - ">从右侧出口驶出</string>
+    <string name="guidance_announcements_motorway_maneuvers_exit_right_with_number" ns1:desc="Voice driving instruction - &apos;Take exit {exit number(s), for example &apos;10, 13-15&apos;} on the right&apos;">从右侧 %s 出口驶出</string>
+    <string name="guidance_announcements_one_and_half_mile_for" ns1:desc="Voice driving instruction - &apos;for one and a half miles&apos;">1.5 英里</string>
+    <string name="guidance_announcements_one_and_half_mile_in" ns1:desc="Voice driving instruction - &apos;In one and a half miles&apos;">在 1.5 英里內</string>
+    <string name="guidance_announcements_one_and_quarter_mile_for" ns1:desc="Voice driving instruction - &apos;for one and a quarter miles&apos;">1.25 英里</string>
+    <string name="guidance_announcements_one_and_quarter_mile_in" ns1:desc="Voice driving instruction - &apos;In one and a quarter miles&apos;">在 1.25 英里內</string>
+    <string name="guidance_announcements_one_and_three_quarters_mile_for" ns1:desc="Voice driving instruction - &apos;for one and three quarter miles&apos;">1.75 英里</string>
+    <string name="guidance_announcements_one_and_three_quarters_mile_in" ns1:desc="Voice driving instruction - &apos;In one and three quarter miles&apos;">在 1.75 英里內</string>
+    <string name="guidance_announcements_one_foot_for" ns1:desc="Voice driving instruction - &apos;for 1 foot&apos;">行駛 %d 呎</string>
+    <string name="guidance_announcements_one_foot_in" ns1:desc="Voice driving instruction - &apos;In 1 foot&apos;">%d 呎後</string>
+    <string name="guidance_announcements_one_kilometre_for" ns1:desc="Voice driving instruction - &apos;for 1 kilometre&apos;">行駛 %d 公里</string>
+    <string name="guidance_announcements_one_kilometre_in" ns1:desc="Voice driving instruction - &apos;In 1 kilometre&apos;">%d 公里後</string>
+    <string name="guidance_announcements_one_meter_for" ns1:desc="Voice driving instruction - &apos;for 1 metre&apos;">行駛 %d 公尺</string>
+    <string name="guidance_announcements_one_meter_in" ns1:desc="Voice driving instruction - &apos;In 1 metre&apos;">%d 公尺後</string>
+    <string name="guidance_announcements_one_mile_for" ns1:desc="Voice driving instruction - &apos;for 1 mile&apos;">行駛 %d 英里</string>
+    <string name="guidance_announcements_one_mile_in" ns1:desc="Voice driving instruction - &apos;In 1 mile&apos;">%d 英里後</string>
+    <string name="guidance_announcements_one_yard_for" ns1:desc="Voice driving instruction - &apos;for 1 yard&apos;">行駛 %d 碼</string>
+    <string name="guidance_announcements_one_yard_in" ns1:desc="Voice driving instruction - &apos;In 1 yard&apos;">%d 碼後</string>
+    <string name="guidance_announcements_onto_street_format" ns1:desc="Voice driving instruction - &apos;Turn onto -some street name-&apos;">进入 %s</string>
+    <string name="guidance_announcements_other_feet_for" ns1:desc="Voice driving instruction - &apos;for 26 feet&apos;">行駛 %d 呎</string>
+    <string name="guidance_announcements_other_feet_in" ns1:desc="Voice driving instruction - &apos;In 26 feet&apos;">%d 呎後</string>
+    <string name="guidance_announcements_other_kilometres_for" ns1:desc="Voice driving instruction - &apos;for 26 kilometres&apos;">行駛 %d 公里</string>
+    <string name="guidance_announcements_other_kilometres_in" ns1:desc="Voice driving instruction - &apos;In 26 kilometres&apos;">%d 公里後</string>
+    <string name="guidance_announcements_other_meters_for" ns1:desc="Voice driving instruction - &apos;for 26 metres&apos;">行駛 %d 公尺</string>
+    <string name="guidance_announcements_other_meters_in" ns1:desc="Voice driving instruction - &apos;In 26 metres&apos;">%d 公尺後</string>
+    <string name="guidance_announcements_other_miles_for" ns1:desc="Voice driving instruction - &apos;for 26 miles&apos;">行駛 %d 英里</string>
+    <string name="guidance_announcements_other_miles_in" ns1:desc="Voice driving instruction - &apos;In 26 miles&apos;">%d 英里後</string>
+    <string name="guidance_announcements_other_yards_for" ns1:desc="Voice driving instruction - &apos;for 26 yards&apos;">行駛 %d 碼</string>
+    <string name="guidance_announcements_other_yards_in" ns1:desc="Voice driving instruction - &apos;In 26 yards&apos;">%d 碼後</string>
+    <string name="guidance_announcements_quarter_mile_for" ns1:desc="Voice driving instruction - &apos;for a quarter of a mile&apos;">0.25 英里</string>
+    <string name="guidance_announcements_quarter_mile_in" ns1:desc="Voice driving instruction - &apos;In a quarter of a mile&apos;">在 0.25 英里內</string>
+    <string name="guidance_announcements_roundabout_exit_1" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">请从第一个出口驶出</string>
+    <string name="guidance_announcements_roundabout_exit_10" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">请从第十个出口驶出</string>
+    <string name="guidance_announcements_roundabout_exit_2" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">请从第二个出口驶出</string>
+    <string name="guidance_announcements_roundabout_exit_3" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">请从第三个出口驶出</string>
+    <string name="guidance_announcements_roundabout_exit_4" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">请从第四个出口驶出</string>
+    <string name="guidance_announcements_roundabout_exit_5" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">请从第五个出口驶出</string>
+    <string name="guidance_announcements_roundabout_exit_6" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">请从第六个出口驶出</string>
+    <string name="guidance_announcements_roundabout_exit_7" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">请从第七个出口驶出</string>
+    <string name="guidance_announcements_roundabout_exit_8" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">请从第八个出口驶出</string>
+    <string name="guidance_announcements_roundabout_exit_9" ns1:desc="Voice driving instruction - Confirmation at roundabout to take specific exit">请从第九个出口驶出</string>
+    <string name="guidance_announcements_roundabout_left" ns1:desc="Voice driving instruction - ">左转弯</string>
+    <string name="guidance_announcements_roundabout_main_and_exit_number_sentence" ns1:desc="Combined Instruction delimiter ">%s，%s</string>
+    <string name="guidance_announcements_roundabout_pointer" ns1:desc="Voice driving instruction - ">在环状交叉路口</string>
+    <string name="guidance_announcements_roundabout_right" ns1:desc="Voice driving instruction - ">右转弯</string>
+    <string name="guidance_announcements_roundabout_straight" ns1:desc="Voice driving instruction - ">直行</string>
+    <string name="guidance_announcements_roundabout_u_turn" ns1:desc="Voice driving instruction - ">请掉头</string>
+    <string name="guidance_announcements_special_follow_no_road_name" ns1:desc="Voice driving instruction - ">沿着道路行驶</string>
+    <string name="guidance_announcements_special_follow_road_name" ns1:desc="Voice driving instruction, will be followed by a road number and a distance string, e.g. &apos;Follow A4 for 6.2 KM&apos;">沿着 %s</string>
+    <string name="guidance_announcements_special_switch_main_road" ns1:desc="Voice driving instruction - ">切换到主干道</string>
+    <string name="guidance_announcements_special_switch_parallel_road" ns1:desc="Voice driving instruction - ">切换到平行道路</string>
+    <string name="guidance_announcements_special_take_ferry" ns1:desc="Voice driving instruction - ">请乘渡轮</string>
+    <string name="guidance_announcements_three_quarters_mile_for" ns1:desc="Voice driving instruction - &apos;for three quarters of a mile&apos;">0.75 英里</string>
+    <string name="guidance_announcements_three_quarters_mile_in" ns1:desc="Voice driving instruction - &apos;In three quarters of a mile&apos;">在 0.75 英里內</string>
+    <string name="guidance_announcements_two_and_half_mile_for" ns1:desc="Voice driving instruction - &apos;for two and a half miles&apos;">2.5 英里</string>
+    <string name="guidance_announcements_two_and_half_mile_in" ns1:desc="Voice driving instruction - &apos;In two and a half miles&apos;">在 2.5 英里內</string>
+    <string name="guidance_announcements_two_and_quarter_mile_for" ns1:desc="Voice driving instruction - &apos;for two and a quarter miles&apos;">2.25 英里</string>
+    <string name="guidance_announcements_two_and_quarter_mile_in" ns1:desc="Voice driving instruction - &apos;In two and a quarter miles&apos;">在 2.25 英里內</string>
+    <string name="guidance_announcements_two_and_three_quarters_mile_for" ns1:desc="Voice driving instruction - &apos;for two and three quarter miles&apos;">2.75 英里</string>
+    <string name="guidance_announcements_two_and_three_quarters_mile_in" ns1:desc="Voice driving instruction - &apos;In two and three quarter miles&apos;">在 2.75 英里內</string>
+    <string name="guidance_announcements_two_feet_for" ns1:desc="Voice driving instruction - &apos;for 2 feet&apos;">行駛 %d 呎</string>
+    <string name="guidance_announcements_two_feet_in" ns1:desc="Voice driving instruction - &apos;In 2 feet&apos;">%d 呎後</string>
+    <string name="guidance_announcements_two_kilometres_for" ns1:desc="Voice driving instruction - &apos;for 2 kilometres&apos;">行駛 %d 公里</string>
+    <string name="guidance_announcements_two_kilometres_in" ns1:desc="Voice driving instruction - &apos;In 2 kilometres&apos;">%d 公里後</string>
+    <string name="guidance_announcements_two_meters_for" ns1:desc="Voice driving instruction - &apos;for 2 metres&apos;">行駛 %d 公尺</string>
+    <string name="guidance_announcements_two_meters_in" ns1:desc="Voice driving instruction - &apos;In 2 metres&apos;">%d 公尺後</string>
+    <string name="guidance_announcements_two_miles_for" ns1:desc="Voice driving instruction - &apos;for 2 miles&apos;">行駛 %d 英里</string>
+    <string name="guidance_announcements_two_miles_in" ns1:desc="Voice driving instruction - &apos;In 2 miles&apos;">%d 英里後</string>
+    <string name="guidance_announcements_two_yards_for" ns1:desc="Voice driving instruction - &apos;for 2 yards&apos;">行駛 %d 碼</string>
+    <string name="guidance_announcements_two_yards_in" ns1:desc="Voice driving instruction - &apos;In 2 yards&apos;">%d 碼後</string>
+    <string name="guidance_announcements_zero_feet_for" ns1:desc="Voice driving instruction - &apos;for 0 feet&apos;">行駛 %d 呎</string>
+    <string name="guidance_announcements_zero_feet_in" ns1:desc="Voice driving instruction - &apos;In 0 feet&apos;">%d 呎後</string>
+    <string name="guidance_announcements_zero_kilometres_for" ns1:desc="Voice driving instruction - &apos;for 0 kilometres&apos;">行駛 %d 公里</string>
+    <string name="guidance_announcements_zero_kilometres_in" ns1:desc="Voice driving instruction - &apos;In 0 kilometres&apos;">%d 公里後</string>
+    <string name="guidance_announcements_zero_meters_for" ns1:desc="Voice driving instruction - &apos;for 0 metres&apos;">行駛 %d 公尺</string>
+    <string name="guidance_announcements_zero_meters_in" ns1:desc="Voice driving instruction - &apos;In 0 metres&apos;">%d 公尺後</string>
+    <string name="guidance_announcements_zero_miles_for" ns1:desc="Voice driving instruction - &apos;for 0 miles&apos;">行駛 %d 英里</string>
+    <string name="guidance_announcements_zero_miles_in" ns1:desc="Voice driving instruction - &apos;In 0 miles&apos;">%d 英里後</string>
+    <string name="guidance_announcements_zero_yards_for" ns1:desc="Voice driving instruction - &apos;for 0 yards&apos;">行駛 %d 碼</string>
+    <string name="guidance_announcements_zero_yards_in" ns1:desc="Voice driving instruction - &apos;In 0 yards&apos;">%d 碼後</string>
+    <string name="tomtom_navigation_arrival_panel_arriving_at" ns1:desc="NIP message - ">即將抵達</string>
+    <string name="tomtom_navigation_arrival_panel_default_location_message" ns1:desc="NIP message -">選取的位置\n%1$f\n%2$f</string>
+    <string name="tomtom_navigation_arrival_panel_finish" ns1:desc="NIP message - ">完成</string>
+    <string name="tomtom_navigation_arrival_time_label" ns1:desc="NIP message - ">抵達</string>
+    <string name="tomtom_navigation_combined_instruction_panel_then" ns1:desc="NIP message - ">接下來</string>
+    <string name="tomtom_navigation_kmh" ns1:desc="NIP message - Abbreviated version of &apos;kilometres per hour&apos;">公里/小時</string>
+    <string name="tomtom_navigation_layout_preview_arrival_distance" ns1:desc="NIP message - ">--</string>
+    <string name="tomtom_navigation_layout_preview_arrival_distance_unit" ns1:desc="NIP message - Abbreviated version of &apos;kilometres&apos;">公里</string>
+    <string name="tomtom_navigation_layout_preview_arrival_time" ns1:desc="NIP message - ">--:--</string>
+    <string name="tomtom_navigation_layout_preview_current_street" ns1:desc="NIP message - ">未知的街道</string>
+    <string name="tomtom_navigation_layout_preview_guidance_instruction_text" ns1:desc="NIP message - ">--</string>
+    <string name="tomtom_navigation_layout_preview_nip_distance" ns1:desc="NIP message - ">900</string>
+    <string name="tomtom_navigation_layout_preview_nip_distance_unit" ns1:desc="NIP message - Abbreviated version of &apos;metres&apos;">公尺</string>
+    <string name="tomtom_navigation_layout_preview_travel_time" ns1:desc="NIP message - ">--</string>
+    <string name="tomtom_navigation_layout_preview_travel_time_unit" ns1:desc="NIP message - Abbreviated version of &apos;minutes&apos;">分鐘</string>
+    <string name="tomtom_navigation_metersPerSecond" ns1:desc="NIP message - Abbreviated version of &apos;metres per second&apos;">公尺/秒</string>
+    <string name="tomtom_navigation_mph" ns1:desc="NIP message - Abbreviated version of &apos;miles per hour&apos;">英里/小時</string>
+    <string name="tomtom_navigation_routeCalculation" ns1:desc="Temporary NIP message before road will be calculated">正在計算路徑…</string>
+    <string name="tomtom_navigation_route_updated_panel_route_updated" ns1:desc="NIP message - ">路徑已更新</string>
+    <string name="tomtom_navigation_time_unit_short_hour" ns1:desc="NIP message - Abbreviated version of &apos;hour&apos;">小時</string>
+    <string name="tomtom_navigation_time_unit_short_minute" ns1:desc="NIP message - Abbreviated version of &apos;minute&apos;">分鐘</string>
+</resources>

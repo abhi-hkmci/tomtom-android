@@ -1,0 +1,2408 @@
+# Copyright (C) 2023 TomTom NV. All rights reserved.
+#
+# This software is the proprietary copyright of TomTom NV and its subsidiaries and may be
+# used for internal evaluation purposes or commercial use strictly subject to separate
+# license agreement between you and TomTom NV. If you are the licensee, you are only permitted
+# to use this software in accordance with the terms of your license agreement. If you are
+# not the licensee, you are not authorized to use this software in any manner and should
+# immediately return or destroy it.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-04 15:26+0200\n"
+"PO-Revision-Date: 2023-05-27 14:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Follow the {road_number} for {distance}."
+msgstr "請繼續沿著 {road_number} 行駛 {distance}。"
+
+msgid "Follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} for {distance}."
+msgstr "請繼續沿著 {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} 行駛 {distance}。"
+
+msgid "Follow {road_name} for {distance}."
+msgstr "請繼續沿著 {road_name} 行駛 {distance}。"
+
+msgid "Follow the freeway for {distance}."
+msgstr "請繼續沿著此高速公路行駛 {distance}。"
+
+msgid "Follow the road for {distance}."
+msgstr "請繼續沿著此道路行駛 {distance}。"
+
+msgid "In {distance} you will enter {country}."
+msgstr "{distance} 後您將進入 {country}。"
+
+msgid "You are entering {country}."
+msgstr "您正要進入 {country}。"
+
+msgid "Start driving on the {road_number}."
+msgstr "於 {road_number} 開始駕駛。"
+
+msgid "Start driving on {road_name}."
+msgstr "於 {road_name} 開始駕駛。"
+
+msgid "Start driving."
+msgstr "開始駕駛。"
+
+msgid "You have reached your destination at the {road_number}. It is on the right."
+msgstr "您已到達位於 {road_number} 的目的地。就在右側。"
+
+msgid "You have reached your destination at {road_name}. It is on the right."
+msgstr "您已到達位於 {road_name} 的目的地。就在右側。"
+
+msgid "You have reached your destination, it is on the right."
+msgstr "您已到達目的地，就在右側。"
+
+msgid "You have reached your destination at the {road_number}. It is on the left."
+msgstr "您已到達位於 {road_number} 的目的地。就在左側。"
+
+msgid "You have reached your destination at {road_name}. It is on the left."
+msgstr "您已到達位於 {road_name} 的目的地。就在左側。"
+
+msgid "You have reached your destination, it is on the left."
+msgstr "您已到達目的地，就在左側。"
+
+msgid "In {distance} you will reach your destination."
+msgstr "{distance} 後您將到達目的地。"
+
+msgid "You have reached your destination."
+msgstr "您已到達目的地。"
+
+msgid "You have reached your stop at the {road_number}. It is on the right."
+msgstr "您已到達位於 {road_number} 的停靠點。就在右側。"
+
+msgid "You have reached your stop at {road_name}. It is on the right."
+msgstr "您已到達位於 {road_name} 的停靠點。就在右側。"
+
+msgid "You have reached your stop, it is on the right."
+msgstr "您已到達停靠點，就在右側。"
+
+msgid "You have reached your stop at the {road_number}. It is on the left."
+msgstr "您已到達位於 {road_number} 的停靠點。就在左側。"
+
+msgid "You have reached your stop at {road_name}. It is on the left."
+msgstr "您已到達位於 {road_name} 的停靠點。就在左側。"
+
+msgid "You have reached your stop, it is on the left."
+msgstr "您已到達停靠點，就在左側。"
+
+msgid "In {distance} you will reach your stop."
+msgstr "{distance} 後您將到達停靠點。"
+
+msgid "You have reached your stop at the {road_number}."
+msgstr "您已到達位於 {road_number} 的停靠點。"
+
+msgid "You have reached your stop at {road_name}."
+msgstr "您已到達位於 {road_name} 的停靠點。"
+
+msgid "You have reached your stop."
+msgstr "您已到達停靠點。"
+
+msgid "In {distance} go straight {direction_details}."
+msgstr "{distance} 後請直行 {direction_details}。"
+
+msgid "In {distance} go straight."
+msgstr "{distance} 後請繼續直行。"
+
+msgid "Go straight {direction_details}."
+msgstr "請直行 {direction_details}。"
+
+msgid "Then go straight."
+msgstr "隨後請繼續直行。"
+
+msgid "Go straight."
+msgstr "請繼續直行。"
+
+msgid "In {distance} bear right at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 向右前方轉彎。"
+
+msgid "In {distance} {landmark} bear right {direction_details}."
+msgstr "{distance} 後請在 {landmark} 向右前方轉彎 {direction_details}。"
+
+msgid "In {distance} bear right {direction_details}."
+msgstr "{distance} 後請向右前方轉彎 {direction_details}。"
+
+msgid "In {distance} {landmark} bear right."
+msgstr "{distance} 後請在 {landmark} 向右前方轉彎。"
+
+msgid "In {distance} bear right."
+msgstr "{distance} 後請向右前方轉彎。"
+
+msgid "Bear right at {intersection_name}."
+msgstr "請在 {intersection_name} 向右前方轉彎。"
+
+msgid "{landmark} bear right {direction_details}."
+msgstr "請在 {landmark} 向右前方轉彎 {direction_details}。"
+
+msgid "Bear right {direction_details}."
+msgstr "請向右前方轉彎 {direction_details}。"
+
+msgid "Then bear right."
+msgstr "隨後請向右前方轉彎。"
+
+msgid "{landmark} bear right."
+msgstr "請向右前方轉彎。"
+
+msgid "Bear right."
+msgstr "請向右前方轉彎。"
+
+msgid "In {distance} turn right at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 右轉。"
+
+msgid "In {distance} {landmark} turn right {direction_details}."
+msgstr "{distance} 後請在 {landmark} 右轉 {direction_details}。"
+
+msgid "In {distance} turn right {direction_details}."
+msgstr "{distance} 後請右轉 {direction_details}。"
+
+msgid "In {distance} {landmark} turn right."
+msgstr "{distance} 後請在 {landmark} 右轉。"
+
+msgid "In {distance} turn right."
+msgstr "{distance} 後請右轉。"
+
+msgid "Turn right at {intersection_name}."
+msgstr "請在 {intersection_name} 右轉。"
+
+msgid "{landmark} turn right {direction_details}."
+msgstr "請在 {landmark} 右轉 {direction_details}。"
+
+msgid "Turn right {direction_details}."
+msgstr "請右轉 {direction_details}。"
+
+msgid "Then turn right."
+msgstr "隨後請右轉。"
+
+msgid "{landmark} turn right."
+msgstr "請右轉。"
+
+msgid "Turn right."
+msgstr "請右轉。"
+
+msgid "In {distance} make a sharp right turn at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 向右急轉彎。"
+
+msgid "In {distance} {landmark} make a sharp right turn {direction_details}."
+msgstr "{distance} 後請在 {landmark} 向右急轉彎 {direction_details}。"
+
+msgid "In {distance} make a sharp right turn {direction_details}."
+msgstr "{distance} 後請向右急轉彎 {direction_details}。"
+
+msgid "In {distance} {landmark} make a sharp right turn."
+msgstr "{distance} 後請在 {landmark} 向右急轉彎。"
+
+msgid "In {distance} make a sharp right turn."
+msgstr "{distance} 後請向右急轉彎。"
+
+msgid "Make a sharp right turn at {intersection_name}."
+msgstr "請在 {intersection_name} 向右急轉彎。"
+
+msgid "{landmark} make a sharp right turn {direction_details}."
+msgstr "請在 {landmark} 向右急轉彎 {direction_details}。"
+
+msgid "Make a sharp right turn {direction_details}."
+msgstr "請向右急轉彎 {direction_details}。"
+
+msgid "Then make a sharp right turn."
+msgstr "隨後請向右急轉彎。"
+
+msgid "{landmark} make a sharp right turn."
+msgstr "請向右急轉彎。"
+
+msgid "Make a sharp right turn."
+msgstr "請向右急轉彎。"
+
+msgid "In {distance} bear left at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 向左前方轉彎。"
+
+msgid "In {distance} {landmark} bear left {direction_details}."
+msgstr "{distance} 後請在 {landmark} 向左前方轉彎 {direction_details}。"
+
+msgid "In {distance} bear left {direction_details}."
+msgstr "{distance} 後請向左前方轉彎 {direction_details}。"
+
+msgid "In {distance} {landmark} bear left."
+msgstr "{distance} 後請在 {landmark} 向左前方轉彎。"
+
+msgid "In {distance} bear left."
+msgstr "{distance} 後請向左前方轉彎。"
+
+msgid "Bear left at {intersection_name}."
+msgstr "請在 {intersection_name} 向左前方轉彎。"
+
+msgid "{landmark} bear left {direction_details}."
+msgstr "請在 {landmark} 向左前方轉彎 {direction_details}。"
+
+msgid "Bear left {direction_details}."
+msgstr "請向左前方轉彎 {direction_details}。"
+
+msgid "Then bear left."
+msgstr "隨後請向左前方轉彎。"
+
+msgid "{landmark} bear left."
+msgstr "請向左前方轉彎。"
+
+msgid "Bear left."
+msgstr "請向左前方轉彎。"
+
+msgid "In {distance} turn left at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 左轉。"
+
+msgid "In {distance} {landmark} turn left {direction_details}."
+msgstr "{distance} 後請在 {landmark} 左轉 {direction_details}。"
+
+msgid "In {distance} turn left {direction_details}."
+msgstr "{distance} 後請左轉 {direction_details}。"
+
+msgid "In {distance} {landmark} turn left."
+msgstr "{distance} 後請在 {landmark} 左轉。"
+
+msgid "In {distance} turn left."
+msgstr "{distance} 後請左轉。"
+
+msgid "Turn left at {intersection_name}."
+msgstr "請在 {intersection_name} 左轉。"
+
+msgid "{landmark} turn left {direction_details}."
+msgstr "請在 {landmark} 左轉 {direction_details}。"
+
+msgid "Turn left {direction_details}."
+msgstr "請左轉 {direction_details}。"
+
+msgid "Then turn left."
+msgstr "隨後請左轉。"
+
+msgid "{landmark} turn left."
+msgstr "請左轉。"
+
+msgid "Turn left."
+msgstr "請左轉。"
+
+msgid "In {distance} make a sharp left turn at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 向左急轉彎。"
+
+msgid "In {distance} {landmark} make a sharp left turn {direction_details}."
+msgstr "{distance} 後請在 {landmark} 向左急轉彎 {direction_details}。"
+
+msgid "In {distance} make a sharp left turn {direction_details}."
+msgstr "{distance} 後請向左急轉彎 {direction_details}。"
+
+msgid "In {distance} {landmark} make a sharp left turn."
+msgstr "{distance} 後請在 {landmark} 向左急轉彎。"
+
+msgid "In {distance} make a sharp left turn."
+msgstr "{distance} 後請向左急轉彎。"
+
+msgid "Make a sharp left turn at {intersection_name}."
+msgstr "請在 {intersection_name} 向左急轉彎。"
+
+msgid "{landmark} make a sharp left turn {direction_details}."
+msgstr "請在 {landmark} 向左急轉彎 {direction_details}。"
+
+msgid "Make a sharp left turn {direction_details}."
+msgstr "請向左急轉彎 {direction_details}。"
+
+msgid "Then make a sharp left turn."
+msgstr "隨後請向左急轉彎。"
+
+msgid "{landmark} make a sharp left turn."
+msgstr "請向左急轉彎。"
+
+msgid "Make a sharp left turn."
+msgstr "請向左急轉彎。"
+
+msgid "In {distance} make a U-turn at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 迴轉。"
+
+msgid "In {distance} {landmark} make a U-turn {direction_details}."
+msgstr "{distance} 後請在 {landmark} 迴轉 {direction_details}。"
+
+msgid "In {distance} make a U-turn {direction_details}."
+msgstr "{distance} 後請迴轉 {direction_details}。"
+
+msgid "In {distance} {landmark} make a U-turn."
+msgstr "{distance} 後請在 {landmark} 迴轉。"
+
+msgid "In {distance} make a U-turn."
+msgstr "{distance} 後請迴轉。"
+
+msgid "Make a U-turn at {intersection_name}."
+msgstr "請在 {intersection_name} 迴轉。"
+
+msgid "{landmark} make a U-turn {direction_details}."
+msgstr "請在 {landmark} 迴轉 {direction_details}。"
+
+msgid "Make a U-turn {direction_details}."
+msgstr "請迴轉 {direction_details}。"
+
+msgid "Then make a U-turn."
+msgstr "隨後請迴轉。"
+
+msgid "{landmark} make a U-turn."
+msgstr "請迴轉。"
+
+msgid "Make a U-turn."
+msgstr "請迴轉。"
+
+msgid "In {distance} follow the road to the right."
+msgstr "{distance} 後請沿著目前道路往右行駛。"
+
+msgid "Then follow the road to the right."
+msgstr "隨後請沿著目前道路往右行駛。"
+
+msgid "Follow the road to the right."
+msgstr "請沿著目前道路往右行駛。"
+
+msgid "In {distance} follow the road to the left."
+msgstr "{distance} 後請沿著目前道路往左行駛。"
+
+msgid "Then follow the road to the left."
+msgstr "隨後請沿著目前道路往左行駛。"
+
+msgid "Follow the road to the left."
+msgstr "請沿著目前道路往左行駛。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "{distance} 後請在 {intersection_name} 從左側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "{distance} 後請在 {intersection_name} 從左側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 從左側 {exit_number} 號出口離開。"
+
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 從左側 {exit_number} 號出口離開。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left {direction_details}."
+msgstr "{distance} 後請從左側 {exit_number} 號出口離開 {direction_details}。"
+
+msgid "In {distance} take the exit {exit_number} on the left {direction_details}."
+msgstr "{distance} 後請從左側 {exit_number} 號出口離開 {direction_details}。"
+
+msgid "In {distance} take the left exit at {intersection_name} toward {toward_name}."
+msgstr "{distance} 後請在 {intersection_name} 從左側出口離開，前往 {toward_name}。"
+
+msgid "In {distance} take the left exit at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 從左側出口離開。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the left exit {direction_details}."
+msgstr "{distance} 後請從左側出口離開 {direction_details}。"
+
+msgid "In {distance} take the left exit {direction_details}."
+msgstr "{distance} 後請從左側出口離開 {direction_details}。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left toward {toward_name}."
+msgstr "請從左側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgid "Take the exit {exit_number} on the left toward {toward_name}."
+msgstr "請從左側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left."
+msgstr "請從左側 {exit_number} 號出口離開。"
+
+msgid "Take the exit {exit_number} on the left."
+msgstr "請從左側 {exit_number} 號出口離開。"
+
+msgid "Take the left exit toward {toward_name}."
+msgstr "請從左側出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left toward {toward_name}."
+msgstr "{distance} 後請從左側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgid "In {distance} take the exit {exit_number} on the left toward {toward_name}."
+msgstr "{distance} 後請從左側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left."
+msgstr "{distance} 後請從左側 {exit_number} 號出口離開。"
+
+msgid "In {distance} take the exit {exit_number} on the left."
+msgstr "{distance} 後請從左側 {exit_number} 號出口離開。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the left exit toward {toward_name}."
+msgstr "{distance} 後請從左側出口離開，前往 {toward_name}。"
+
+msgid "In {distance} take the left exit toward {toward_name}."
+msgstr "{distance} 後請從左側出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the left exit."
+msgstr "{distance} 後請從左側出口離開。"
+
+msgid "In {distance} take the left exit."
+msgstr "{distance} 後請從左側出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從左側第二個出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從左側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgid "Take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從左側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left at {intersection_name}."
+msgstr "請在 {intersection_name} 從左側第二個出口離開。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left at {intersection_name}."
+msgstr "請在 {intersection_name} 從左側 {exit_number} 號出口離開。"
+
+msgid "Take the exit {exit_number} on the left at {intersection_name}."
+msgstr "請在 {intersection_name} 從左側 {exit_number} 號出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left {direction_details}."
+msgstr "請從左側第二個出口離開 {direction_details}。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left {direction_details}."
+msgstr "請從左側 {exit_number} 號出口離開 {direction_details}。"
+
+msgid "Take the exit {exit_number} on the left {direction_details}."
+msgstr "請從左側 {exit_number} 號出口離開 {direction_details}。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從左側第二個出口離開，前往 {toward_name}。"
+
+msgid "Take the left exit at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從左側出口離開，前往 {toward_name}。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit at {intersection_name}."
+msgstr "請在 {intersection_name} 從左側第二個出口離開。"
+
+msgid "Take the left exit at {intersection_name}."
+msgstr "請在 {intersection_name} 從左側出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit {direction_details}."
+msgstr "請從左側第二個出口離開 {direction_details}。"
+
+msgid "Take the left exit {direction_details}."
+msgstr "請從左側出口離開 {direction_details}。"
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit {exit_number} on the left."
+msgstr "隨後請從左側第二個出口離開。"
+
+msgctxt "has_exit_name"
+msgid "Then take the exit {exit_number} on the left."
+msgstr "隨後請從左側 {exit_number} 號出口離開。"
+
+msgid "Then take the exit {exit_number} on the left."
+msgstr "隨後請從左側 {exit_number} 號出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Then take the left exit."
+msgstr "隨後請從左側第二個出口離開。"
+
+msgid "Then take the left exit."
+msgstr "隨後請從左側出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left."
+msgstr "請從左側第二個出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit."
+msgstr "請從左側第二個出口離開。"
+
+msgid "Take the left exit."
+msgstr "請從左側出口離開。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "{distance} 後請在 {intersection_name} 從右側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "{distance} 後請在 {intersection_name} 從右側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 從右側 {exit_number} 號出口離開。"
+
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 從右側 {exit_number} 號出口離開。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right {direction_details}."
+msgstr "{distance} 後請從右側 {exit_number} 號出口離開 {direction_details}。"
+
+msgid "In {distance} take the exit {exit_number} on the right {direction_details}."
+msgstr "{distance} 後請從右側 {exit_number} 號出口離開 {direction_details}。"
+
+msgid "In {distance} take the right exit at {intersection_name} toward {toward_name}."
+msgstr "{distance} 後請在 {intersection_name} 從右側出口離開，前往 {toward_name}。"
+
+msgid "In {distance} take the right exit at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 從右側出口離開。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the right exit {direction_details}."
+msgstr "{distance} 後請從右側出口離開 {direction_details}。"
+
+msgid "In {distance} take the right exit {direction_details}."
+msgstr "{distance} 後請從右側出口離開 {direction_details}。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right toward {toward_name}."
+msgstr "請從右側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgid "Take the exit {exit_number} on the right toward {toward_name}."
+msgstr "請從右側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right."
+msgstr "請從右側 {exit_number} 號出口離開。"
+
+msgid "Take the exit {exit_number} on the right."
+msgstr "請從右側 {exit_number} 號出口離開。"
+
+msgid "Take the right exit toward {toward_name}."
+msgstr "請從右側出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right toward {toward_name}."
+msgstr "{distance} 後請從右側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgid "In {distance} take the exit {exit_number} on the right toward {toward_name}."
+msgstr "{distance} 後請從右側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right."
+msgstr "{distance} 後請從右側 {exit_number} 號出口離開。"
+
+msgid "In {distance} take the exit {exit_number} on the right."
+msgstr "{distance} 後請從右側 {exit_number} 號出口離開。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the right exit toward {toward_name}."
+msgstr "{distance} 後請從右側出口離開，前往 {toward_name}。"
+
+msgid "In {distance} take the right exit toward {toward_name}."
+msgstr "{distance} 後請從右側出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the right exit."
+msgstr "{distance} 後請從右側出口離開。"
+
+msgid "In {distance} take the right exit."
+msgstr "{distance} 後請從右側出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從右側第二個出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從右側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgid "Take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從右側 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right at {intersection_name}."
+msgstr "請在 {intersection_name} 從右側第二個出口離開。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right at {intersection_name}."
+msgstr "請在 {intersection_name} 從右側 {exit_number} 號出口離開。"
+
+msgid "Take the exit {exit_number} on the right at {intersection_name}."
+msgstr "請在 {intersection_name} 從右側 {exit_number} 號出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right {direction_details}."
+msgstr "請從右側第二個出口離開 {direction_details}。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right {direction_details}."
+msgstr "請從右側 {exit_number} 號出口離開 {direction_details}。"
+
+msgid "Take the exit {exit_number} on the right {direction_details}."
+msgstr "請從右側 {exit_number} 號出口離開 {direction_details}。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從右側第二個出口離開，前往 {toward_name}。"
+
+msgid "Take the right exit at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從右側出口離開，前往 {toward_name}。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit at {intersection_name}."
+msgstr "請在 {intersection_name} 從右側第二個出口離開。"
+
+msgid "Take the right exit at {intersection_name}."
+msgstr "請在 {intersection_name} 從右側出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit {direction_details}."
+msgstr "請從右側第二個出口離開 {direction_details}。"
+
+msgid "Take the right exit {direction_details}."
+msgstr "請從右側出口離開 {direction_details}。"
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit {exit_number} on the right."
+msgstr "隨後請從右側第二個出口離開。"
+
+msgctxt "has_exit_name"
+msgid "Then take the exit {exit_number} on the right."
+msgstr "隨後請從右側 {exit_number} 號出口離開。"
+
+msgid "Then take the exit {exit_number} on the right."
+msgstr "隨後請從右側 {exit_number} 號出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Then take the right exit."
+msgstr "隨後請從右側第二個出口離開。"
+
+msgid "Then take the right exit."
+msgstr "隨後請從右側出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right."
+msgstr "請從右側第二個出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit."
+msgstr "請從右側第二個出口離開。"
+
+msgid "Take the right exit."
+msgstr "請從右側出口離開。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "{distance} 後請在 {intersection_name} 從 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgid "In {distance} take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "{distance} 後請在 {intersection_name} 從 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 從 {exit_number} 號出口離開。"
+
+msgid "In {distance} take the exit {exit_number} at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 從 {exit_number} 號出口離開。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} {direction_details}."
+msgstr "{distance} 後請從 {exit_number} 號出口離開 {direction_details}。"
+
+msgid "In {distance} take the exit {exit_number} {direction_details}."
+msgstr "{distance} 後請從 {exit_number} 號出口離開 {direction_details}。"
+
+msgid "In {distance} take the exit at {intersection_name} toward {toward_name}."
+msgstr "{distance} 後請在 {intersection_name} 從出口離開，前往 {toward_name}。"
+
+msgid "In {distance} take the exit at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 從出口離開。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {direction_details}."
+msgstr "{distance} 後請從出口離開 {direction_details}。"
+
+msgid "In {distance} take the exit {direction_details}."
+msgstr "{distance} 後請從出口離開 {direction_details}。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} toward {toward_name}."
+msgstr "請從 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgid "Take the exit {exit_number} toward {toward_name}."
+msgstr "請從 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number}."
+msgstr "請從 {exit_number} 號出口離開。"
+
+msgid "Take the exit {exit_number}."
+msgstr "請從 {exit_number} 號出口離開。"
+
+msgid "Take the exit toward {toward_name}."
+msgstr "請從出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} toward {toward_name}."
+msgstr "{distance} 後請從 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgid "In {distance} take the exit {exit_number} toward {toward_name}."
+msgstr "{distance} 後請從 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number}."
+msgstr "{distance} 後請從 {exit_number} 號出口離開。"
+
+msgid "In {distance} take the exit {exit_number}."
+msgstr "{distance} 後請從 {exit_number} 號出口離開。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit toward {toward_name}."
+msgstr "{distance} 後請從出口離開，前往 {toward_name}。"
+
+msgid "In {distance} take the exit toward {toward_name}."
+msgstr "{distance} 後請從出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit."
+msgstr "{distance} 後請從出口離開。"
+
+msgid "In {distance} take the exit."
+msgstr "{distance} 後請從出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從第二個出口離開，前往 {toward_name}。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgid "Take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從 {exit_number} 號出口離開，前往 {toward_name}。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} at {intersection_name}."
+msgstr "請在 {intersection_name} 從第二個出口離開。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} at {intersection_name}."
+msgstr "請在 {intersection_name} 從 {exit_number} 號出口離開。"
+
+msgid "Take the exit {exit_number} at {intersection_name}."
+msgstr "請在 {intersection_name} 從 {exit_number} 號出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} {direction_details}."
+msgstr "請從第二個出口離開 {direction_details}。"
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} {direction_details}."
+msgstr "請從 {exit_number} 號出口離開 {direction_details}。"
+
+msgid "Take the exit {exit_number} {direction_details}."
+msgstr "請從 {exit_number} 號出口離開 {direction_details}。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從第二個出口離開，前往 {toward_name}。"
+
+msgid "Take the exit at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 從出口離開，前往 {toward_name}。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit at {intersection_name}."
+msgstr "請在 {intersection_name} 從第二個出口離開。"
+
+msgid "Take the exit at {intersection_name}."
+msgstr "請在 {intersection_name} 從出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {direction_details}."
+msgstr "請從第二個出口離開 {direction_details}。"
+
+msgid "Take the exit {direction_details}."
+msgstr "請從出口離開 {direction_details}。"
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit {exit_number}."
+msgstr "隨後請從第二個出口離開。"
+
+msgctxt "has_exit_name"
+msgid "Then take the exit {exit_number}."
+msgstr "隨後請從 {exit_number} 號出口離開。"
+
+msgid "Then take the exit {exit_number}."
+msgstr "隨後請從 {exit_number} 號出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit."
+msgstr "隨後請從第二個出口離開。"
+
+msgid "Then take the exit."
+msgstr "隨後請從出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number}."
+msgstr "請從第二個出口離開。"
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit."
+msgstr "請從第二個出口離開。"
+
+msgid "Take the exit."
+msgstr "請從出口離開。"
+
+msgid "In {distance} keep left at {intersection_name} toward {toward_name}."
+msgstr "{distance} 後請在 {intersection_name} 持續靠左側行駛，前往 {toward_name}。"
+
+msgid "In {distance} keep left at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 持續靠左側行駛。"
+
+msgid "In {distance} keep left {direction_details}."
+msgstr "{distance} 後請持續靠左側行駛 {direction_details}。"
+
+msgid "In {distance} keep left."
+msgstr "{distance} 後請持續靠左側行駛。"
+
+msgid "Keep left at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 持續靠左側行駛，前往 {toward_name}。"
+
+msgid "Keep left at {intersection_name}."
+msgstr "請在 {intersection_name} 持續靠左側行駛。"
+
+msgid "Then keep left."
+msgstr "隨後請持續靠左側行駛。"
+
+msgid "Keep left {direction_details}."
+msgstr "請持續靠左側行駛 {direction_details}。"
+
+msgid "Keep left."
+msgstr "請持續靠左側行駛。"
+
+msgid "In {distance} keep right at {intersection_name} toward {toward_name}."
+msgstr "{distance} 後請在 {intersection_name} 持續靠右側行駛，前往 {toward_name}。"
+
+msgid "In {distance} keep right at {intersection_name}."
+msgstr "{distance} 後請在 {intersection_name} 持續靠右側行駛。"
+
+msgid "In {distance} keep right {direction_details}."
+msgstr "{distance} 後請持續靠右側行駛 {direction_details}。"
+
+msgid "In {distance} keep right."
+msgstr "{distance} 後請持續靠右側行駛。"
+
+msgid "Keep right at {intersection_name} toward {toward_name}."
+msgstr "請在 {intersection_name} 持續靠右側行駛，前往 {toward_name}。"
+
+msgid "Keep right at {intersection_name}."
+msgstr "請在 {intersection_name} 持續靠右側行駛。"
+
+msgid "Then keep right."
+msgstr "隨後請持續靠右側行駛。"
+
+msgid "Keep right {direction_details}."
+msgstr "請持續靠右側行駛 {direction_details}。"
+
+msgid "Keep right."
+msgstr "請持續靠右側行駛。"
+
+msgctxt "merge_onto_another_road"
+msgid "In {distance} take the {road_number}."
+msgstr "{distance} 後請走 {road_number}。"
+
+msgctxt "merge_onto_another_road"
+msgid "Then take the {road_number}."
+msgstr "隨後請走 {road_number}。"
+
+msgctxt "merge_onto_another_road"
+msgid "Take the {road_number}."
+msgstr "請走 {road_number}。"
+
+msgctxt "merge_onto_another_road"
+msgid "In {distance} take {road_name}."
+msgstr "{distance} 後請走 {road_name}。"
+
+msgctxt "merge_onto_another_road"
+msgid "Then take {road_name}."
+msgstr "隨後請走 {road_name}。"
+
+msgctxt "merge_onto_another_road"
+msgid "Take {road_name}."
+msgstr "請走 {road_name}。"
+
+msgctxt "merge_onto_another_road"
+msgid "In {distance} take the freeway."
+msgstr "{distance} 後請走高速公路。"
+
+msgctxt "merge_onto_another_road"
+msgid "Then take the freeway."
+msgstr "隨後請走高速公路。"
+
+msgctxt "merge_onto_another_road"
+msgid "Take the freeway."
+msgstr "請走高速公路。"
+
+msgid "Make a U-turn when possible."
+msgstr "請在適當地點迴轉。"
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "{distance} 後請於圓環繼續直行，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit."
+msgstr "{distance} 後請於圓環繼續直行，從 {roundabout_exit_number} 個出口離開。"
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "請於圓環繼續直行，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "{distance} 請於圓環繼續直行，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit."
+msgstr "{distance} 請於圓環繼續直行，從 {roundabout_exit_number} 個出口離開。"
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "請於圓環繼續直行，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "{distance} 請於圓環繼續直行，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit."
+msgstr "{distance} 請於圓環繼續直行，從 {roundabout_exit_number} 個出口離開。"
+
+msgid "At the roundabout go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "請於圓環繼續直行，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "{distance} 後請於圓環右轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit."
+msgstr "{distance} 後請於圓環右轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "請於圓環右轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "{distance} 後請於圓環右轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit."
+msgstr "{distance} 後請於圓環右轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "請於圓環右轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "{distance} 後請於圓環右轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit."
+msgstr "{distance} 後請於圓環右轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgid "At the roundabout turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "請於圓環右轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "{distance} 後請於圓環左轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit."
+msgstr "{distance} 後請於圓環左轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "請於圓環左轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "{distance} 後請於圓環左轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit."
+msgstr "{distance} 後請於圓環左轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "請於圓環左轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "{distance} 後請於圓環左轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit."
+msgstr "{distance} 後請於圓環左轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgid "At the roundabout turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "請於圓環左轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgid "At the roundabout in {distance} make a U-turn, {roundabout_exit_number} exit {direction_details}."
+msgstr "{distance} 後請於圓環迴轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgid "At the roundabout in {distance} make a U-turn, {roundabout_exit_number} exit."
+msgstr "{distance} 後請於圓環迴轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgid "At the roundabout make a U-turn, {roundabout_exit_number} exit {direction_details}."
+msgstr "請於圓環迴轉，從 {roundabout_exit_number} 個出口離開 {direction_details}。"
+
+msgid "At the roundabout in {distance} take the {roundabout_exit_number_v2} exit."
+msgstr "{distance} 後請從圓環 {roundabout_exit_number_v2} 個出口離開。"
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit."
+msgstr "請於在圓環繼續直行，從 {roundabout_exit_number} 個出口離開。"
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit."
+msgstr "請於圓環繼續直行，從 {roundabout_exit_number} 個出口離開。"
+
+msgid "At the roundabout go straight, {roundabout_exit_number} exit."
+msgstr "請於圓環繼續直行，從 {roundabout_exit_number} 個出口離開。"
+
+msgid "At the roundabout make a U-turn, {roundabout_exit_number} exit."
+msgstr "請於圓環迴轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit."
+msgstr "請於圓環右轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit."
+msgstr "請於圓環右轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgid "At the roundabout turn right, {roundabout_exit_number} exit."
+msgstr "請於圓環右轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit."
+msgstr "請於圓環左轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit."
+msgstr "請於圓環左轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgid "At the roundabout turn left, {roundabout_exit_number} exit."
+msgstr "請於圓環左轉，從 {roundabout_exit_number} 個出口離開。"
+
+msgid "At the roundabout take the {roundabout_exit_number_v2} exit."
+msgstr "在圓環請從 {roundabout_exit_number_v2} 個出口離開。"
+
+msgid "In {distance} exit the roundabout {direction_details}."
+msgstr "{distance} 後請從圖環離開 {direction_details}。"
+
+msgid "In {distance} exit the roundabout."
+msgstr "{distance} 後請從圖環離開。"
+
+msgid "Exit the roundabout."
+msgstr "請從圖環離開。"
+
+msgid "In {distance} take the ferry {road_name}."
+msgstr "{distance} 後請搭乘 {road_name} 渡輪 。"
+
+msgid "In {distance} take the {road_name} train."
+msgstr "{distance} 後請搭乘 {road_name} 火車。"
+
+msgid "In {distance} take the ferry."
+msgstr "{distance} 後請搭乘渡輪。"
+
+msgid "In {distance} take the train."
+msgstr "{distance} 後請搭乘火車。"
+
+msgid "Take the ferry {road_name}."
+msgstr "請搭乘 {road_name} 渡輪。"
+
+msgid "Take the {road_name} train."
+msgstr "請搭乘 {road_name} 火車。"
+
+msgid "Then take the ferry."
+msgstr "隨後請搭乘渡輪。"
+
+msgid "Take the ferry."
+msgstr "請搭乘渡輪。"
+
+msgid "Then take the train."
+msgstr "隨後請搭乘火車。"
+
+msgid "Take the train."
+msgstr "請搭乘火車。"
+
+msgid "Disembark from the ferry."
+msgstr "請離開渡輪。"
+
+msgid "Disembark from the train."
+msgstr "請離開火車。"
+
+msgid "In {distance} keep left to enter the HOV carpool lane."
+msgstr "{distance} 後請持續靠左側行駛，進入高乘載車道。"
+
+msgid "In {distance} keep right to enter the HOV carpool lane."
+msgstr "{distance} 後請持續靠右側行駛，進入高乘載車道。"
+
+msgid "Keep right to enter the HOV carpool lane."
+msgstr "請持續靠右側行駛，進入高乘載車道。"
+
+msgid "Keep left to enter the HOV carpool lane."
+msgstr "請持續靠左側行駛，進入高乘載車道。"
+
+msgid "In {distance} keep left to exit the HOV carpool lane."
+msgstr "{distance} 後請持續靠左側行駛，離開高乘載車道。"
+
+msgid "In {distance} keep right to exit the HOV carpool lane."
+msgstr "{distance} 後請持續靠右側行駛，離開高乘載車道。"
+
+msgid "Keep right to exit the HOV carpool lane."
+msgstr "請持續靠右側行駛，離開高乘載車道。"
+
+msgid "Keep left to exit the HOV carpool lane."
+msgstr "請持續靠左側行駛，離開高乘載車道。"
+
+msgid "In {distance} pass through the toll gate."
+msgstr "{distance} 後通過收費站。"
+
+msgid "Then pass through the toll gate."
+msgstr "隨後通過收費站。"
+
+msgid "Pass through the toll gate."
+msgstr "通過收費站。"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on the {road_number} toward {toward_name}"
+msgstr "繼續行駛 {road_number} 前往 {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on the {road_number} toward {toward_name}"
+msgstr "繼續行駛 {road_number} 前往 {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on the {road_number}"
+msgstr "繼續行駛 {road_number}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on the {road_number}"
+msgstr "繼續行駛 {road_number}"
+
+msgctxt "{direction_details} for exit highway"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "進入 {road_number} 前往 {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "進入 {road_number} 前往 {toward_name}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "進入 {road_number} 前往 {toward_name}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "進入 {road_number} 前往 {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take the {road_number} toward {toward_name}"
+msgstr "走 {road_number} 前往 {toward_name}"
+
+msgctxt "{direction_details}"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "進入 {road_number} 前往 {toward_name}"
+
+msgctxt "{direction_details} for exit highway"
+msgid "onto the {road_number}"
+msgstr "進入 {road_number}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "onto the {road_number}"
+msgstr "進入 {road_number}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto the {road_number}"
+msgstr "進入 {road_number}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto the {road_number}"
+msgstr "進入 {road_number}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take the {road_number}"
+msgstr "走 {road_number}"
+
+msgctxt "{direction_details}"
+msgid "onto the {road_number}"
+msgstr "進入 {road_number}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} toward {toward_name}"
+msgstr "進入 {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} 前往 {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} toward {toward_name}"
+msgstr "進入 {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} 前往 {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on {road_name} toward {toward_name}"
+msgstr "繼續行駛 {road_name} 前往 {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on {road_name} toward {toward_name}"
+msgstr "繼續行駛 {road_name} 前往 {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+msgstr "進入 {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+
+msgctxt "{direction_details} for fork"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+msgstr "進入 {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on {road_name}"
+msgstr "繼續行駛 {road_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on {road_name}"
+msgstr "繼續行駛 {road_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} toward {toward_name}"
+msgstr "進入 {road_name_preposition_and_article_for_into_case} {road_name_for_into_case} 前往 {toward_name}"
+
+msgctxt "{direction_details}"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} toward {toward_name}"
+msgstr "進入 {road_name_preposition_and_article_for_into_case} {road_name_for_into_case} 前往 {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+msgstr "進入 {road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+
+msgctxt "{direction_details}"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+msgstr "進入 {road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take {road_name} toward {toward_name}"
+msgstr "走 {road_name} 前往 {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take {road_name}"
+msgstr "走 {road_name}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto {road_name} toward {toward_name}"
+msgstr "進入 {road_name} 前往 {toward_name}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto {road_name} toward {toward_name}"
+msgstr "進入 {road_name} 前往 {toward_name}"
+
+msgctxt "{direction_details}"
+msgid "onto {road_name} toward {toward_name}"
+msgstr "進入 {road_name} 前往 {toward_name}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto {road_name}"
+msgstr "進入 {road_name}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto {road_name}"
+msgstr "進入 {road_name}"
+
+msgctxt "{direction_details}"
+msgid "onto {road_name}"
+msgstr "進入 {road_name}"
+
+msgctxt "{direction_details}"
+msgid "toward {toward_name}"
+msgstr "前往 {toward_name}"
+
+msgctxt "you are entering {country}"
+msgid "Afghanistan"
+msgstr "阿富汗"
+
+msgctxt "you are entering {country}"
+msgid "Albania"
+msgstr "阿爾巴尼亞"
+
+msgctxt "you are entering {country}"
+msgid "Algeria"
+msgstr "阿爾及利亞"
+
+msgctxt "you are entering {country}"
+msgid "Andorra"
+msgstr "安道爾"
+
+msgctxt "you are entering {country}"
+msgid "Angola"
+msgstr "安哥拉"
+
+msgctxt "you are entering {country}"
+msgid "Argentina"
+msgstr "阿根廷"
+
+msgctxt "you are entering {country}"
+msgid "Armenia"
+msgstr "亞美尼亞"
+
+msgctxt "you are entering {country}"
+msgid "Austria"
+msgstr "奧地利"
+
+msgctxt "you are entering {country}"
+msgid "Azerbaijan"
+msgstr "亞塞拜然"
+
+msgctxt "you are entering {country}"
+msgid "Bahrain"
+msgstr "巴林"
+
+msgctxt "you are entering {country}"
+msgid "Bangladesh"
+msgstr "孟加拉"
+
+msgctxt "you are entering {country}"
+msgid "Belarus"
+msgstr "白俄羅斯"
+
+msgctxt "you are entering {country}"
+msgid "Belgium"
+msgstr "比利時"
+
+msgctxt "you are entering {country}"
+msgid "Belize"
+msgstr "貝里斯"
+
+msgctxt "you are entering {country}"
+msgid "Benin"
+msgstr "貝南"
+
+msgctxt "you are entering {country}"
+msgid "Bhutan"
+msgstr "不丹"
+
+msgctxt "you are entering {country}"
+msgid "Bolivia"
+msgstr "玻利維亞"
+
+msgctxt "you are entering {country}"
+msgid "Bosnia and Herzegowina"
+msgstr "波士尼亞與赫塞哥維納"
+
+msgctxt "you are entering {country}"
+msgid "Botswana"
+msgstr "波札那"
+
+msgctxt "you are entering {country}"
+msgid "Brazil"
+msgstr "巴西"
+
+msgctxt "you are entering {country}"
+msgid "Brunei"
+msgstr "汶萊"
+
+msgctxt "you are entering {country}"
+msgid "Bulgaria"
+msgstr "保加利亞"
+
+msgctxt "you are entering {country}"
+msgid "Burkina Faso"
+msgstr "布吉納法索"
+
+msgctxt "you are entering {country}"
+msgid "Burundi"
+msgstr "蒲隆地"
+
+msgctxt "you are entering {country}"
+msgid "Cambodia"
+msgstr "柬埔寨"
+
+msgctxt "you are entering {country}"
+msgid "Cameroon"
+msgstr "喀麥隆"
+
+msgctxt "you are entering {country}"
+msgid "Canada"
+msgstr "加拿大"
+
+msgctxt "you are entering {country}"
+msgid "the Central African Republic"
+msgstr "中非共和國"
+
+msgctxt "you are entering {country}"
+msgid "Chad"
+msgstr "查德"
+
+msgctxt "you are entering {country}"
+msgid "Chile"
+msgstr "智利"
+
+msgctxt "you are entering {country}"
+msgid "China"
+msgstr "中國"
+
+msgctxt "you are entering {country}"
+msgid "Colombia"
+msgstr "哥倫比亞"
+
+msgctxt "you are entering {country}"
+msgid "the Republic of the Congo"
+msgstr "剛果共和國"
+
+msgctxt "you are entering {country}"
+msgid "the Democratic Republic of the Congo"
+msgstr "剛果民主共和國"
+
+msgctxt "you are entering {country}"
+msgid "Costa Rica"
+msgstr "哥斯大黎加"
+
+msgctxt "you are entering {country}"
+msgid "Ivory Coast"
+msgstr "象牙海岸"
+
+msgctxt "you are entering {country}"
+msgid "Croatia"
+msgstr "克羅埃西亞"
+
+msgctxt "you are entering {country}"
+msgid "Cyprus"
+msgstr "賽普勒斯"
+
+msgctxt "you are entering {country}"
+msgid "the Czech Republic"
+msgstr "捷克共和國"
+
+msgctxt "you are entering {country}"
+msgid "Denmark"
+msgstr "丹麥"
+
+msgctxt "you are entering {country}"
+msgid "Djibouti"
+msgstr "吉布地"
+
+msgctxt "you are entering {country}"
+msgid "the Dominican Republic"
+msgstr "多明尼加共和國"
+
+msgctxt "you are entering {country}"
+msgid "East Timor"
+msgstr "東帝汶"
+
+msgctxt "you are entering {country}"
+msgid "Ecuador"
+msgstr "厄瓜多"
+
+msgctxt "you are entering {country}"
+msgid "Egypt"
+msgstr "埃及"
+
+msgctxt "you are entering {country}"
+msgid "El Salvador"
+msgstr "薩爾瓦多"
+
+msgctxt "you are entering {country}"
+msgid "Equatorial Guinea"
+msgstr "赤道幾內亞"
+
+msgctxt "you are entering {country}"
+msgid "Eritrea"
+msgstr "厄利垂亞"
+
+msgctxt "you are entering {country}"
+msgid "Estonia"
+msgstr "愛沙尼亞"
+
+msgctxt "you are entering {country}"
+msgid "Ethiopia"
+msgstr "衣索比亞"
+
+msgctxt "you are entering {country}"
+msgid "Finland"
+msgstr "芬蘭"
+
+msgctxt "you are entering {country}"
+msgid "France"
+msgstr "法國"
+
+msgctxt "you are entering {country}"
+msgid "French Guiana"
+msgstr "法屬圭亞那"
+
+msgctxt "you are entering {country}"
+msgid "Gabon"
+msgstr "加彭"
+
+msgctxt "you are entering {country}"
+msgid "the Gambia"
+msgstr "甘比亞"
+
+msgctxt "you are entering {country}"
+msgid "Georgia"
+msgstr "喬治亞"
+
+msgctxt "you are entering {country}"
+msgid "Germany"
+msgstr "德國"
+
+msgctxt "you are entering {country}"
+msgid "Ghana"
+msgstr "迦納"
+
+msgctxt "you are entering {country}"
+msgid "Gibraltar"
+msgstr "直布羅陀"
+
+msgctxt "you are entering {country}"
+msgid "Greece"
+msgstr "希臘"
+
+msgctxt "you are entering {country}"
+msgid "Guatemala"
+msgstr "瓜地馬拉"
+
+msgctxt "you are entering {country}"
+msgid "Guinea"
+msgstr "幾內亞"
+
+msgctxt "you are entering {country}"
+msgid "Guinea-Bissau"
+msgstr "幾內亞比索"
+
+msgctxt "you are entering {country}"
+msgid "Guyana"
+msgstr "蓋亞納"
+
+msgctxt "you are entering {country}"
+msgid "Haiti"
+msgstr "海地"
+
+msgctxt "you are entering {country}"
+msgid "Vatican City"
+msgstr "梵蒂岡城"
+
+msgctxt "you are entering {country}"
+msgid "Honduras"
+msgstr "宏都拉斯"
+
+msgctxt "you are entering {country}"
+msgid "Hong Kong"
+msgstr "香港"
+
+msgctxt "you are entering {country}"
+msgid "Hungary"
+msgstr "匈牙利"
+
+msgctxt "you are entering {country}"
+msgid "India"
+msgstr "印度"
+
+msgctxt "you are entering {country}"
+msgid "Indonesia"
+msgstr "印尼"
+
+msgctxt "you are entering {country}"
+msgid "Iran"
+msgstr "伊朗"
+
+msgctxt "you are entering {country}"
+msgid "Iraq"
+msgstr "伊拉克"
+
+msgctxt "you are entering {country}"
+msgid "Ireland"
+msgstr "愛爾蘭"
+
+msgctxt "you are entering {country}"
+msgid "Israel"
+msgstr "以色列"
+
+msgctxt "you are entering {country}"
+msgid "Italy"
+msgstr "義大利"
+
+msgctxt "you are entering {country}"
+msgid "Jamaica"
+msgstr "牙買加"
+
+msgctxt "you are entering {country}"
+msgid "Jordan"
+msgstr "約旦"
+
+msgctxt "you are entering {country}"
+msgid "Kazakhstan"
+msgstr "哈薩克"
+
+msgctxt "you are entering {country}"
+msgid "Kenya"
+msgstr "肯亞"
+
+msgctxt "you are entering {country}"
+msgid "North Korea"
+msgstr "北韓"
+
+msgctxt "you are entering {country}"
+msgid "South Korea"
+msgstr "南韓"
+
+msgctxt "you are entering {country}"
+msgid "Kosovo"
+msgstr "科索沃"
+
+msgctxt "you are entering {country}"
+msgid "Kuwait"
+msgstr "科威特"
+
+msgctxt "you are entering {country}"
+msgid "Kyrgyzstan"
+msgstr "吉爾吉斯"
+
+msgctxt "you are entering {country}"
+msgid "Laos"
+msgstr "寮國"
+
+msgctxt "you are entering {country}"
+msgid "Latvia"
+msgstr "拉脫維亞"
+
+msgctxt "you are entering {country}"
+msgid "Lebanon"
+msgstr "黎巴嫩"
+
+msgctxt "you are entering {country}"
+msgid "Lesotho"
+msgstr "賴索托"
+
+msgctxt "you are entering {country}"
+msgid "Liberia"
+msgstr "賴比瑞亞"
+
+msgctxt "you are entering {country}"
+msgid "Libya"
+msgstr "利比亞"
+
+msgctxt "you are entering {country}"
+msgid "Liechtenstein"
+msgstr "列支敦斯登"
+
+msgctxt "you are entering {country}"
+msgid "Lithuania"
+msgstr "立陶宛"
+
+msgctxt "you are entering {country}"
+msgid "Luxembourg"
+msgstr "盧森堡"
+
+msgctxt "you are entering {country}"
+msgid "Macau"
+msgstr "澳門"
+
+msgctxt "you are entering {country}"
+msgid "North Macedonia"
+msgstr "北馬其頓"
+
+msgctxt "you are entering {country}"
+msgid "Malawi"
+msgstr "馬拉威"
+
+msgctxt "you are entering {country}"
+msgid "Malaysia"
+msgstr "馬來西亞"
+
+msgctxt "you are entering {country}"
+msgid "Mali"
+msgstr "馬利"
+
+msgctxt "you are entering {country}"
+msgid "Malta"
+msgstr "馬爾他"
+
+msgctxt "you are entering {country}"
+msgid "Mauritania"
+msgstr "茅利塔尼亞"
+
+msgctxt "you are entering {country}"
+msgid "Mexico"
+msgstr "墨西哥"
+
+msgctxt "you are entering {country}"
+msgid "Moldova"
+msgstr "摩爾多瓦"
+
+msgctxt "you are entering {country}"
+msgid "Monaco"
+msgstr "摩納哥"
+
+msgctxt "you are entering {country}"
+msgid "Mongolia"
+msgstr "蒙古"
+
+msgctxt "you are entering {country}"
+msgid "Montenegro"
+msgstr "蒙特內哥羅"
+
+msgctxt "you are entering {country}"
+msgid "Morocco"
+msgstr "摩洛哥"
+
+msgctxt "you are entering {country}"
+msgid "Mozambique"
+msgstr "莫三比克"
+
+msgctxt "you are entering {country}"
+msgid "Myanmar"
+msgstr "緬甸"
+
+msgctxt "you are entering {country}"
+msgid "Namibia"
+msgstr "納米比亞"
+
+msgctxt "you are entering {country}"
+msgid "Nepal"
+msgstr "尼泊爾"
+
+msgctxt "you are entering {country}"
+msgid "the Netherlands"
+msgstr "荷蘭"
+
+msgctxt "you are entering {country}"
+msgid "Nicaragua"
+msgstr "尼加拉瓜"
+
+msgctxt "you are entering {country}"
+msgid "Niger"
+msgstr "尼日"
+
+msgctxt "you are entering {country}"
+msgid "Nigeria"
+msgstr "奈及利亞"
+
+msgctxt "you are entering {country}"
+msgid "Norway"
+msgstr "挪威"
+
+msgctxt "you are entering {country}"
+msgid "Oman"
+msgstr "阿曼"
+
+msgctxt "you are entering {country}"
+msgid "Pakistan"
+msgstr "巴基斯坦"
+
+msgctxt "you are entering {country}"
+msgid "Palestine"
+msgstr "巴勒斯坦"
+
+msgctxt "you are entering {country}"
+msgid "Panama"
+msgstr "巴拿馬"
+
+msgctxt "you are entering {country}"
+msgid "Papua New Guinea"
+msgstr "巴布亞紐幾內亞"
+
+msgctxt "you are entering {country}"
+msgid "Paraguay"
+msgstr "巴拉圭"
+
+msgctxt "you are entering {country}"
+msgid "Peru"
+msgstr "秘魯"
+
+msgctxt "you are entering {country}"
+msgid "Poland"
+msgstr "波蘭"
+
+msgctxt "you are entering {country}"
+msgid "Portugal"
+msgstr "葡萄牙"
+
+msgctxt "you are entering {country}"
+msgid "Qatar"
+msgstr "卡達"
+
+msgctxt "you are entering {country}"
+msgid "Romania"
+msgstr "羅馬尼亞"
+
+msgctxt "you are entering {country}"
+msgid "the Russian Federation"
+msgstr "俄羅斯聯邦"
+
+msgctxt "you are entering {country}"
+msgid "Rwanda"
+msgstr "盧安達"
+
+msgctxt "you are entering {country}"
+msgid "Saint Martin"
+msgstr "聖馬丁 (法屬)"
+
+msgctxt "you are entering {country}"
+msgid "San Marino"
+msgstr "聖馬利諾"
+
+msgctxt "you are entering {country}"
+msgid "Saudi Arabia"
+msgstr "沙烏地阿拉伯"
+
+msgctxt "you are entering {country}"
+msgid "Senegal"
+msgstr "塞內加爾"
+
+msgctxt "you are entering {country}"
+msgid "Serbia"
+msgstr "塞爾維亞"
+
+msgctxt "you are entering {country}"
+msgid "Sierra Leone"
+msgstr "獅子山"
+
+msgctxt "you are entering {country}"
+msgid "Singapore"
+msgstr "新加坡"
+
+msgctxt "you are entering {country}"
+msgid "Sint Maarten"
+msgstr "荷屬聖馬丁"
+
+msgctxt "you are entering {country}"
+msgid "Slovakia"
+msgstr "斯洛伐克"
+
+msgctxt "you are entering {country}"
+msgid "Slovenia"
+msgstr "斯洛維尼亞"
+
+msgctxt "you are entering {country}"
+msgid "Somalia"
+msgstr "索馬利亞"
+
+msgctxt "you are entering {country}"
+msgid "South Africa"
+msgstr "南非"
+
+msgctxt "you are entering {country}"
+msgid "South Sudan"
+msgstr "南蘇丹"
+
+msgctxt "you are entering {country}"
+msgid "Spain"
+msgstr "西班牙"
+
+msgctxt "you are entering {country}"
+msgid "Sudan"
+msgstr "蘇丹"
+
+msgctxt "you are entering {country}"
+msgid "Suriname"
+msgstr "蘇利南"
+
+msgctxt "you are entering {country}"
+msgid "Swaziland"
+msgstr "史瓦濟蘭"
+
+msgctxt "you are entering {country}"
+msgid "Sweden"
+msgstr "瑞典"
+
+msgctxt "you are entering {country}"
+msgid "Switzerland"
+msgstr "瑞士"
+
+msgctxt "you are entering {country}"
+msgid "Syria"
+msgstr "敘利亞"
+
+msgctxt "you are entering {country}"
+msgid "Tajikistan"
+msgstr "塔吉克"
+
+msgctxt "you are entering {country}"
+msgid "Tanzania"
+msgstr "坦尚尼亞"
+
+msgctxt "you are entering {country}"
+msgid "Thailand"
+msgstr "泰國"
+
+msgctxt "you are entering {country}"
+msgid "Timor-Leste"
+msgstr "東帝汶"
+
+msgctxt "you are entering {country}"
+msgid "Togo"
+msgstr "多哥"
+
+msgctxt "you are entering {country}"
+msgid "Tunisia"
+msgstr "突尼西亞"
+
+msgctxt "you are entering {country}"
+msgid "Turkey"
+msgstr "土耳其"
+
+msgctxt "you are entering {country}"
+msgid "Turkmenistan"
+msgstr "土庫曼"
+
+msgctxt "you are entering {country}"
+msgid "Uganda"
+msgstr "烏干達"
+
+msgctxt "you are entering {country}"
+msgid "Ukraine"
+msgstr "烏克蘭"
+
+msgctxt "you are entering {country}"
+msgid "the United Arab Emirates"
+msgstr "阿拉伯聯合大公國"
+
+msgctxt "you are entering {country}"
+msgid "the United Kingdom"
+msgstr "英國"
+
+msgctxt "you are entering {country}"
+msgid "the United States of America"
+msgstr "美國"
+
+msgctxt "you are entering {country}"
+msgid "Uruguay"
+msgstr "烏拉圭"
+
+msgctxt "you are entering {country}"
+msgid "Uzbekistan"
+msgstr "烏茲別克"
+
+msgctxt "you are entering {country}"
+msgid "Venezuela"
+msgstr "委內瑞拉"
+
+msgctxt "you are entering {country}"
+msgid "Vietnam"
+msgstr "越南"
+
+msgctxt "you are entering {country}"
+msgid "Western Sahara"
+msgstr "西撒哈拉"
+
+msgctxt "you are entering {country}"
+msgid "Yemen"
+msgstr "葉門"
+
+msgctxt "you are entering {country}"
+msgid "Zambia"
+msgstr "尚比亞"
+
+msgctxt "you are entering {country}"
+msgid "Zimbabwe"
+msgstr "辛巴威"
+
+msgctxt "{roundabout_exit_number}"
+msgid "first"
+msgstr "第一"
+
+msgctxt "{roundabout_exit_number}"
+msgid "second"
+msgstr "第二"
+
+msgctxt "{roundabout_exit_number}"
+msgid "third"
+msgstr "第三"
+
+msgctxt "{roundabout_exit_number}"
+msgid "fourth"
+msgstr "第四"
+
+msgctxt "{roundabout_exit_number}"
+msgid "fifth"
+msgstr "第五"
+
+msgctxt "{roundabout_exit_number}"
+msgid "sixth"
+msgstr "第六"
+
+msgctxt "{roundabout_exit_number}"
+msgid "seventh"
+msgstr "第七"
+
+msgctxt "{roundabout_exit_number}"
+msgid "eighth"
+msgstr "第八"
+
+msgctxt "{roundabout_exit_number}"
+msgid "ninth"
+msgstr "第九"
+
+msgctxt "{roundabout_exit_number}"
+msgid "tenth"
+msgstr "第十"
+
+msgctxt "{roundabout_exit_number}"
+msgid "eleventh"
+msgstr "第十一"
+
+msgctxt "{roundabout_exit_number}"
+msgid "twelfth"
+msgstr "第十二"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "first"
+msgstr "第一"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "second"
+msgstr "第二"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "third"
+msgstr "第三"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "fourth"
+msgstr "第四"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "fifth"
+msgstr "第五"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "sixth"
+msgstr "第六"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "seventh"
+msgstr "第七"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "eighth"
+msgstr "第八"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "ninth"
+msgstr "第九"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "tenth"
+msgstr "第十"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "eleventh"
+msgstr "第十一"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "twelfth"
+msgstr "第十二"
+
+msgctxt "{landmark}"
+msgid "at the end of the road"
+msgstr "在道路盡頭"
+
+msgctxt "{landmark}"
+msgid "at the traffic light"
+msgstr "在紅綠燈"
+
+msgctxt "In {distance}"
+msgid "{count} meter"
+msgid_plural "{count} meters"
+msgstr[0] "{count} 公尺"
+
+msgctxt "In {distance}"
+msgid "{count} kilometer"
+msgid_plural "{count} kilometers"
+msgstr[0] "{count} 公里"
+
+msgctxt "In {distance}"
+msgid "{count} foot"
+msgid_plural "{count} feet"
+msgstr[0] "{count} 呎"
+
+msgctxt "In {distance}"
+msgid "{count} yard"
+msgid_plural "{count} yards"
+msgstr[0] "{count} 碼"
+
+msgctxt "In {distance}"
+msgid "{count} mile"
+msgid_plural "{count} miles"
+msgstr[0] "{count} 英里"
+
+msgctxt "follow for {distance}"
+msgid "{count} meter"
+msgid_plural "{count} meters"
+msgstr[0] "{count} 公尺"
+
+msgctxt "follow for {distance}"
+msgid "{count} kilometer"
+msgid_plural "{count} kilometers"
+msgstr[0] "{count} 公里"
+
+msgctxt "follow for {distance}"
+msgid "{count} foot"
+msgid_plural "{count} feet"
+msgstr[0] "{count} 呎"
+
+msgctxt "follow for {distance}"
+msgid "{count} yard"
+msgid_plural "{count} yards"
+msgstr[0] "{count} 碼"
+
+msgctxt "follow for {distance}"
+msgid "{count} mile"
+msgid_plural "{count} miles"
+msgstr[0] "{count} 英里"
+
+msgctxt "after {distance}"
+msgid "{count} meter"
+msgid_plural "{count} meters"
+msgstr[0] "{count} 公尺"
+
+msgctxt "after {distance}"
+msgid "{count} kilometer"
+msgid_plural "{count} kilometers"
+msgstr[0] "{count} 公里"
+
+msgctxt "after {distance}"
+msgid "{count} foot"
+msgid_plural "{count} feet"
+msgstr[0] "{count} 呎"
+
+msgctxt "after {distance}"
+msgid "{count} yard"
+msgid_plural "{count} yards"
+msgstr[0] "{count} 碼"
+
+msgctxt "after {distance}"
+msgid "{count} mile"
+msgid_plural "{count} miles"
+msgstr[0] "{count} 英里"
+
+msgctxt "In {distance}"
+msgid "one and a half kilometers"
+msgstr "壹點五公里"
+
+msgctxt "In {distance}"
+msgid "two and a half kilometers"
+msgstr "二點五公里"
+
+msgctxt "In {distance}"
+msgid "three and a half kilometers"
+msgstr "三點五公里"
+
+msgctxt "In {distance}"
+msgid "four and a half kilometers"
+msgstr "四點五公里"
+
+msgctxt "In {distance}"
+msgid "a quarter of a mile"
+msgstr "零點二五英里"
+
+msgctxt "In {distance}"
+msgid "half a mile"
+msgstr "零點五英里"
+
+msgctxt "In {distance}"
+msgid "three quarters of a mile"
+msgstr "零點七五英里"
+
+msgctxt "In {distance}"
+msgid "one and a half miles"
+msgstr "壹點五英里"
+
+msgctxt "In {distance}"
+msgid "two and a half miles"
+msgstr "二點五英里"
+
+msgctxt "In {distance}"
+msgid "three and a half miles"
+msgstr "三點五英里"
+
+msgctxt "In {distance}"
+msgid "four and a half miles"
+msgstr "四點五英里"
+
+msgctxt "In {distance}"
+msgid "five and a half miles"
+msgstr "五點五英里"
+
+msgctxt "In {distance}"
+msgid "six and a half miles"
+msgstr "六點五英里"
+
+msgctxt "In {distance}"
+msgid "seven and a half miles"
+msgstr "七點五英里"
+
+msgctxt "In {distance}"
+msgid "eight and a half miles"
+msgstr "八點五英里"
+
+msgctxt "In {distance}"
+msgid "nine and a half miles"
+msgstr "九點五英里"
+
+msgctxt "follow for {distance}"
+msgid "one and a half kilometers"
+msgstr "壹點五公里"
+
+msgctxt "follow for {distance}"
+msgid "two and a half kilometers"
+msgstr "二點五公里"
+
+msgctxt "follow for {distance}"
+msgid "three and a half kilometers"
+msgstr "三點五公里"
+
+msgctxt "follow for {distance}"
+msgid "four and a half kilometers"
+msgstr "四點五公里"
+
+msgctxt "follow for {distance}"
+msgid "a quarter of a mile"
+msgstr "零點二五英里"
+
+msgctxt "follow for {distance}"
+msgid "half a mile"
+msgstr "零點五英里"
+
+msgctxt "follow for {distance}"
+msgid "three quarters of a mile"
+msgstr "零點七五英里"
+
+msgctxt "follow for {distance}"
+msgid "one and a half miles"
+msgstr "壹點五英里"
+
+msgctxt "follow for {distance}"
+msgid "two and a half miles"
+msgstr "二點五英里"
+
+msgctxt "follow for {distance}"
+msgid "three and a half miles"
+msgstr "三點五英里"
+
+msgctxt "follow for {distance}"
+msgid "four and a half miles"
+msgstr "四點五英里"
+
+msgctxt "follow for {distance}"
+msgid "five and a half miles"
+msgstr "五點五英里"
+
+msgctxt "follow for {distance}"
+msgid "six and a half miles"
+msgstr "六點五英里"
+
+msgctxt "follow for {distance}"
+msgid "seven and a half miles"
+msgstr "七點五英里"
+
+msgctxt "follow for {distance}"
+msgid "eight and a half miles"
+msgstr "八點五英里"
+
+msgctxt "follow for {distance}"
+msgid "nine and a half miles"
+msgstr "九點五英里"
+
+msgctxt "In {distance}"
+msgid "one kilometer"
+msgstr "壹公里"
+
+msgctxt "In {distance}"
+msgid "two kilometers"
+msgstr "兩公里"
+
+msgctxt "In {distance}"
+msgid "three kilometers"
+msgstr "三公里"
+
+msgctxt "In {distance}"
+msgid "one mile"
+msgstr "壹英里"
+
+msgctxt "In {distance}"
+msgid "two miles"
+msgstr "二英里"
+
+msgctxt "In {distance}"
+msgid "three miles"
+msgstr "三英里"
+
+msgctxt "follow for {distance}"
+msgid "one kilometer"
+msgstr "壹公里"
+
+msgctxt "follow for {distance}"
+msgid "two kilometers"
+msgstr "兩公里"
+
+msgctxt "follow for {distance}"
+msgid "three kilometers"
+msgstr "三公里"
+
+msgctxt "follow for {distance}"
+msgid "one mile"
+msgstr "壹英里"
+
+msgctxt "follow for {distance}"
+msgid "two miles"
+msgstr "二英里"
+
+msgctxt "follow for {distance}"
+msgid "three miles"
+msgstr "三英里"
+
+msgctxt "after {distance}"
+msgid "one kilometer"
+msgstr "壹公里"
+
+msgctxt "after {distance}"
+msgid "two kilometers"
+msgstr "兩公里"
+
+msgctxt "after {distance}"
+msgid "three kilometers"
+msgstr "三公里"
+
+msgctxt "after {distance}"
+msgid "one mile"
+msgstr "壹英里"
+
+msgctxt "after {distance}"
+msgid "two miles"
+msgstr "二英里"
+
+msgctxt "after {distance}"
+msgid "three miles"
+msgstr "三英里"
+
+msgctxt "In {distance} - fractional"
+msgid "{count} kilometers"
+msgstr "{count} 公里"
+
+msgctxt "In {distance} - fractional"
+msgid "{count} miles"
+msgstr "{count} 英里"
+
+msgctxt "follow for {distance} - fractional"
+msgid "{count} kilometers"
+msgstr "{count} 公里"
+
+msgctxt "follow for {distance} - fractional"
+msgid "{count} miles"
+msgstr "{count} 英里"
+
+msgctxt "after {distance} - fractional"
+msgid "{count} kilometers"
+msgstr "{count} 公里"
+
+msgctxt "after {distance} - fractional"
+msgid "{count} miles"
+msgstr "{count} 英里"

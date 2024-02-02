@@ -1,0 +1,2423 @@
+# Copyright (C) 2023 TomTom NV. All rights reserved.
+#
+# This software is the proprietary copyright of TomTom NV and its subsidiaries and may be
+# used for internal evaluation purposes or commercial use strictly subject to separate
+# license agreement between you and TomTom NV. If you are the licensee, you are only permitted
+# to use this software in accordance with the terms of your license agreement. If you are
+# not the licensee, you are not authorized to use this software in any manner and should
+# immediately return or destroy it.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-04 15:26+0200\n"
+"PO-Revision-Date: 2023-03-23 21:30+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Follow the {road_number} for {distance}."
+msgstr "Seuraa tietä {road_number} {distance}."
+
+msgid "Follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} for {distance}."
+msgstr "Seuraa tietä {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} {distance}."
+
+msgid "Follow {road_name} for {distance}."
+msgstr "Seuraa {road_name} {distance}."
+
+msgid "Follow the freeway for {distance}."
+msgstr "Seuraa moottoritietä {distance}."
+
+msgid "Follow the road for {distance}."
+msgstr "Seuraa tietä {distance}."
+
+msgid "In {distance} you will enter {country}."
+msgstr "{distance}, kunnes saavut maahan {country}."
+
+msgid "You are entering {country}."
+msgstr "Saavut maahan {country}."
+
+msgid "Start driving on the {road_number}."
+msgstr "Lähde ajamaan tiellä {road_number}."
+
+msgid "Start driving on {road_name}."
+msgstr "Lähde ajamaan tiellä {road_name}."
+
+msgid "Start driving."
+msgstr "Lähde ajamaan."
+
+msgid "You have reached your destination at the {road_number}. It is on the right."
+msgstr "Olet saapunut määränpäähän tiellä {road_number}. Se on oikealla."
+
+msgid "You have reached your destination at {road_name}. It is on the right."
+msgstr "Olet saapunut määränpäähän tiellä {road_name}. Se on oikealla."
+
+msgid "You have reached your destination, it is on the right."
+msgstr "Olet perillä, määränpääsi on oikealla."
+
+msgid "You have reached your destination at the {road_number}. It is on the left."
+msgstr "Olet saapunut määränpäähän tiellä {road_number}. Se on vasemmalla."
+
+msgid "You have reached your destination at {road_name}. It is on the left."
+msgstr "Olet saapunut määränpäähän tiellä {road_name}. Se on vasemmalla."
+
+msgid "You have reached your destination, it is on the left."
+msgstr "Olet perillä, määränpääsi on vasemmalla."
+
+msgid "In {distance} you will reach your destination."
+msgstr "Määränpäähäsi on {distance}."
+
+msgid "You have reached your destination."
+msgstr "Olet saapunut määränpäähän."
+
+msgid "You have reached your stop at the {road_number}. It is on the right."
+msgstr "Olet saapunut pysähdyspaikkaasi tiellä {road_number}. Se on oikealla."
+
+msgid "You have reached your stop at {road_name}. It is on the right."
+msgstr "Olet saapunut pysähdyspaikkaasi tiellä {road_name}. Se on oikealla."
+
+msgid "You have reached your stop, it is on the right."
+msgstr "Olet perillä, pysähdyspaikkasi on oikealla."
+
+msgid "You have reached your stop at the {road_number}. It is on the left."
+msgstr "Olet saapunut pysähdyspaikkaasi tiellä {road_number}. Se on vasemmalla."
+
+msgid "You have reached your stop at {road_name}. It is on the left."
+msgstr "Olet saapunut pysähdyspaikkaasi tiellä {road_name}. Se on vasemmalla."
+
+msgid "You have reached your stop, it is on the left."
+msgstr "Olet perillä, pysähdyspaikkasi on vasemmalla."
+
+msgid "In {distance} you will reach your stop."
+msgstr "Pysähdyspaikkaasi on {distance}."
+
+msgid "You have reached your stop at the {road_number}."
+msgstr "Olet saapunut pysähdyspaikkaasi tiellä {road_number}."
+
+msgid "You have reached your stop at {road_name}."
+msgstr "Olet saapunut pysähdyspaikkaasi tiellä {road_name}."
+
+msgid "You have reached your stop."
+msgstr "Olet saapunut pysähdyspaikkaasi."
+
+msgid "In {distance} go straight {direction_details}."
+msgstr "Aja {distance} ja jatka suoraan {direction_details}."
+
+msgid "In {distance} go straight."
+msgstr "Aja {distance} ja jatka suoraan."
+
+msgid "Go straight {direction_details}."
+msgstr "Aja suoraan {direction_details}."
+
+msgid "Then go straight."
+msgstr "Jatka sitten suoraan."
+
+msgid "Go straight."
+msgstr "Aja suoraan."
+
+msgid "In {distance} bear right at {intersection_name}."
+msgstr "Aja {distance} ja kaarra oikealle risteyksessä {intersection_name}."
+
+msgid "In {distance} {landmark} bear right {direction_details}."
+msgstr "Aja {distance} ja {landmark} kaarra oikealle {direction_details}."
+
+msgid "In {distance} bear right {direction_details}."
+msgstr "Aja {distance} ja kaarra oikealle {direction_details}."
+
+msgid "In {distance} {landmark} bear right."
+msgstr "Aja {distance} ja {landmark} kaarra oikealle."
+
+msgid "In {distance} bear right."
+msgstr "Aja {distance} ja kaarra oikealle."
+
+msgid "Bear right at {intersection_name}."
+msgstr "Kaarra oikealle risteyksessä {intersection_name}."
+
+msgid "{landmark} bear right {direction_details}."
+msgstr "{landmark} kaarra oikealle {direction_details}."
+
+msgid "Bear right {direction_details}."
+msgstr "Kaarra oikealle {direction_details}."
+
+msgid "Then bear right."
+msgstr "Kaarra sitten oikealle."
+
+msgid "{landmark} bear right."
+msgstr "Kaarra oikealle."
+
+msgid "Bear right."
+msgstr "Kaarra oikealle."
+
+msgid "In {distance} turn right at {intersection_name}."
+msgstr "Aja {distance} ja käänny oikealle risteyksessä {intersection_name}."
+
+msgid "In {distance} {landmark} turn right {direction_details}."
+msgstr "Aja {distance} ja {landmark} käänny oikealle {direction_details}."
+
+msgid "In {distance} turn right {direction_details}."
+msgstr "Aja {distance}, käänny oikealle {direction_details}."
+
+msgid "In {distance} {landmark} turn right."
+msgstr "Aja {distance} ja {landmark} käänny oikealle."
+
+msgid "In {distance} turn right."
+msgstr "Aja {distance} ja käänny oikealle."
+
+msgid "Turn right at {intersection_name}."
+msgstr "Käänny oikealle risteyksessä {intersection_name}."
+
+msgid "{landmark} turn right {direction_details}."
+msgstr "{landmark} käänny oikealle {direction_details}."
+
+msgid "Turn right {direction_details}."
+msgstr "Käänny oikealle {direction_details}."
+
+msgid "Then turn right."
+msgstr "Käänny sitten oikealle."
+
+msgid "{landmark} turn right."
+msgstr "Käänny oikealle."
+
+msgid "Turn right."
+msgstr "Käänny oikealle."
+
+msgid "In {distance} make a sharp right turn at {intersection_name}."
+msgstr "Aja {distance} ja tee jyrkkä käännös oikealle risteyksessä {intersection_name}."
+
+msgid "In {distance} {landmark} make a sharp right turn {direction_details}."
+msgstr "Aja {distance} ja {landmark} tee jyrkkä käännös oikealle {direction_details}."
+
+msgid "In {distance} make a sharp right turn {direction_details}."
+msgstr "Aja {distance} ja tee jyrkkä käännös oikealle {direction_details}."
+
+msgid "In {distance} {landmark} make a sharp right turn."
+msgstr "Aja {distance} ja {landmark} tee jyrkkä käännös oikealle."
+
+msgid "In {distance} make a sharp right turn."
+msgstr "Aja {distance} ja tee jyrkkä käännös oikealle."
+
+msgid "Make a sharp right turn at {intersection_name}."
+msgstr "Tee jyrkkä käännös oikealle risteyksessä {intersection_name}."
+
+msgid "{landmark} make a sharp right turn {direction_details}."
+msgstr "{landmark} tee jyrkkä käännös oikealle {direction_details}."
+
+msgid "Make a sharp right turn {direction_details}."
+msgstr "Tee jyrkkä käännös oikealle {direction_details}."
+
+msgid "Then make a sharp right turn."
+msgstr "Tee sitten jyrkkä käännös oikealle."
+
+msgid "{landmark} make a sharp right turn."
+msgstr "Tee jyrkkä käännös oikealle."
+
+msgid "Make a sharp right turn."
+msgstr "Tee jyrkkä käännös oikealle."
+
+msgid "In {distance} bear left at {intersection_name}."
+msgstr "Aja {distance} ja kaarra vasemmalle risteyksessä {intersection_name}."
+
+msgid "In {distance} {landmark} bear left {direction_details}."
+msgstr "Aja {distance} ja {landmark} kaarra vasemmalle {direction_details}."
+
+msgid "In {distance} bear left {direction_details}."
+msgstr "Aja {distance} ja kaarra vasemmalle {direction_details}."
+
+msgid "In {distance} {landmark} bear left."
+msgstr "Aja {distance} ja {landmark} kaarra vasemmalle."
+
+msgid "In {distance} bear left."
+msgstr "Aja {distance} ja kaarra vasemmalle."
+
+msgid "Bear left at {intersection_name}."
+msgstr "Kaarra vasemmalle risteyksessä {intersection_name}."
+
+msgid "{landmark} bear left {direction_details}."
+msgstr "{landmark} kaarra vasemmalle {direction_details}."
+
+msgid "Bear left {direction_details}."
+msgstr "Kaarra vasemmalle {direction_details}."
+
+msgid "Then bear left."
+msgstr "Kaarra sitten vasemmalle."
+
+msgid "{landmark} bear left."
+msgstr "Kaarra vasemmalle."
+
+msgid "Bear left."
+msgstr "Kaarra vasemmalle."
+
+msgid "In {distance} turn left at {intersection_name}."
+msgstr "Aja {distance} ja käänny vasemmalle risteyksessä {intersection_name}."
+
+msgid "In {distance} {landmark} turn left {direction_details}."
+msgstr "Aja {distance} ja {landmark} käänny vasemmalle {direction_details}."
+
+msgid "In {distance} turn left {direction_details}."
+msgstr "Aja {distance}, käänny vasemmalle {direction_details}."
+
+msgid "In {distance} {landmark} turn left."
+msgstr "Aja {distance} ja {landmark} käänny vasemmalle."
+
+msgid "In {distance} turn left."
+msgstr "Aja {distance} ja käänny vasemmalle."
+
+msgid "Turn left at {intersection_name}."
+msgstr "Käänny vasemmalle risteyksessä {intersection_name}."
+
+msgid "{landmark} turn left {direction_details}."
+msgstr "{landmark} käänny vasemmalle {direction_details}."
+
+msgid "Turn left {direction_details}."
+msgstr "Käänny vasemmalle {direction_details}."
+
+msgid "Then turn left."
+msgstr "Käänny sitten vasemmalle."
+
+msgid "{landmark} turn left."
+msgstr "Käänny vasemmalle."
+
+msgid "Turn left."
+msgstr "Käänny vasemmalle."
+
+msgid "In {distance} make a sharp left turn at {intersection_name}."
+msgstr "Aja {distance} ja tee jyrkkä käännös vasemmalle risteyksessä {intersection_name}."
+
+msgid "In {distance} {landmark} make a sharp left turn {direction_details}."
+msgstr "Aja {distance} ja {landmark} tee jyrkkä käännös vasemmalle {direction_details}."
+
+msgid "In {distance} make a sharp left turn {direction_details}."
+msgstr "Aja {distance} ja tee jyrkkä käännös vasemmalle {direction_details}."
+
+msgid "In {distance} {landmark} make a sharp left turn."
+msgstr "Aja {distance} ja {landmark} tee jyrkkä käännös vasemmalle."
+
+msgid "In {distance} make a sharp left turn."
+msgstr "Aja {distance} ja tee jyrkkä käännös vasemmalle."
+
+msgid "Make a sharp left turn at {intersection_name}."
+msgstr "Tee jyrkkä käännös vasemmalle risteyksessä {intersection_name}."
+
+msgid "{landmark} make a sharp left turn {direction_details}."
+msgstr "{landmark} tee jyrkkä käännös vasemmalle {direction_details}."
+
+msgid "Make a sharp left turn {direction_details}."
+msgstr "Tee jyrkkä käännös vasemmalle {direction_details}."
+
+msgid "Then make a sharp left turn."
+msgstr "Tee sitten jyrkkä käännös vasemmalle."
+
+msgid "{landmark} make a sharp left turn."
+msgstr "Tee jyrkkä käännös vasemmalle."
+
+msgid "Make a sharp left turn."
+msgstr "Tee jyrkkä käännös vasemmalle."
+
+msgid "In {distance} make a U-turn at {intersection_name}."
+msgstr "Aja {distance} ja tee U-käännös risteyksessä {intersection_name}."
+
+msgid "In {distance} {landmark} make a U-turn {direction_details}."
+msgstr "Aja {distance} ja {landmark} tee U-käännös {direction_details}."
+
+msgid "In {distance} make a U-turn {direction_details}."
+msgstr "Aja {distance} ja tee U-käännös {direction_details}."
+
+msgid "In {distance} {landmark} make a U-turn."
+msgstr "Aja {distance} ja {landmark} tee U-käännös."
+
+msgid "In {distance} make a U-turn."
+msgstr "Aja {distance} ja tee U-käännös."
+
+msgid "Make a U-turn at {intersection_name}."
+msgstr "Tee U-käännös risteyksessä {intersection_name}."
+
+msgid "{landmark} make a U-turn {direction_details}."
+msgstr "{landmark} tee U-käännös {direction_details}."
+
+msgid "Make a U-turn {direction_details}."
+msgstr "Tee U-käännös {direction_details}."
+
+msgid "Then make a U-turn."
+msgstr "Tee sitten U-käännös."
+
+msgid "{landmark} make a U-turn."
+msgstr "Tee U-käännös."
+
+msgid "Make a U-turn."
+msgstr "Tee U-käännös."
+
+msgid "In {distance} follow the road to the right."
+msgstr "Aja {distance} ja seuraa tietä oikealle."
+
+msgid "Then follow the road to the right."
+msgstr "Seuraa sitten tietä oikealle."
+
+msgid "Follow the road to the right."
+msgstr "Seuraa tietä oikealle."
+
+msgid "In {distance} follow the road to the left."
+msgstr "Aja {distance} ja seuraa tietä vasemmalle."
+
+msgid "Then follow the road to the left."
+msgstr "Seuraa sitten tietä vasemmalle."
+
+msgid "Follow the road to the left."
+msgstr "Seuraa tietä vasemmalle."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} vasemmalla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} vasemmalla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} vasemmalla risteyksessä {intersection_name}."
+
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} vasemmalla risteyksessä {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left {direction_details}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} vasemmalla {direction_details}."
+
+msgid "In {distance} take the exit {exit_number} on the left {direction_details}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} vasemmalla {direction_details}."
+
+msgid "In {distance} take the left exit at {intersection_name} toward {toward_name}."
+msgstr "Aja {distance} ja aja vasemmalla olevaan liittymään risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "In {distance} take the left exit at {intersection_name}."
+msgstr "Aja {distance} ja aja vasemmalla olevaan liittymään risteyksessä {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the left exit {direction_details}."
+msgstr "Aja {distance} ja aja vasemmalla olevaan liittymään {direction_details}."
+
+msgid "In {distance} take the left exit {direction_details}."
+msgstr "Aja {distance} ja aja vasemmalla olevaan liittymään {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left toward {toward_name}."
+msgstr "Aja liittymään {exit_number} vasemmalla suuntaan {toward_name}."
+
+msgid "Take the exit {exit_number} on the left toward {toward_name}."
+msgstr "Aja liittymään {exit_number} vasemmalla suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left."
+msgstr "Aja liittymään {exit_number} vasemmalla."
+
+msgid "Take the exit {exit_number} on the left."
+msgstr "Aja liittymään {exit_number} vasemmalla."
+
+msgid "Take the left exit toward {toward_name}."
+msgstr "Aja vasemmalla olevaan liittymään suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} vasemmalla suuntaan {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} on the left toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} vasemmalla suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left."
+msgstr "Aja {distance} ja aja liittymään {exit_number} vasemmalla."
+
+msgid "In {distance} take the exit {exit_number} on the left."
+msgstr "Aja {distance} ja aja liittymään {exit_number} vasemmalla."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the left exit toward {toward_name}."
+msgstr "Aja {distance} ja aja vasemmalla olevaan liittymään suuntaan {toward_name}."
+
+msgid "In {distance} take the left exit toward {toward_name}."
+msgstr "Aja {distance} ja aja vasemmalla olevaan liittymään suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the left exit."
+msgstr "Aja {distance} ja aja vasemmalla olevaan liittymään."
+
+msgid "In {distance} take the left exit."
+msgstr "Aja {distance} ja aja vasemmalla olevaan liittymään."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "Aja toiseen liittymään vasemmalla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "Aja liittymään {exit_number} vasemmalla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "Take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "Aja liittymään {exit_number} vasemmalla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left at {intersection_name}."
+msgstr "Aja toiseen liittymään vasemmalla risteyksessä {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left at {intersection_name}."
+msgstr "Aja liittymään {exit_number} vasemmalla risteyksessä {intersection_name}."
+
+msgid "Take the exit {exit_number} on the left at {intersection_name}."
+msgstr "Aja liittymään {exit_number} vasemmalla risteyksessä {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left {direction_details}."
+msgstr "Aja toiseen liittymään vasemmalla {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left {direction_details}."
+msgstr "Aja liittymään {exit_number} vasemmalla {direction_details}."
+
+msgid "Take the exit {exit_number} on the left {direction_details}."
+msgstr "Aja liittymään {exit_number} vasemmalla {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit at {intersection_name} toward {toward_name}."
+msgstr "Aja toiseen liittymään vasemmalla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "Take the left exit at {intersection_name} toward {toward_name}."
+msgstr "Aja vasemmalla olevaan liittymään risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit at {intersection_name}."
+msgstr "Aja toiseen liittymään vasemmalla risteyksessä {intersection_name}."
+
+msgid "Take the left exit at {intersection_name}."
+msgstr "Aja vasemmalla olevaan liittymään risteyksessä {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit {direction_details}."
+msgstr "Aja toiseen liittymään vasemmalla {direction_details}."
+
+msgid "Take the left exit {direction_details}."
+msgstr "Aja vasemmalla olevaan liittymään {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit {exit_number} on the left."
+msgstr "Aja sitten toiseen liittymään vasemmalla."
+
+msgctxt "has_exit_name"
+msgid "Then take the exit {exit_number} on the left."
+msgstr "Aja sitten liittymään {exit_number} vasemmalla."
+
+msgid "Then take the exit {exit_number} on the left."
+msgstr "Aja sitten liittymään {exit_number} vasemmalla."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the left exit."
+msgstr "Aja sitten toiseen liittymään vasemmalla."
+
+msgid "Then take the left exit."
+msgstr "Aja sitten vasemmalla olevaan liittymään."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left."
+msgstr "Aja toiseen liittymään vasemmalla."
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit."
+msgstr "Aja toiseen liittymään vasemmalla."
+
+msgid "Take the left exit."
+msgstr "Aja vasemmalla olevaan liittymään."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} oikealla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} oikealla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} oikealla risteyksessä {intersection_name}."
+
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} oikealla risteyksessä {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right {direction_details}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} oikealla {direction_details}."
+
+msgid "In {distance} take the exit {exit_number} on the right {direction_details}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} oikealla {direction_details}."
+
+msgid "In {distance} take the right exit at {intersection_name} toward {toward_name}."
+msgstr "Aja {distance} ja aja oikealla olevaan liittymään risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "In {distance} take the right exit at {intersection_name}."
+msgstr "Aja {distance} ja aja oikealla olevaan liittymään risteyksessä {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the right exit {direction_details}."
+msgstr "Aja {distance} ja aja oikealla olevaan liittymään {direction_details}."
+
+msgid "In {distance} take the right exit {direction_details}."
+msgstr "Aja {distance} ja aja oikealla olevaan liittymään {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right toward {toward_name}."
+msgstr "Aja liittymään {exit_number} oikealla suuntaan {toward_name}."
+
+msgid "Take the exit {exit_number} on the right toward {toward_name}."
+msgstr "Aja liittymään {exit_number} oikealla suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right."
+msgstr "Aja liittymään {exit_number} oikealla."
+
+msgid "Take the exit {exit_number} on the right."
+msgstr "Aja liittymään {exit_number} oikealla."
+
+msgid "Take the right exit toward {toward_name}."
+msgstr "Aja oikealla olevaan liittymään suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} oikealla suuntaan {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} on the right toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} oikealla suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right."
+msgstr "Aja {distance} ja aja liittymään {exit_number} oikealla."
+
+msgid "In {distance} take the exit {exit_number} on the right."
+msgstr "Aja {distance} ja aja liittymään {exit_number} oikealla."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the right exit toward {toward_name}."
+msgstr "Aja {distance} ja aja oikealla olevaan liittymään suuntaan {toward_name}."
+
+msgid "In {distance} take the right exit toward {toward_name}."
+msgstr "Aja {distance} ja aja oikealla olevaan liittymään suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the right exit."
+msgstr "Aja {distance} ja aja oikealla olevaan liittymään."
+
+msgid "In {distance} take the right exit."
+msgstr "Aja {distance} ja aja oikealla olevaan liittymään."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "Aja toiseen liittymään oikealla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "Aja liittymään {exit_number} oikealla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "Take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "Aja liittymään {exit_number} oikealla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right at {intersection_name}."
+msgstr "Aja toiseen liittymään oikealla risteyksessä {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right at {intersection_name}."
+msgstr "Aja liittymään {exit_number} oikealla risteyksessä {intersection_name}."
+
+msgid "Take the exit {exit_number} on the right at {intersection_name}."
+msgstr "Aja liittymään {exit_number} oikealla risteyksessä {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right {direction_details}."
+msgstr "Aja toiseen liittymään oikealla {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right {direction_details}."
+msgstr "Aja liittymään {exit_number} oikealla {direction_details}."
+
+msgid "Take the exit {exit_number} on the right {direction_details}."
+msgstr "Aja liittymään {exit_number} oikealla {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit at {intersection_name} toward {toward_name}."
+msgstr "Aja toiseen liittymään oikealla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "Take the right exit at {intersection_name} toward {toward_name}."
+msgstr "Aja oikealla olevaan liittymään risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit at {intersection_name}."
+msgstr "Aja toiseen liittymään oikealla risteyksessä {intersection_name}."
+
+msgid "Take the right exit at {intersection_name}."
+msgstr "Aja oikealla olevaan liittymään risteyksessä {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit {direction_details}."
+msgstr "Aja toiseen liittymään oikealla {direction_details}."
+
+msgid "Take the right exit {direction_details}."
+msgstr "Aja oikealla olevaan liittymään {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit {exit_number} on the right."
+msgstr "Aja sitten toiseen liittymään oikealla."
+
+msgctxt "has_exit_name"
+msgid "Then take the exit {exit_number} on the right."
+msgstr "Aja sitten liittymään {exit_number} oikealla."
+
+msgid "Then take the exit {exit_number} on the right."
+msgstr "Aja sitten liittymään {exit_number} oikealla."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the right exit."
+msgstr "Aja sitten toiseen liittymään oikealla."
+
+msgid "Then take the right exit."
+msgstr "Aja sitten oikealla olevaan liittymään."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right."
+msgstr "Aja toiseen liittymään oikealla."
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit."
+msgstr "Aja toiseen liittymään oikealla."
+
+msgid "Take the right exit."
+msgstr "Aja oikealla olevaan liittymään."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} at {intersection_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} risteyksessä {intersection_name}."
+
+msgid "In {distance} take the exit {exit_number} at {intersection_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} risteyksessä {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} {direction_details}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} {direction_details}."
+
+msgid "In {distance} take the exit {exit_number} {direction_details}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} {direction_details}."
+
+msgid "In {distance} take the exit at {intersection_name} toward {toward_name}."
+msgstr "Aja {distance} ja liittymään risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "In {distance} take the exit at {intersection_name}."
+msgstr "Aja {distance} ja aja liittymään risteyksessä {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {direction_details}."
+msgstr "Aja {distance} ja aja liittymään {direction_details}."
+
+msgid "In {distance} take the exit {direction_details}."
+msgstr "Aja {distance} ja aja liittymään {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} toward {toward_name}."
+msgstr "Aja liittymään {exit_number} suuntaan {toward_name}."
+
+msgid "Take the exit {exit_number} toward {toward_name}."
+msgstr "Aja liittymään {exit_number} suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number}."
+msgstr "Aja liittymään {exit_number}."
+
+msgid "Take the exit {exit_number}."
+msgstr "Aja liittymään {exit_number}."
+
+msgid "Take the exit toward {toward_name}."
+msgstr "Aja liittymään suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} suuntaan {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään {exit_number} suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number}."
+msgstr "Aja {distance} ja aja liittymään {exit_number}."
+
+msgid "In {distance} take the exit {exit_number}."
+msgstr "Aja {distance} ja aja liittymään {exit_number}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään suuntaan {toward_name}."
+
+msgid "In {distance} take the exit toward {toward_name}."
+msgstr "Aja {distance} ja aja liittymään suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit."
+msgstr "Aja {distance} ja aja liittymään."
+
+msgid "In {distance} take the exit."
+msgstr "Aja {distance} ja aja liittymään."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "Aja toiseen liittymään risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "Aja liittymään {exit_number} risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "Take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "Aja liittymään {exit_number} risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} at {intersection_name}."
+msgstr "Aja toiseen liittymään risteyksessä {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} at {intersection_name}."
+msgstr "Aja liittymään {exit_number} risteyksessä {intersection_name}."
+
+msgid "Take the exit {exit_number} at {intersection_name}."
+msgstr "Aja liittymään {exit_number} risteyksessä {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} {direction_details}."
+msgstr "Aja toiseen liittymään {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} {direction_details}."
+msgstr "Aja liittymään {exit_number} {direction_details}."
+
+msgid "Take the exit {exit_number} {direction_details}."
+msgstr "Aja liittymään {exit_number} {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit at {intersection_name} toward {toward_name}."
+msgstr "Aja toiseen liittymään risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "Take the exit at {intersection_name} toward {toward_name}."
+msgstr "Aja liittymään risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit at {intersection_name}."
+msgstr "Aja toiseen liittymään risteyksessä {intersection_name}."
+
+msgid "Take the exit at {intersection_name}."
+msgstr "Aja liittymään risteyksessä {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {direction_details}."
+msgstr "Aja toiseen liittymään {direction_details}."
+
+msgid "Take the exit {direction_details}."
+msgstr "Aja liittymään {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit {exit_number}."
+msgstr "Aja sitten toiseen liittymään."
+
+msgctxt "has_exit_name"
+msgid "Then take the exit {exit_number}."
+msgstr "Aja sitten liittymään {exit_number}."
+
+msgid "Then take the exit {exit_number}."
+msgstr "Aja sitten liittymään {exit_number}."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit."
+msgstr "Aja sitten toiseen liittymään."
+
+msgid "Then take the exit."
+msgstr "Aja sitten liittymään."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number}."
+msgstr "Aja toiseen liittymään."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit."
+msgstr "Aja toiseen liittymään."
+
+msgid "Take the exit."
+msgstr "Aja liittymään."
+
+msgid "In {distance} keep left at {intersection_name} toward {toward_name}."
+msgstr "Aja {distance} ja pysy vasemmalla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "In {distance} keep left at {intersection_name}."
+msgstr "Aja {distance} ja pysy vasemmalla risteyksessä {intersection_name}."
+
+msgid "In {distance} keep left {direction_details}."
+msgstr "Aja {distance} ja pysy vasemmalla {direction_details}."
+
+msgid "In {distance} keep left."
+msgstr "Aja {distance} ja pysy vasemmalla."
+
+msgid "Keep left at {intersection_name} toward {toward_name}."
+msgstr "Pysy vasemmalla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "Keep left at {intersection_name}."
+msgstr "Pysy vasemmalla risteyksessä {intersection_name}."
+
+msgid "Then keep left."
+msgstr "Pysy sitten vasemmalla."
+
+msgid "Keep left {direction_details}."
+msgstr "Pysy vasemmalla {direction_details}."
+
+msgid "Keep left."
+msgstr "Pysy vasemmalla."
+
+msgid "In {distance} keep right at {intersection_name} toward {toward_name}."
+msgstr "Aja {distance} ja pysy oikealla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "In {distance} keep right at {intersection_name}."
+msgstr "Aja {distance} ja pysy oikealla risteyksessä {intersection_name}."
+
+msgid "In {distance} keep right {direction_details}."
+msgstr "Aja {distance} ja pysy oikealla {direction_details}."
+
+msgid "In {distance} keep right."
+msgstr "Aja {distance} ja pysy oikealla."
+
+msgid "Keep right at {intersection_name} toward {toward_name}."
+msgstr "Pysy oikealla risteyksessä {intersection_name} suuntaan {toward_name}."
+
+msgid "Keep right at {intersection_name}."
+msgstr "Pysy oikealla risteyksessä {intersection_name}."
+
+msgid "Then keep right."
+msgstr "Pysy sitten oikealla."
+
+msgid "Keep right {direction_details}."
+msgstr "Pysy oikealla {direction_details}."
+
+msgid "Keep right."
+msgstr "Pysy oikealla."
+
+msgctxt "merge_onto_another_road"
+msgid "In {distance} take the {road_number}."
+msgstr "Aja {distance} ja aja tielle {road_number}."
+
+msgctxt "merge_onto_another_road"
+msgid "Then take the {road_number}."
+msgstr "Aja sitten tielle {road_number}."
+
+msgctxt "merge_onto_another_road"
+msgid "Take the {road_number}."
+msgstr "Aja tielle {road_number}."
+
+msgctxt "merge_onto_another_road"
+msgid "In {distance} take {road_name}."
+msgstr "Aja {distance} ja aja tielle {road_name}."
+
+msgctxt "merge_onto_another_road"
+msgid "Then take {road_name}."
+msgstr "Aja sitten tielle {road_name}."
+
+msgctxt "merge_onto_another_road"
+msgid "Take {road_name}."
+msgstr "Aja tielle {road_name}."
+
+msgctxt "merge_onto_another_road"
+msgid "In {distance} take the freeway."
+msgstr "Aja {distance} ja aja moottoritielle."
+
+msgctxt "merge_onto_another_road"
+msgid "Then take the freeway."
+msgstr "Aja sitten moottoritielle."
+
+msgctxt "merge_onto_another_road"
+msgid "Take the freeway."
+msgstr "Aja moottoritielle."
+
+msgid "Make a U-turn when possible."
+msgstr "Tee U-käännös, kun mahdollista."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Aja {distance} ja kiertoliittymässä aja suoraan ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit."
+msgstr "Aja {distance} ja kiertoliittymässä aja suoraan ulosmenoliittymään {roundabout_exit_number}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Kiertoliittymässä aja suoraan ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Aja {distance} ja kiertoliittymässä aja suoraan ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit."
+msgstr "Aja {distance} ja kiertoliittymässä aja suoraan ulosmenoliittymään {roundabout_exit_number}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Kiertoliittymässä aja suoraan ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Aja {distance} ja kiertoliittymässä aja suoraan ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit."
+msgstr "Aja {distance} ja kiertoliittymässä aja suoraan ulosmenoliittymään {roundabout_exit_number}."
+
+msgid "At the roundabout go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Kiertoliittymässä aja suoraan ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Aja {distance} ja kiertoliittymässä käänny oikealle ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit."
+msgstr "Aja {distance} ja kiertoliittymässä käänny oikealle ulosmenoliittymään {roundabout_exit_number}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Kiertoliittymässä käänny oikealle ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Aja {distance} ja kiertoliittymässä käänny oikealle ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit."
+msgstr "Aja {distance} ja kiertoliittymässä käänny oikealle ulosmenoliittymään {roundabout_exit_number}."
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Kiertoliittymässä käänny oikealle ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Aja {distance} ja kiertoliittymässä käänny oikealle ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit."
+msgstr "Aja {distance} ja kiertoliittymässä käänny oikealle ulosmenoliittymään {roundabout_exit_number}."
+
+msgid "At the roundabout turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Kiertoliittymässä käänny oikealle ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Aja {distance} ja kiertoliittymässä käänny vasemmalle ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit."
+msgstr "Aja {distance} ja kiertoliittymässä käänny vasemmalle ulosmenoliittymään {roundabout_exit_number}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Kiertoliittymässä käänny vasemmalle ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Aja {distance} ja kiertoliittymässä käänny vasemmalle ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit."
+msgstr "Aja {distance} ja kiertoliittymässä käänny vasemmalle ulosmenoliittymään {roundabout_exit_number}."
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Kiertoliittymässä käänny vasemmalle ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Aja {distance} ja kiertoliittymässä käänny vasemmalle ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit."
+msgstr "Aja {distance} ja kiertoliittymässä käänny vasemmalle ulosmenoliittymään {roundabout_exit_number}."
+
+msgid "At the roundabout turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Kiertoliittymässä käänny vasemmalle ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} make a U-turn, {roundabout_exit_number} exit {direction_details}."
+msgstr "Aja {distance} ja kiertoliittymässä tee U-käännös ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} make a U-turn, {roundabout_exit_number} exit."
+msgstr "Aja {distance} ja kiertoliittymässä tee U-käännös ulosmenoliittymään {roundabout_exit_number}."
+
+msgid "At the roundabout make a U-turn, {roundabout_exit_number} exit {direction_details}."
+msgstr "Kiertoliittymässä tee U-käännös ulosmenoliittymään {roundabout_exit_number} {direction_details}."
+
+msgid "At the roundabout in {distance} take the {roundabout_exit_number_v2} exit."
+msgstr "Aja {distance} ja kiertoliittymässä aja ulosmenoliittymään {roundabout_exit_number_v2}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit."
+msgstr "Kiertoliittymässä aja suoraan ulosmenoliittymään {roundabout_exit_number}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit."
+msgstr "Kiertoliittymässä aja suoraan ulosmenoliittymään {roundabout_exit_number}."
+
+msgid "At the roundabout go straight, {roundabout_exit_number} exit."
+msgstr "Kiertoliittymässä aja suoraan ulosmenoliittymään {roundabout_exit_number}."
+
+msgid "At the roundabout make a U-turn, {roundabout_exit_number} exit."
+msgstr "Kiertoliittymässä tee U-käännös ulosmenoliittymään {roundabout_exit_number}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit."
+msgstr "Kiertoliittymässä käänny oikealle ulosmenoliittymään {roundabout_exit_number}."
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit."
+msgstr "Kiertoliittymässä käänny oikealle ulosmenoliittymään {roundabout_exit_number}."
+
+msgid "At the roundabout turn right, {roundabout_exit_number} exit."
+msgstr "Kiertoliittymässä käänny oikealle ulosmenoliittymään {roundabout_exit_number}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit."
+msgstr "Kiertoliittymässä käänny vasemmalle ulosmenoliittymään {roundabout_exit_number}."
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit."
+msgstr "Kiertoliittymässä käänny vasemmalle ulosmenoliittymään {roundabout_exit_number}."
+
+msgid "At the roundabout turn left, {roundabout_exit_number} exit."
+msgstr "Kiertoliittymässä käänny vasemmalle ulosmenoliittymään {roundabout_exit_number}."
+
+msgid "At the roundabout take the {roundabout_exit_number_v2} exit."
+msgstr "Aja kiertoliittymässä ulosmenoliittymään {roundabout_exit_number_v2}."
+
+msgid "In {distance} exit the roundabout {direction_details}."
+msgstr "Aja {distance} ja poistu kiertoliittymästä {direction_details}."
+
+msgid "In {distance} exit the roundabout."
+msgstr "Aja {distance} ja poistu kiertoliittymästä."
+
+msgid "Exit the roundabout."
+msgstr "Poistu kiertoliittymästä."
+
+msgid "In {distance} take the ferry {road_name}."
+msgstr "Aja {distance} ja aja lautalle tielle {road_name}."
+
+msgid "In {distance} take the {road_name} train."
+msgstr "Aja {distance} ja aja tielle {road_name} junaan."
+
+msgid "In {distance} take the ferry."
+msgstr "Aja {distance} ja aja lautalle."
+
+msgid "In {distance} take the train."
+msgstr "Aja {distance} ja aja junaan."
+
+msgid "Take the ferry {road_name}."
+msgstr "Aja lautalle tielle {road_name}."
+
+msgid "Take the {road_name} train."
+msgstr "Aja tielle {road_name} junaan."
+
+msgid "Then take the ferry."
+msgstr "Aja sitten lautalle."
+
+msgid "Take the ferry."
+msgstr "Aja lautalle."
+
+msgid "Then take the train."
+msgstr "Aja sitten junalle."
+
+msgid "Take the train."
+msgstr "Aja junalle."
+
+msgid "Disembark from the ferry."
+msgstr "Aja pois lautalta."
+
+msgid "Disembark from the train."
+msgstr "Aja pois junalta."
+
+msgid "In {distance} keep left to enter the HOV carpool lane."
+msgstr "Aja {distance} ja pysy vasemmalla ja liity kimppakyytikaistalle."
+
+msgid "In {distance} keep right to enter the HOV carpool lane."
+msgstr "Aja {distance} ja pysy oikealla ja liity kimppakyytikaistalle."
+
+msgid "Keep right to enter the HOV carpool lane."
+msgstr "Pysy oikealla ja liity kimppakyytikaistalle."
+
+msgid "Keep left to enter the HOV carpool lane."
+msgstr "Pysy vasemmalla ja liity kimppakyytikaistalle."
+
+msgid "In {distance} keep left to exit the HOV carpool lane."
+msgstr "Aja {distance} ja pysy vasemmalla ja poistu kimppakyytikaistalta."
+
+msgid "In {distance} keep right to exit the HOV carpool lane."
+msgstr "Aja {distance} ja pysy oikealla ja poistu kimppakyytikaistalta."
+
+msgid "Keep right to exit the HOV carpool lane."
+msgstr "Pysy oikealla ja poistu kimppakyytikaistalta."
+
+msgid "Keep left to exit the HOV carpool lane."
+msgstr "Pysy vasemmalla ja poistu kimppakyytikaistalta."
+
+msgid "In {distance} pass through the toll gate."
+msgstr "Aja {distance} ja aja tiemaksun keräyspisteen läpi."
+
+msgid "Then pass through the toll gate."
+msgstr "Aja sitten tiemaksun keräyspisteen läpi."
+
+msgid "Pass through the toll gate."
+msgstr "Aja tiemaksun keräyspisteen läpi."
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on the {road_number} toward {toward_name}"
+msgstr "ja pysy tiellä {road_number} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on the {road_number} toward {toward_name}"
+msgstr "ja pysy tiellä {road_number} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on the {road_number}"
+msgstr "ja pysy tiellä {road_number}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on the {road_number}"
+msgstr "ja pysy tiellä {road_number}"
+
+msgctxt "{direction_details} for exit highway"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "tielle {road_number} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "tielle {road_number} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "tielle {road_number} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "tielle {road_number} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take the {road_number} toward {toward_name}"
+msgstr "ja aja tielle {road_number} suuntaan {toward_name}"
+
+msgctxt "{direction_details}"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "tielle {road_number} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for exit highway"
+msgid "onto the {road_number}"
+msgstr "tielle {road_number}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "onto the {road_number}"
+msgstr "tielle {road_number}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto the {road_number}"
+msgstr "tielle {road_number}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto the {road_number}"
+msgstr "tielle {road_number}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take the {road_number}"
+msgstr "ja aja tielle {road_number}"
+
+msgctxt "{direction_details}"
+msgid "onto the {road_number}"
+msgstr "tielle {road_number}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} toward {toward_name}"
+msgstr "ja jatka tiellä {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} toward {toward_name}"
+msgstr "ja jatka tiellä {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on {road_name} toward {toward_name}"
+msgstr "ja pysy tiellä {road_name} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on {road_name} toward {toward_name}"
+msgstr "ja pysy tiellä {road_name} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+msgstr "ja jatka tiellä {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+
+msgctxt "{direction_details} for fork"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+msgstr "ja jatka tiellä {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on {road_name}"
+msgstr "ja pysy tiellä {road_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on {road_name}"
+msgstr "ja pysy tiellä {road_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} toward {toward_name}"
+msgstr "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} suuntaan {toward_name}"
+
+msgctxt "{direction_details}"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} toward {toward_name}"
+msgstr "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+msgstr "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+
+msgctxt "{direction_details}"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+msgstr "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take {road_name} toward {toward_name}"
+msgstr "ja aja tielle {road_name} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take {road_name}"
+msgstr "ja aja tielle {road_name}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto {road_name} toward {toward_name}"
+msgstr "tielle {road_name} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto {road_name} toward {toward_name}"
+msgstr "tielle {road_name} suuntaan {toward_name}"
+
+msgctxt "{direction_details}"
+msgid "onto {road_name} toward {toward_name}"
+msgstr "tielle {road_name} suuntaan {toward_name}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto {road_name}"
+msgstr "tielle {road_name}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto {road_name}"
+msgstr "tielle {road_name}"
+
+msgctxt "{direction_details}"
+msgid "onto {road_name}"
+msgstr "tielle {road_name}"
+
+msgctxt "{direction_details}"
+msgid "toward {toward_name}"
+msgstr "suuntaan {toward_name}"
+
+msgctxt "you are entering {country}"
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+msgctxt "you are entering {country}"
+msgid "Albania"
+msgstr "Albania"
+
+msgctxt "you are entering {country}"
+msgid "Algeria"
+msgstr "Algeria"
+
+msgctxt "you are entering {country}"
+msgid "Andorra"
+msgstr "Andorra"
+
+msgctxt "you are entering {country}"
+msgid "Angola"
+msgstr "Angola"
+
+msgctxt "you are entering {country}"
+msgid "Argentina"
+msgstr "Argentiina"
+
+msgctxt "you are entering {country}"
+msgid "Armenia"
+msgstr "Armenia"
+
+msgctxt "you are entering {country}"
+msgid "Austria"
+msgstr "Itävalta"
+
+msgctxt "you are entering {country}"
+msgid "Azerbaijan"
+msgstr "Azerbaidžan"
+
+msgctxt "you are entering {country}"
+msgid "Bahrain"
+msgstr "Bahrain"
+
+msgctxt "you are entering {country}"
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+msgctxt "you are entering {country}"
+msgid "Belarus"
+msgstr "Valko-Venäjä"
+
+msgctxt "you are entering {country}"
+msgid "Belgium"
+msgstr "Belgia"
+
+msgctxt "you are entering {country}"
+msgid "Belize"
+msgstr "Belize"
+
+msgctxt "you are entering {country}"
+msgid "Benin"
+msgstr "Benin"
+
+msgctxt "you are entering {country}"
+msgid "Bhutan"
+msgstr "Bhutan"
+
+msgctxt "you are entering {country}"
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgctxt "you are entering {country}"
+msgid "Bosnia and Herzegowina"
+msgstr "Bosnia ja Hertsegovina"
+
+msgctxt "you are entering {country}"
+msgid "Botswana"
+msgstr "Botswana"
+
+msgctxt "you are entering {country}"
+msgid "Brazil"
+msgstr "Brasilia"
+
+msgctxt "you are entering {country}"
+msgid "Brunei"
+msgstr "Brunei"
+
+msgctxt "you are entering {country}"
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgctxt "you are entering {country}"
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgctxt "you are entering {country}"
+msgid "Burundi"
+msgstr "Burundi"
+
+msgctxt "you are entering {country}"
+msgid "Cambodia"
+msgstr "Kambodža"
+
+msgctxt "you are entering {country}"
+msgid "Cameroon"
+msgstr "Kamerun"
+
+msgctxt "you are entering {country}"
+msgid "Canada"
+msgstr "Kanada"
+
+msgctxt "you are entering {country}"
+msgid "the Central African Republic"
+msgstr "Keski-Afrikan tasavalta"
+
+msgctxt "you are entering {country}"
+msgid "Chad"
+msgstr "Tšad"
+
+msgctxt "you are entering {country}"
+msgid "Chile"
+msgstr "Chile"
+
+msgctxt "you are entering {country}"
+msgid "China"
+msgstr "Kiina"
+
+msgctxt "you are entering {country}"
+msgid "Colombia"
+msgstr "Kolumbia"
+
+msgctxt "you are entering {country}"
+msgid "the Republic of the Congo"
+msgstr "Kongon tasavalta"
+
+msgctxt "you are entering {country}"
+msgid "the Democratic Republic of the Congo"
+msgstr "Kongon demokraattinen tasavalta"
+
+msgctxt "you are entering {country}"
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgctxt "you are entering {country}"
+msgid "Ivory Coast"
+msgstr "Norsunluurannikko"
+
+msgctxt "you are entering {country}"
+msgid "Croatia"
+msgstr "Kroatia"
+
+msgctxt "you are entering {country}"
+msgid "Cyprus"
+msgstr "Kypros"
+
+msgctxt "you are entering {country}"
+msgid "the Czech Republic"
+msgstr "Tšekki"
+
+msgctxt "you are entering {country}"
+msgid "Denmark"
+msgstr "Tanska"
+
+msgctxt "you are entering {country}"
+msgid "Djibouti"
+msgstr "Djibouti"
+
+msgctxt "you are entering {country}"
+msgid "the Dominican Republic"
+msgstr "Dominikaaninen tasavalta"
+
+msgctxt "you are entering {country}"
+msgid "East Timor"
+msgstr "Itä-Timor"
+
+msgctxt "you are entering {country}"
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgctxt "you are entering {country}"
+msgid "Egypt"
+msgstr "Egypti"
+
+msgctxt "you are entering {country}"
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgctxt "you are entering {country}"
+msgid "Equatorial Guinea"
+msgstr "Päiväntasaajan Guinea"
+
+msgctxt "you are entering {country}"
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgctxt "you are entering {country}"
+msgid "Estonia"
+msgstr "Viro"
+
+msgctxt "you are entering {country}"
+msgid "Ethiopia"
+msgstr "Etiopia"
+
+msgctxt "you are entering {country}"
+msgid "Finland"
+msgstr "Suomi"
+
+msgctxt "you are entering {country}"
+msgid "France"
+msgstr "Ranska"
+
+msgctxt "you are entering {country}"
+msgid "French Guiana"
+msgstr "Ranskan Guayana"
+
+msgctxt "you are entering {country}"
+msgid "Gabon"
+msgstr "Gabon"
+
+msgctxt "you are entering {country}"
+msgid "the Gambia"
+msgstr "Gambia"
+
+msgctxt "you are entering {country}"
+msgid "Georgia"
+msgstr "Georgia"
+
+msgctxt "you are entering {country}"
+msgid "Germany"
+msgstr "Saksa"
+
+msgctxt "you are entering {country}"
+msgid "Ghana"
+msgstr "Ghana"
+
+msgctxt "you are entering {country}"
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+msgctxt "you are entering {country}"
+msgid "Greece"
+msgstr "Kreikka"
+
+msgctxt "you are entering {country}"
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgctxt "you are entering {country}"
+msgid "Guinea"
+msgstr "Guinea"
+
+msgctxt "you are entering {country}"
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+msgctxt "you are entering {country}"
+msgid "Guyana"
+msgstr "Guyana"
+
+msgctxt "you are entering {country}"
+msgid "Haiti"
+msgstr "Haiti"
+
+msgctxt "you are entering {country}"
+msgid "Vatican City"
+msgstr "Vatikaanivaltio"
+
+msgctxt "you are entering {country}"
+msgid "Honduras"
+msgstr "Honduras"
+
+msgctxt "you are entering {country}"
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+msgctxt "you are entering {country}"
+msgid "Hungary"
+msgstr "Unkari"
+
+msgctxt "you are entering {country}"
+msgid "India"
+msgstr "Intia"
+
+msgctxt "you are entering {country}"
+msgid "Indonesia"
+msgstr "Indonesia"
+
+msgctxt "you are entering {country}"
+msgid "Iran"
+msgstr "Iran"
+
+msgctxt "you are entering {country}"
+msgid "Iraq"
+msgstr "Irak"
+
+msgctxt "you are entering {country}"
+msgid "Ireland"
+msgstr "Irlanti"
+
+msgctxt "you are entering {country}"
+msgid "Israel"
+msgstr "Israel"
+
+msgctxt "you are entering {country}"
+msgid "Italy"
+msgstr "Italia"
+
+msgctxt "you are entering {country}"
+msgid "Jamaica"
+msgstr "Jamaika"
+
+msgctxt "you are entering {country}"
+msgid "Jordan"
+msgstr "Jordania"
+
+msgctxt "you are entering {country}"
+msgid "Kazakhstan"
+msgstr "Kazakstan"
+
+msgctxt "you are entering {country}"
+msgid "Kenya"
+msgstr "Kenia"
+
+msgctxt "you are entering {country}"
+msgid "North Korea"
+msgstr "Pohjois-Korea"
+
+msgctxt "you are entering {country}"
+msgid "South Korea"
+msgstr "Etelä-Korea"
+
+msgctxt "you are entering {country}"
+msgid "Kosovo"
+msgstr "Kosovo"
+
+msgctxt "you are entering {country}"
+msgid "Kuwait"
+msgstr "Kuwait"
+
+msgctxt "you are entering {country}"
+msgid "Kyrgyzstan"
+msgstr "Kirgisia"
+
+msgctxt "you are entering {country}"
+msgid "Laos"
+msgstr "Laos"
+
+msgctxt "you are entering {country}"
+msgid "Latvia"
+msgstr "Latvia"
+
+msgctxt "you are entering {country}"
+msgid "Lebanon"
+msgstr "Libanon"
+
+msgctxt "you are entering {country}"
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgctxt "you are entering {country}"
+msgid "Liberia"
+msgstr "Liberia"
+
+msgctxt "you are entering {country}"
+msgid "Libya"
+msgstr "Libya"
+
+msgctxt "you are entering {country}"
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgctxt "you are entering {country}"
+msgid "Lithuania"
+msgstr "Liettua"
+
+msgctxt "you are entering {country}"
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+msgctxt "you are entering {country}"
+msgid "Macau"
+msgstr "Macao"
+
+msgctxt "you are entering {country}"
+msgid "North Macedonia"
+msgstr "Pohjois-Makedonia"
+
+msgctxt "you are entering {country}"
+msgid "Malawi"
+msgstr "Malawi"
+
+msgctxt "you are entering {country}"
+msgid "Malaysia"
+msgstr "Malesia"
+
+msgctxt "you are entering {country}"
+msgid "Mali"
+msgstr "Mali"
+
+msgctxt "you are entering {country}"
+msgid "Malta"
+msgstr "Malta"
+
+msgctxt "you are entering {country}"
+msgid "Mauritania"
+msgstr "Mauritania"
+
+msgctxt "you are entering {country}"
+msgid "Mexico"
+msgstr "Meksiko"
+
+msgctxt "you are entering {country}"
+msgid "Moldova"
+msgstr "Moldova"
+
+msgctxt "you are entering {country}"
+msgid "Monaco"
+msgstr "Monaco"
+
+msgctxt "you are entering {country}"
+msgid "Mongolia"
+msgstr "Mongolia"
+
+msgctxt "you are entering {country}"
+msgid "Montenegro"
+msgstr "Montenegro"
+
+msgctxt "you are entering {country}"
+msgid "Morocco"
+msgstr "Marokko"
+
+msgctxt "you are entering {country}"
+msgid "Mozambique"
+msgstr "Mosambik"
+
+msgctxt "you are entering {country}"
+msgid "Myanmar"
+msgstr "Myanmar"
+
+msgctxt "you are entering {country}"
+msgid "Namibia"
+msgstr "Namibia"
+
+msgctxt "you are entering {country}"
+msgid "Nepal"
+msgstr "Nepal"
+
+msgctxt "you are entering {country}"
+msgid "the Netherlands"
+msgstr "Alankomaat"
+
+msgctxt "you are entering {country}"
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgctxt "you are entering {country}"
+msgid "Niger"
+msgstr "Niger"
+
+msgctxt "you are entering {country}"
+msgid "Nigeria"
+msgstr "Nigeria"
+
+msgctxt "you are entering {country}"
+msgid "Norway"
+msgstr "Norja"
+
+msgctxt "you are entering {country}"
+msgid "Oman"
+msgstr "Oman"
+
+msgctxt "you are entering {country}"
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgctxt "you are entering {country}"
+msgid "Palestine"
+msgstr "Palestiina"
+
+msgctxt "you are entering {country}"
+msgid "Panama"
+msgstr "Panama"
+
+msgctxt "you are entering {country}"
+msgid "Papua New Guinea"
+msgstr "Papua-Uusi-Guinea"
+
+msgctxt "you are entering {country}"
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgctxt "you are entering {country}"
+msgid "Peru"
+msgstr "Peru"
+
+msgctxt "you are entering {country}"
+msgid "Poland"
+msgstr "Puola"
+
+msgctxt "you are entering {country}"
+msgid "Portugal"
+msgstr "Portugali"
+
+msgctxt "you are entering {country}"
+msgid "Qatar"
+msgstr "Qatar"
+
+msgctxt "you are entering {country}"
+msgid "Romania"
+msgstr "Romania"
+
+msgctxt "you are entering {country}"
+msgid "the Russian Federation"
+msgstr "Venäjä"
+
+msgctxt "you are entering {country}"
+msgid "Rwanda"
+msgstr "Ruanda"
+
+msgctxt "you are entering {country}"
+msgid "Saint Martin"
+msgstr "Saint Martin"
+
+msgctxt "you are entering {country}"
+msgid "San Marino"
+msgstr "San Marino"
+
+msgctxt "you are entering {country}"
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabia"
+
+msgctxt "you are entering {country}"
+msgid "Senegal"
+msgstr "Senegal"
+
+msgctxt "you are entering {country}"
+msgid "Serbia"
+msgstr "Serbia"
+
+msgctxt "you are entering {country}"
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgctxt "you are entering {country}"
+msgid "Singapore"
+msgstr "Singapore"
+
+msgctxt "you are entering {country}"
+msgid "Sint Maarten"
+msgstr "Sint Maarten (hollanninkielinen osa)"
+
+msgctxt "you are entering {country}"
+msgid "Slovakia"
+msgstr "Slovakia"
+
+msgctxt "you are entering {country}"
+msgid "Slovenia"
+msgstr "Slovenia"
+
+msgctxt "you are entering {country}"
+msgid "Somalia"
+msgstr "Somalia"
+
+msgctxt "you are entering {country}"
+msgid "South Africa"
+msgstr "Etelä-Afrikka"
+
+msgctxt "you are entering {country}"
+msgid "South Sudan"
+msgstr "Etelä-Sudan"
+
+msgctxt "you are entering {country}"
+msgid "Spain"
+msgstr "Espanja"
+
+msgctxt "you are entering {country}"
+msgid "Sudan"
+msgstr "Sudan"
+
+msgctxt "you are entering {country}"
+msgid "Suriname"
+msgstr "Suriname"
+
+msgctxt "you are entering {country}"
+msgid "Swaziland"
+msgstr "Swazimaa"
+
+msgctxt "you are entering {country}"
+msgid "Sweden"
+msgstr "Ruotsi"
+
+msgctxt "you are entering {country}"
+msgid "Switzerland"
+msgstr "Sveitsi"
+
+msgctxt "you are entering {country}"
+msgid "Syria"
+msgstr "Syyria"
+
+msgctxt "you are entering {country}"
+msgid "Tajikistan"
+msgstr "Tadžikistan"
+
+msgctxt "you are entering {country}"
+msgid "Tanzania"
+msgstr "Tansania"
+
+msgctxt "you are entering {country}"
+msgid "Thailand"
+msgstr "Thaimaa"
+
+msgctxt "you are entering {country}"
+msgid "Timor-Leste"
+msgstr "Itä-Timor"
+
+msgctxt "you are entering {country}"
+msgid "Togo"
+msgstr "Togo"
+
+msgctxt "you are entering {country}"
+msgid "Tunisia"
+msgstr "Tunisia"
+
+msgctxt "you are entering {country}"
+msgid "Turkey"
+msgstr "Turkki"
+
+msgctxt "you are entering {country}"
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+msgctxt "you are entering {country}"
+msgid "Uganda"
+msgstr "Uganda"
+
+msgctxt "you are entering {country}"
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgctxt "you are entering {country}"
+msgid "the United Arab Emirates"
+msgstr "Yhdistyneet Arabiemiraatit"
+
+msgctxt "you are entering {country}"
+msgid "the United Kingdom"
+msgstr "Yhdistynyt kuningaskunta"
+
+msgctxt "you are entering {country}"
+msgid "the United States of America"
+msgstr "Yhdysvallat"
+
+msgctxt "you are entering {country}"
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgctxt "you are entering {country}"
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+msgctxt "you are entering {country}"
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgctxt "you are entering {country}"
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgctxt "you are entering {country}"
+msgid "Western Sahara"
+msgstr "Länsi-Sahara"
+
+msgctxt "you are entering {country}"
+msgid "Yemen"
+msgstr "Jemen"
+
+msgctxt "you are entering {country}"
+msgid "Zambia"
+msgstr "Sambia"
+
+msgctxt "you are entering {country}"
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgctxt "{roundabout_exit_number}"
+msgid "first"
+msgstr "ensimmäinen"
+
+msgctxt "{roundabout_exit_number}"
+msgid "second"
+msgstr "toinen"
+
+msgctxt "{roundabout_exit_number}"
+msgid "third"
+msgstr "kolmas"
+
+msgctxt "{roundabout_exit_number}"
+msgid "fourth"
+msgstr "neljäs"
+
+msgctxt "{roundabout_exit_number}"
+msgid "fifth"
+msgstr "viides"
+
+msgctxt "{roundabout_exit_number}"
+msgid "sixth"
+msgstr "kuudes"
+
+msgctxt "{roundabout_exit_number}"
+msgid "seventh"
+msgstr "seitsemäs"
+
+msgctxt "{roundabout_exit_number}"
+msgid "eighth"
+msgstr "kahdeksas"
+
+msgctxt "{roundabout_exit_number}"
+msgid "ninth"
+msgstr "yhdeksäs"
+
+msgctxt "{roundabout_exit_number}"
+msgid "tenth"
+msgstr "kymmenes"
+
+msgctxt "{roundabout_exit_number}"
+msgid "eleventh"
+msgstr "yhdestoista"
+
+msgctxt "{roundabout_exit_number}"
+msgid "twelfth"
+msgstr "kahdestoista"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "first"
+msgstr "ensimmäinen"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "second"
+msgstr "toinen"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "third"
+msgstr "kolmas"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "fourth"
+msgstr "neljäs"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "fifth"
+msgstr "viides"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "sixth"
+msgstr "kuudes"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "seventh"
+msgstr "seitsemäs"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "eighth"
+msgstr "kahdeksas"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "ninth"
+msgstr "yhdeksäs"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "tenth"
+msgstr "kymmenes"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "eleventh"
+msgstr "yhdestoista"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "twelfth"
+msgstr "kahdestoista"
+
+msgctxt "{landmark}"
+msgid "at the end of the road"
+msgstr "tien päässä"
+
+msgctxt "{landmark}"
+msgid "at the traffic light"
+msgstr "liikennevaloissa"
+
+msgctxt "In {distance}"
+msgid "{count} meter"
+msgid_plural "{count} meters"
+msgstr[0] "{count} metri"
+msgstr[1] "{count} metriä"
+
+msgctxt "In {distance}"
+msgid "{count} kilometer"
+msgid_plural "{count} kilometers"
+msgstr[0] "{count} kilometri"
+msgstr[1] "{count} kilometriä"
+
+msgctxt "In {distance}"
+msgid "{count} foot"
+msgid_plural "{count} feet"
+msgstr[0] "{count} jalka"
+msgstr[1] "{count} jalkaa"
+
+msgctxt "In {distance}"
+msgid "{count} yard"
+msgid_plural "{count} yards"
+msgstr[0] "{count} jaardi"
+msgstr[1] "{count} jaardia"
+
+msgctxt "In {distance}"
+msgid "{count} mile"
+msgid_plural "{count} miles"
+msgstr[0] "{count} maili"
+msgstr[1] "{count} mailia"
+
+msgctxt "follow for {distance}"
+msgid "{count} meter"
+msgid_plural "{count} meters"
+msgstr[0] "{count} metri"
+msgstr[1] "{count} metriä"
+
+msgctxt "follow for {distance}"
+msgid "{count} kilometer"
+msgid_plural "{count} kilometers"
+msgstr[0] "{count} kilometri"
+msgstr[1] "{count} kilometriä"
+
+msgctxt "follow for {distance}"
+msgid "{count} foot"
+msgid_plural "{count} feet"
+msgstr[0] "{count} jalka"
+msgstr[1] "{count} jalkaa"
+
+msgctxt "follow for {distance}"
+msgid "{count} yard"
+msgid_plural "{count} yards"
+msgstr[0] "{count} jaardi"
+msgstr[1] "{count} jaardia"
+
+msgctxt "follow for {distance}"
+msgid "{count} mile"
+msgid_plural "{count} miles"
+msgstr[0] "{count} maili"
+msgstr[1] "{count} mailia"
+
+msgctxt "after {distance}"
+msgid "{count} meter"
+msgid_plural "{count} meters"
+msgstr[0] "{count} metri"
+msgstr[1] "{count} metriä"
+
+msgctxt "after {distance}"
+msgid "{count} kilometer"
+msgid_plural "{count} kilometers"
+msgstr[0] "{count} kilometri"
+msgstr[1] "{count} kilometriä"
+
+msgctxt "after {distance}"
+msgid "{count} foot"
+msgid_plural "{count} feet"
+msgstr[0] "{count} jalka"
+msgstr[1] "{count} jalkaa"
+
+msgctxt "after {distance}"
+msgid "{count} yard"
+msgid_plural "{count} yards"
+msgstr[0] "{count} jaardi"
+msgstr[1] "{count} jaardia"
+
+msgctxt "after {distance}"
+msgid "{count} mile"
+msgid_plural "{count} miles"
+msgstr[0] "{count} maili"
+msgstr[1] "{count} mailia"
+
+msgctxt "In {distance}"
+msgid "one and a half kilometers"
+msgstr "puolitoista kilometriä"
+
+msgctxt "In {distance}"
+msgid "two and a half kilometers"
+msgstr "kaksi ja puoli kilometriä"
+
+msgctxt "In {distance}"
+msgid "three and a half kilometers"
+msgstr "kolme ja puoli kilometriä"
+
+msgctxt "In {distance}"
+msgid "four and a half kilometers"
+msgstr "neljä ja puoli kilometriä"
+
+msgctxt "In {distance}"
+msgid "a quarter of a mile"
+msgstr "neljännesmaili"
+
+msgctxt "In {distance}"
+msgid "half a mile"
+msgstr "puoli mailia"
+
+msgctxt "In {distance}"
+msgid "three quarters of a mile"
+msgstr "kolme neljäsosamailia"
+
+msgctxt "In {distance}"
+msgid "one and a half miles"
+msgstr "puolitoista mailia"
+
+msgctxt "In {distance}"
+msgid "two and a half miles"
+msgstr "kaksi ja puoli mailia"
+
+msgctxt "In {distance}"
+msgid "three and a half miles"
+msgstr "kolme ja puoli mailia"
+
+msgctxt "In {distance}"
+msgid "four and a half miles"
+msgstr "neljä ja puoli mailia"
+
+msgctxt "In {distance}"
+msgid "five and a half miles"
+msgstr "viisi ja puoli mailia"
+
+msgctxt "In {distance}"
+msgid "six and a half miles"
+msgstr "kuusi ja puoli mailia"
+
+msgctxt "In {distance}"
+msgid "seven and a half miles"
+msgstr "seitsemän ja puoli mailia"
+
+msgctxt "In {distance}"
+msgid "eight and a half miles"
+msgstr "kahdeksan ja puoli mailia"
+
+msgctxt "In {distance}"
+msgid "nine and a half miles"
+msgstr "yhdeksän ja puoli mailia"
+
+msgctxt "follow for {distance}"
+msgid "one and a half kilometers"
+msgstr "puolitoista kilometriä"
+
+msgctxt "follow for {distance}"
+msgid "two and a half kilometers"
+msgstr "kaksi ja puoli kilometriä"
+
+msgctxt "follow for {distance}"
+msgid "three and a half kilometers"
+msgstr "kolme ja puoli kilometriä"
+
+msgctxt "follow for {distance}"
+msgid "four and a half kilometers"
+msgstr "neljä ja puoli kilometriä"
+
+msgctxt "follow for {distance}"
+msgid "a quarter of a mile"
+msgstr "neljännesmaili"
+
+msgctxt "follow for {distance}"
+msgid "half a mile"
+msgstr "puoli mailia"
+
+msgctxt "follow for {distance}"
+msgid "three quarters of a mile"
+msgstr "kolme neljäsosamailia"
+
+msgctxt "follow for {distance}"
+msgid "one and a half miles"
+msgstr "puolitoista mailia"
+
+msgctxt "follow for {distance}"
+msgid "two and a half miles"
+msgstr "kaksi ja puoli mailia"
+
+msgctxt "follow for {distance}"
+msgid "three and a half miles"
+msgstr "kolme ja puoli mailia"
+
+msgctxt "follow for {distance}"
+msgid "four and a half miles"
+msgstr "neljä ja puoli mailia"
+
+msgctxt "follow for {distance}"
+msgid "five and a half miles"
+msgstr "viisi ja puoli mailia"
+
+msgctxt "follow for {distance}"
+msgid "six and a half miles"
+msgstr "kuusi ja puoli mailia"
+
+msgctxt "follow for {distance}"
+msgid "seven and a half miles"
+msgstr "seitsemän ja puoli mailia"
+
+msgctxt "follow for {distance}"
+msgid "eight and a half miles"
+msgstr "kahdeksan ja puoli mailia"
+
+msgctxt "follow for {distance}"
+msgid "nine and a half miles"
+msgstr "yhdeksän ja puoli mailia"
+
+msgctxt "In {distance}"
+msgid "one kilometer"
+msgstr "yksi kilometri"
+
+msgctxt "In {distance}"
+msgid "two kilometers"
+msgstr "kaksi kilometriä"
+
+msgctxt "In {distance}"
+msgid "three kilometers"
+msgstr "kolme kilometriä"
+
+msgctxt "In {distance}"
+msgid "one mile"
+msgstr "yksi maili"
+
+msgctxt "In {distance}"
+msgid "two miles"
+msgstr "kaksi mailia"
+
+msgctxt "In {distance}"
+msgid "three miles"
+msgstr "kolme mailia"
+
+msgctxt "follow for {distance}"
+msgid "one kilometer"
+msgstr "yksi kilometri"
+
+msgctxt "follow for {distance}"
+msgid "two kilometers"
+msgstr "kaksi kilometriä"
+
+msgctxt "follow for {distance}"
+msgid "three kilometers"
+msgstr "kolme kilometriä"
+
+msgctxt "follow for {distance}"
+msgid "one mile"
+msgstr "yksi maili"
+
+msgctxt "follow for {distance}"
+msgid "two miles"
+msgstr "kaksi mailia"
+
+msgctxt "follow for {distance}"
+msgid "three miles"
+msgstr "kolme mailia"
+
+msgctxt "after {distance}"
+msgid "one kilometer"
+msgstr "yksi kilometri"
+
+msgctxt "after {distance}"
+msgid "two kilometers"
+msgstr "kaksi kilometriä"
+
+msgctxt "after {distance}"
+msgid "three kilometers"
+msgstr "kolme kilometriä"
+
+msgctxt "after {distance}"
+msgid "one mile"
+msgstr "yksi maili"
+
+msgctxt "after {distance}"
+msgid "two miles"
+msgstr "kaksi mailia"
+
+msgctxt "after {distance}"
+msgid "three miles"
+msgstr "kolme mailia"
+
+msgctxt "In {distance} - fractional"
+msgid "{count} kilometers"
+msgstr "{count} kilometriä"
+
+msgctxt "In {distance} - fractional"
+msgid "{count} miles"
+msgstr "{count} mailia"
+
+msgctxt "follow for {distance} - fractional"
+msgid "{count} kilometers"
+msgstr "{count} kilometriä"
+
+msgctxt "follow for {distance} - fractional"
+msgid "{count} miles"
+msgstr "{count} mailia"
+
+msgctxt "after {distance} - fractional"
+msgid "{count} kilometers"
+msgstr "{count} kilometriä"
+
+msgctxt "after {distance} - fractional"
+msgid "{count} miles"
+msgstr "{count} mailia"

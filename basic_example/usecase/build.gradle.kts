@@ -56,4 +56,7 @@ dependencies {
     // Android dependencies.
     implementation(libs.bundles.androidCommon)
     implementation(libs.material)
+
+//    location plugin
+    implementation ("com.google.android.gms:play-services-location:21.1.0")
 }

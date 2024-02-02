@@ -13,8 +13,13 @@ package com.example.usecase
 
 
 import android.Manifest
+import android.content.Context
+import android.content.IntentSender
 import android.content.pm.PackageManager
+import android.graphics.Color
+import android.location.LocationManager
 import android.location.LocationRequest
+import android.os.Build
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
@@ -22,6 +27,14 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import com.example.usecase.BuildConfig.TOMTOM_API_KEY
+import com.google.android.gms.common.api.ResolvableApiException
+import com.google.android.gms.location.FusedLocationProviderClient
+import com.google.android.gms.location.LocationServices
+import com.google.android.gms.location.LocationSettingsRequest
+import com.google.android.gms.location.LocationSettingsResponse
+import com.google.android.gms.location.Priority
+import com.google.android.gms.location.SettingsClient
+import com.google.android.gms.tasks.Task
 import com.tomtom.quantity.Distance
 import com.tomtom.sdk.datamanagement.navigationtile.NavigationTileStore
 import com.tomtom.sdk.datamanagement.navigationtile.NavigationTileStoreConfiguration
@@ -53,8 +66,6 @@ import com.tomtom.sdk.navigation.RoutePlan
 import com.tomtom.sdk.navigation.TomTomNavigation
 import com.tomtom.sdk.navigation.online.Configuration
 import com.tomtom.sdk.navigation.online.OnlineTomTomNavigationFactory
-import com.tomtom.sdk.navigation.routereplanner.RouteReplanner
-import com.tomtom.sdk.navigation.routereplanner.online.OnlineRouteReplannerFactory
 import com.tomtom.sdk.navigation.ui.NavigationFragment
 import com.tomtom.sdk.navigation.ui.NavigationUiOptions
 import com.tomtom.sdk.routing.RoutePlanner
@@ -70,8 +81,6 @@ import com.tomtom.sdk.routing.online.OnlineRoutePlanner
 import com.tomtom.sdk.routing.route.Route
 import com.tomtom.sdk.vehicle.Vehicle
 import com.tomtom.sdk.vehicle.VehicleProviderFactory
-import kotlin.math.log
-import kotlin.time.Duration.Companion.milliseconds
 
 /**
  * This example shows how to build a simple navigation application using the TomTom Navigation SDK for Android.
@@ -94,17 +103,55 @@ class MainActivity : AppCompatActivity() {
     private lateinit var tomTomNavigation: TomTomNavigation
     private lateinit var navigationFragment: NavigationFragment
     private val apiKey = TOMTOM_API_KEY
+    private lateinit var fusedLocationClient: FusedLocationProviderClient
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        fusedLocationClient = LocationServices.getFusedLocationProviderClient(this)
         initMap()
+        createLocationRequest()
         initNavigationTileStore()
         initLocationProvider()
         initRouting()
         initNavigation()
+
     }
 
+    fun createLocationRequest() {
+        val locationRequest = com.google.android.gms.location.LocationRequest.Builder(1000)
+            .setIntervalMillis(10000)
+            .build()
+
+        val builder = LocationSettingsRequest.Builder()
+            .addLocationRequest(locationRequest)
+
+        val client: SettingsClient = LocationServices.getSettingsClient(this)
+        val task: Task<LocationSettingsResponse> = client.checkLocationSettings(builder.build())
+
+
+        task.addOnSuccessListener { locationSettingsResponse ->
+            // All location settings are satisfied. The client can initialize
+            // location requests here.
+            // ...
+            Log.d("location setings response", locationSettingsResponse.toString())
+        }
+
+        task.addOnFailureListener { exception ->
+            if (exception is ResolvableApiException){
+                // Location settings are not satisfied, but this can be fixed
+                // by showing the user a dialog.
+                try {
+                    // Show the dialog by calling startResolutionForResult(),
+                    // and check the result in onActivityResult().
+                    exception.startResolutionForResult(this@MainActivity,
+                        300)
+                } catch (sendEx: IntentSender.SendIntentException) {
+                    // Ignore the error.
+                }
+            }
+        }
+    }
     /**
      * [MapOptions] is required to initialize the map with [MapFragment.newInstance]
      * Use [MapFragment.getMapAsync] to render the map.
@@ -191,7 +238,6 @@ class MainActivity : AppCompatActivity() {
      *
      * Read more about user location on the map in the Showing User Location guide.
      */
-
 
 
     private fun showUserLocation() {
@@ -305,9 +351,13 @@ class MainActivity : AppCompatActivity() {
             destinationMarkerVisible = true,
             departureMarkerVisible = true,
             instructions = instructions,
-            routeOffset = route.routePoints.map { it.routeOffset }
+            color = Color.YELLOW,
+            routeOffset = route.routePoints.map { it.routeOffset },
+            isFollowable =true
         )
         tomTomMap.addRoute(routeOptions)
+
+        tomTomMap.zoomToRoutes(100)
     }
 
     /**
