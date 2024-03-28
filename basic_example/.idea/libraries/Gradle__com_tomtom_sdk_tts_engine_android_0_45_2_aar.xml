@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tomtom.sdk:tts-engine-android:0.45.2@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d0b293758dd6786a33ffa9218b205abd/transformed/tts-engine-android-0.45.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d0b293758dd6786a33ffa9218b205abd/transformed/tts-engine-android-0.45.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

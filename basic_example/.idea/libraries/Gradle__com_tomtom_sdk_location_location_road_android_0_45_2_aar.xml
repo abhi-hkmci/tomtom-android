@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tomtom.sdk.location:location-road-android:0.45.2@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d56af2b53e982a3d474dd2549e2e921d/transformed/location-road-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d56af2b53e982a3d474dd2549e2e921d/transformed/location-road-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

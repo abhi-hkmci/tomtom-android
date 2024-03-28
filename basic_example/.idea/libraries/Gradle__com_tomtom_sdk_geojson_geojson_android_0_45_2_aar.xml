@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tomtom.sdk.geojson:geojson-android:0.45.2@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a8c3341e1b0144e1ff80eb20cce45a8b/transformed/geojson-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a8c3341e1b0144e1ff80eb20cce45a8b/transformed/geojson-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

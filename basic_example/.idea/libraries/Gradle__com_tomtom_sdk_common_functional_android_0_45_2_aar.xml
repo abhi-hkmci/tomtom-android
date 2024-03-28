@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tomtom.sdk.common:functional-android:0.45.2@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/82bd6850708bdc5a51bdb866b278c6e7/transformed/functional-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/82bd6850708bdc5a51bdb866b278c6e7/transformed/functional-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

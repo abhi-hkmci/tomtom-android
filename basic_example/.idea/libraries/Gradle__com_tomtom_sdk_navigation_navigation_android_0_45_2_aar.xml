@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tomtom.sdk.navigation:navigation-android:0.45.2@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6f2b9201f8349c3ff0447fe2372fc098/transformed/navigation-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6f2b9201f8349c3ff0447fe2372fc098/transformed/navigation-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6f2b9201f8349c3ff0447fe2372fc098/transformed/navigation-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
