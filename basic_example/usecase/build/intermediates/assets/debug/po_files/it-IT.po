@@ -1,0 +1,2423 @@
+# Copyright (C) 2021 TomTom NV. All rights reserved.
+#
+# This software is the proprietary copyright of TomTom NV and its subsidiaries and may be
+# used for internal evaluation purposes or commercial use strictly subject to separate
+# license agreement between you and TomTom NV. If you are the licensee, you are only permitted
+# to use this software in accordance with the terms of your license agreement. If you are
+# not the licensee, you are not authorized to use this software in any manner and should
+# immediately return or destroy it.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-04 15:26+0200\n"
+"PO-Revision-Date: 2022-10-18 14:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Follow the {road_number} for {distance}."
+msgstr "Segui la {road_number} per {distance}."
+
+msgid "Follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} for {distance}."
+msgstr "Segui {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} per {distance}."
+
+msgid "Follow {road_name} for {distance}."
+msgstr "Segui {road_name} per {distance}."
+
+msgid "Follow the freeway for {distance}."
+msgstr "Segui l'autostrada per {distance}."
+
+msgid "Follow the road for {distance}."
+msgstr "Segui la strada per {distance}."
+
+msgid "In {distance} you will enter {country}."
+msgstr "Tra {distance} entrerai in {country}."
+
+msgid "You are entering {country}."
+msgstr "Stai entrando {country}."
+
+msgid "Start driving on the {road_number}."
+msgstr "Inizia a guidare sulla {road_number}."
+
+msgid "Start driving on {road_name}."
+msgstr "Inizia a guidare su {road_name}."
+
+msgid "Start driving."
+msgstr "Inizia a guidare."
+
+msgid "You have reached your destination at the {road_number}. It is on the right."
+msgstr "Hai raggiunto la tua destinazione sulla {road_number}. È sulla destra."
+
+msgid "You have reached your destination at {road_name}. It is on the right."
+msgstr "Hai raggiunto la tua destinazione su {road_name}. È sulla destra."
+
+msgid "You have reached your destination, it is on the right."
+msgstr "Hai raggiunto la tua destinazione, è sulla destra."
+
+msgid "You have reached your destination at the {road_number}. It is on the left."
+msgstr "Hai raggiunto la tua destinazione sulla {road_number}. È sulla sinistra."
+
+msgid "You have reached your destination at {road_name}. It is on the left."
+msgstr "Hai raggiunto la tua destinazione su {road_name}. È sulla sinistra."
+
+msgid "You have reached your destination, it is on the left."
+msgstr "Hai raggiunto la tua destinazione, è sulla sinistra."
+
+msgid "In {distance} you will reach your destination."
+msgstr "Tra {distance} arriverai a destinazione."
+
+msgid "You have reached your destination."
+msgstr "Sei arrivato a destinazione."
+
+msgid "You have reached your stop at the {road_number}. It is on the right."
+msgstr "Hai raggiunto la tua sosta sulla {road_number}. È sulla destra."
+
+msgid "You have reached your stop at {road_name}. It is on the right."
+msgstr "Hai raggiunto la tua sosta su {road_name}. È sulla destra."
+
+msgid "You have reached your stop, it is on the right."
+msgstr "Hai raggiunto la tua sosta, è sulla destra."
+
+msgid "You have reached your stop at the {road_number}. It is on the left."
+msgstr "Hai raggiunto la tua sosta sulla {road_number}. È sulla sinistra."
+
+msgid "You have reached your stop at {road_name}. It is on the left."
+msgstr "Hai raggiunto la tua sosta su {road_name}. È sulla sinistra."
+
+msgid "You have reached your stop, it is on the left."
+msgstr "Hai raggiunto la tua sosta, è sulla sinistra."
+
+msgid "In {distance} you will reach your stop."
+msgstr "Tra {distance} arriverai alla sosta."
+
+msgid "You have reached your stop at the {road_number}."
+msgstr "Hai raggiunto la tua sosta sulla {road_number}."
+
+msgid "You have reached your stop at {road_name}."
+msgstr "Hai raggiunto la tua sosta su {road_name}."
+
+msgid "You have reached your stop."
+msgstr "Sei arrivato alla sosta."
+
+msgid "In {distance} go straight {direction_details}."
+msgstr "Tra {distance} vai sempre dritto {direction_details}."
+
+msgid "In {distance} go straight."
+msgstr "Tra {distance} vai sempre dritto."
+
+msgid "Go straight {direction_details}."
+msgstr "Vai sempre dritto {direction_details}."
+
+msgid "Then go straight."
+msgstr "Poi vai sempre dritto."
+
+msgid "Go straight."
+msgstr "Vai sempre dritto."
+
+msgid "In {distance} bear right at {intersection_name}."
+msgstr "Tra {distance} spostati sulla destra presso {intersection_name}."
+
+msgid "In {distance} {landmark} bear right {direction_details}."
+msgstr "Tra {distance} {landmark} spostati sulla destra {direction_details}."
+
+msgid "In {distance} bear right {direction_details}."
+msgstr "Tra {distance} spostati sulla destra {direction_details}."
+
+msgid "In {distance} {landmark} bear right."
+msgstr "Tra {distance} {landmark} spostati sulla destra."
+
+msgid "In {distance} bear right."
+msgstr "Tra {distance} spostati sulla destra."
+
+msgid "Bear right at {intersection_name}."
+msgstr "Spostati sulla destra presso {intersection_name}."
+
+msgid "{landmark} bear right {direction_details}."
+msgstr "{landmark} spostati sulla destra {direction_details}."
+
+msgid "Bear right {direction_details}."
+msgstr "Spostati sulla destra {direction_details}."
+
+msgid "Then bear right."
+msgstr "Poi spostati sulla destra."
+
+msgid "{landmark} bear right."
+msgstr "Spostati sulla destra."
+
+msgid "Bear right."
+msgstr "Spostati sulla destra."
+
+msgid "In {distance} turn right at {intersection_name}."
+msgstr "Tra {distance} gira a destra presso {intersection_name}."
+
+msgid "In {distance} {landmark} turn right {direction_details}."
+msgstr "Tra {distance} {landmark} gira a destra {direction_details}."
+
+msgid "In {distance} turn right {direction_details}."
+msgstr "Tra {distance} gira a destra {direction_details}."
+
+msgid "In {distance} {landmark} turn right."
+msgstr "Tra {distance} {landmark} gira a destra."
+
+msgid "In {distance} turn right."
+msgstr "Tra {distance} gira a destra."
+
+msgid "Turn right at {intersection_name}."
+msgstr "Gira a destra presso {intersection_name}."
+
+msgid "{landmark} turn right {direction_details}."
+msgstr "{landmark} gira a destra {direction_details}."
+
+msgid "Turn right {direction_details}."
+msgstr "Gira a destra {direction_details}."
+
+msgid "Then turn right."
+msgstr "Poi gira a destra."
+
+msgid "{landmark} turn right."
+msgstr "Gira a destra."
+
+msgid "Turn right."
+msgstr "Gira a destra."
+
+msgid "In {distance} make a sharp right turn at {intersection_name}."
+msgstr "Tra {distance} gira subito a destra presso {intersection_name}."
+
+msgid "In {distance} {landmark} make a sharp right turn {direction_details}."
+msgstr "Tra {distance} {landmark} gira subito a destra {direction_details}."
+
+msgid "In {distance} make a sharp right turn {direction_details}."
+msgstr "Tra {distance} gira subito a destra {direction_details}."
+
+msgid "In {distance} {landmark} make a sharp right turn."
+msgstr "Tra {distance} {landmark} gira subito a destra."
+
+msgid "In {distance} make a sharp right turn."
+msgstr "Tra {distance} gira subito a destra."
+
+msgid "Make a sharp right turn at {intersection_name}."
+msgstr "Gira subito a destra presso {intersection_name}."
+
+msgid "{landmark} make a sharp right turn {direction_details}."
+msgstr "{landmark} gira subito a destra {direction_details}."
+
+msgid "Make a sharp right turn {direction_details}."
+msgstr "Gira subito a destra {direction_details}."
+
+msgid "Then make a sharp right turn."
+msgstr "Poi gira subito a destra."
+
+msgid "{landmark} make a sharp right turn."
+msgstr "Gira subito a destra."
+
+msgid "Make a sharp right turn."
+msgstr "Gira subito a destra."
+
+msgid "In {distance} bear left at {intersection_name}."
+msgstr "Tra {distance} spostati sulla sinistra presso {intersection_name}."
+
+msgid "In {distance} {landmark} bear left {direction_details}."
+msgstr "Tra {distance} {landmark} spostati sulla sinistra {direction_details}."
+
+msgid "In {distance} bear left {direction_details}."
+msgstr "Tra {distance} spostati sulla sinistra {direction_details}."
+
+msgid "In {distance} {landmark} bear left."
+msgstr "Tra {distance} {landmark} spostati sulla sinistra."
+
+msgid "In {distance} bear left."
+msgstr "Tra {distance} spostati sulla sinistra."
+
+msgid "Bear left at {intersection_name}."
+msgstr "Spostati sulla sinistra presso {intersection_name}."
+
+msgid "{landmark} bear left {direction_details}."
+msgstr "{landmark} spostati sulla sinistra {direction_details}."
+
+msgid "Bear left {direction_details}."
+msgstr "Spostati sulla sinistra {direction_details}."
+
+msgid "Then bear left."
+msgstr "Poi spostati sulla sinistra."
+
+msgid "{landmark} bear left."
+msgstr "Spostati sulla sinistra."
+
+msgid "Bear left."
+msgstr "Spostati sulla sinistra."
+
+msgid "In {distance} turn left at {intersection_name}."
+msgstr "Tra {distance} gira a sinistra presso {intersection_name}."
+
+msgid "In {distance} {landmark} turn left {direction_details}."
+msgstr "Tra {distance} {landmark} gira a sinistra {direction_details}."
+
+msgid "In {distance} turn left {direction_details}."
+msgstr "Tra {distance} gira a sinistra {direction_details}."
+
+msgid "In {distance} {landmark} turn left."
+msgstr "Tra {distance} {landmark} gira a sinistra."
+
+msgid "In {distance} turn left."
+msgstr "Tra {distance} gira a sinistra."
+
+msgid "Turn left at {intersection_name}."
+msgstr "Gira a sinistra presso {intersection_name}."
+
+msgid "{landmark} turn left {direction_details}."
+msgstr "{landmark} gira a sinistra {direction_details}."
+
+msgid "Turn left {direction_details}."
+msgstr "Gira a sinistra {direction_details}."
+
+msgid "Then turn left."
+msgstr "Poi gira a sinistra."
+
+msgid "{landmark} turn left."
+msgstr "Gira a sinistra."
+
+msgid "Turn left."
+msgstr "Gira a sinistra."
+
+msgid "In {distance} make a sharp left turn at {intersection_name}."
+msgstr "Tra {distance} gira subito a sinistra presso {intersection_name}."
+
+msgid "In {distance} {landmark} make a sharp left turn {direction_details}."
+msgstr "Tra {distance} {landmark} gira subito a sinistra {direction_details}."
+
+msgid "In {distance} make a sharp left turn {direction_details}."
+msgstr "Tra {distance} gira subito a sinistra {direction_details}."
+
+msgid "In {distance} {landmark} make a sharp left turn."
+msgstr "Tra {distance} {landmark} gira subito a sinistra."
+
+msgid "In {distance} make a sharp left turn."
+msgstr "Tra {distance} gira subito a sinistra."
+
+msgid "Make a sharp left turn at {intersection_name}."
+msgstr "Gira subito a sinistra presso {intersection_name}."
+
+msgid "{landmark} make a sharp left turn {direction_details}."
+msgstr "{landmark} gira subito a sinistra {direction_details}."
+
+msgid "Make a sharp left turn {direction_details}."
+msgstr "Gira subito a sinistra {direction_details}."
+
+msgid "Then make a sharp left turn."
+msgstr "Poi gira subito a sinistra."
+
+msgid "{landmark} make a sharp left turn."
+msgstr "Gira subito a sinistra."
+
+msgid "Make a sharp left turn."
+msgstr "Gira subito a sinistra."
+
+msgid "In {distance} make a U-turn at {intersection_name}."
+msgstr "Tra {distance} fai inversione a U presso {intersection_name}."
+
+msgid "In {distance} {landmark} make a U-turn {direction_details}."
+msgstr "Tra {distance} {landmark} fai inversione a U {direction_details}."
+
+msgid "In {distance} make a U-turn {direction_details}."
+msgstr "Tra {distance} fai inversione a U {direction_details}."
+
+msgid "In {distance} {landmark} make a U-turn."
+msgstr "Tra {distance} {landmark} fai inversione a U."
+
+msgid "In {distance} make a U-turn."
+msgstr "Tra {distance} fai inversione a U."
+
+msgid "Make a U-turn at {intersection_name}."
+msgstr "Fai inversione a U presso {intersection_name}."
+
+msgid "{landmark} make a U-turn {direction_details}."
+msgstr "{landmark} fai inversione a U {direction_details}."
+
+msgid "Make a U-turn {direction_details}."
+msgstr "Fai inversione a U {direction_details}."
+
+msgid "Then make a U-turn."
+msgstr "Poi fai inversione a U."
+
+msgid "{landmark} make a U-turn."
+msgstr "Fai inversione a U."
+
+msgid "Make a U-turn."
+msgstr "Fai inversione a U."
+
+msgid "In {distance} follow the road to the right."
+msgstr "Tra {distance} segui la strada a destra."
+
+msgid "Then follow the road to the right."
+msgstr "Poi segui la strada a destra."
+
+msgid "Follow the road to the right."
+msgstr "Segui la strada a destra."
+
+msgid "In {distance} follow the road to the left."
+msgstr "Tra {distance} segui la strada a sinistra."
+
+msgid "Then follow the road to the left."
+msgstr "Poi segui la strada a sinistra."
+
+msgid "Follow the road to the left."
+msgstr "Segui la strada a sinistra."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a sinistra presso {intersection_name} verso {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a sinistra presso {intersection_name} verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a sinistra presso {intersection_name}."
+
+msgid "In {distance} take the exit {exit_number} on the left at {intersection_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a sinistra presso {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left {direction_details}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a sinistra {direction_details}."
+
+msgid "In {distance} take the exit {exit_number} on the left {direction_details}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a sinistra {direction_details}."
+
+msgid "In {distance} take the left exit at {intersection_name} toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita a sinistra presso {intersection_name} verso {toward_name}."
+
+msgid "In {distance} take the left exit at {intersection_name}."
+msgstr "Tra {distance} prendi l'uscita a sinistra presso {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the left exit {direction_details}."
+msgstr "Tra {distance} prendi l'uscita a sinistra {direction_details}."
+
+msgid "In {distance} take the left exit {direction_details}."
+msgstr "Tra {distance} prendi l'uscita a sinistra {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left toward {toward_name}."
+msgstr "Prendi l'uscita {exit_number} a sinistra verso {toward_name}."
+
+msgid "Take the exit {exit_number} on the left toward {toward_name}."
+msgstr "Prendi l'uscita {exit_number} a sinistra verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left."
+msgstr "Prendi l'uscita {exit_number} a sinistra."
+
+msgid "Take the exit {exit_number} on the left."
+msgstr "Prendi l'uscita {exit_number} a sinistra."
+
+msgid "Take the left exit toward {toward_name}."
+msgstr "Prendi l'uscita a sinistra verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a sinistra verso {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} on the left toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a sinistra verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the left."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a sinistra."
+
+msgid "In {distance} take the exit {exit_number} on the left."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a sinistra."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the left exit toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita a sinistra verso {toward_name}."
+
+msgid "In {distance} take the left exit toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita a sinistra verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the left exit."
+msgstr "Tra {distance} prendi l'uscita a sinistra."
+
+msgid "In {distance} take the left exit."
+msgstr "Tra {distance} prendi l'uscita a sinistra."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "Prendi la seconda uscita a sinistra presso {intersection_name} verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "Prendi l'uscita {exit_number} a sinistra presso {intersection_name} verso {toward_name}."
+
+msgid "Take the exit {exit_number} on the left at {intersection_name} toward {toward_name}."
+msgstr "Prendi l'uscita {exit_number} a sinistra presso {intersection_name} verso {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left at {intersection_name}."
+msgstr "Prendi la seconda uscita a sinistra presso {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left at {intersection_name}."
+msgstr "Prendi l'uscita {exit_number} a sinistra presso {intersection_name}."
+
+msgid "Take the exit {exit_number} on the left at {intersection_name}."
+msgstr "Prendi l'uscita {exit_number} a sinistra presso {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left {direction_details}."
+msgstr "Prendi la seconda uscita a sinistra {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the left {direction_details}."
+msgstr "Prendi l'uscita {exit_number} a sinistra {direction_details}."
+
+msgid "Take the exit {exit_number} on the left {direction_details}."
+msgstr "Prendi l'uscita {exit_number} a sinistra {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit at {intersection_name} toward {toward_name}."
+msgstr "Prendi la seconda uscita a sinistra presso {intersection_name} verso {toward_name}."
+
+msgid "Take the left exit at {intersection_name} toward {toward_name}."
+msgstr "Prendi l'uscita a sinistra presso {intersection_name} verso {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit at {intersection_name}."
+msgstr "Prendi la seconda uscita a sinistra presso {intersection_name}."
+
+msgid "Take the left exit at {intersection_name}."
+msgstr "Prendi l'uscita a sinistra presso {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit {direction_details}."
+msgstr "Prendi la seconda uscita a sinistra {direction_details}."
+
+msgid "Take the left exit {direction_details}."
+msgstr "Prendi l'uscita a sinistra {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit {exit_number} on the left."
+msgstr "Poi prendi la seconda uscita a sinistra."
+
+msgctxt "has_exit_name"
+msgid "Then take the exit {exit_number} on the left."
+msgstr "Poi prendi l'uscita {exit_number} a sinistra."
+
+msgid "Then take the exit {exit_number} on the left."
+msgstr "Poi prendi l'uscita {exit_number} a sinistra."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the left exit."
+msgstr "Poi prendi la seconda uscita a sinistra."
+
+msgid "Then take the left exit."
+msgstr "Poi prendi l'uscita a sinistra."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the left."
+msgstr "Prendi la seconda uscita a sinistra."
+
+msgctxt "second_freeway_exit"
+msgid "Take the left exit."
+msgstr "Prendi la seconda uscita a sinistra."
+
+msgid "Take the left exit."
+msgstr "Prendi l'uscita a sinistra."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a destra presso {intersection_name} verso {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a destra presso {intersection_name} verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a destra presso {intersection_name}."
+
+msgid "In {distance} take the exit {exit_number} on the right at {intersection_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a destra presso {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right {direction_details}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a destra {direction_details}."
+
+msgid "In {distance} take the exit {exit_number} on the right {direction_details}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a destra {direction_details}."
+
+msgid "In {distance} take the right exit at {intersection_name} toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita a destra presso {intersection_name} verso {toward_name}."
+
+msgid "In {distance} take the right exit at {intersection_name}."
+msgstr "Tra {distance} prendi l'uscita a destra presso {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the right exit {direction_details}."
+msgstr "Tra {distance} prendi l'uscita a destra {direction_details}."
+
+msgid "In {distance} take the right exit {direction_details}."
+msgstr "Tra {distance} prendi l'uscita a destra {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right toward {toward_name}."
+msgstr "Prendi l'uscita {exit_number} a destra verso {toward_name}."
+
+msgid "Take the exit {exit_number} on the right toward {toward_name}."
+msgstr "Prendi l'uscita {exit_number} a destra verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right."
+msgstr "Prendi l'uscita {exit_number} a destra."
+
+msgid "Take the exit {exit_number} on the right."
+msgstr "Prendi l'uscita {exit_number} a destra."
+
+msgid "Take the right exit toward {toward_name}."
+msgstr "Prendi l'uscita a destra verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a destra verso {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} on the right toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a destra verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} on the right."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a destra."
+
+msgid "In {distance} take the exit {exit_number} on the right."
+msgstr "Tra {distance} prendi l'uscita {exit_number} a destra."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the right exit toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita a destra verso {toward_name}."
+
+msgid "In {distance} take the right exit toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita a destra verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the right exit."
+msgstr "Tra {distance} prendi l'uscita a destra."
+
+msgid "In {distance} take the right exit."
+msgstr "Tra {distance} prendi l'uscita a destra."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "Prendi la seconda uscita a destra presso {intersection_name} verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "Prendi l'uscita {exit_number} a destra presso {intersection_name} verso {toward_name}."
+
+msgid "Take the exit {exit_number} on the right at {intersection_name} toward {toward_name}."
+msgstr "Prendi l'uscita {exit_number} a destra presso {intersection_name} verso {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right at {intersection_name}."
+msgstr "Prendi la seconda uscita a destra presso {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right at {intersection_name}."
+msgstr "Prendi l'uscita {exit_number} a destra presso {intersection_name}."
+
+msgid "Take the exit {exit_number} on the right at {intersection_name}."
+msgstr "Prendi l'uscita {exit_number} a destra presso {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right {direction_details}."
+msgstr "Prendi la seconda uscita a destra {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} on the right {direction_details}."
+msgstr "Prendi l'uscita {exit_number} a destra {direction_details}."
+
+msgid "Take the exit {exit_number} on the right {direction_details}."
+msgstr "Prendi l'uscita {exit_number} a destra {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit at {intersection_name} toward {toward_name}."
+msgstr "Prendi la seconda uscita a destra presso {intersection_name} verso {toward_name}."
+
+msgid "Take the right exit at {intersection_name} toward {toward_name}."
+msgstr "Prendi l'uscita a destra presso {intersection_name} verso {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit at {intersection_name}."
+msgstr "Prendi la seconda uscita a destra presso {intersection_name}."
+
+msgid "Take the right exit at {intersection_name}."
+msgstr "Prendi l'uscita a destra presso {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit {direction_details}."
+msgstr "Prendi la seconda uscita a destra {direction_details}."
+
+msgid "Take the right exit {direction_details}."
+msgstr "Prendi l'uscita a destra {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit {exit_number} on the right."
+msgstr "Poi prendi la seconda uscita a destra."
+
+msgctxt "has_exit_name"
+msgid "Then take the exit {exit_number} on the right."
+msgstr "Poi prendi l'uscita {exit_number} a destra."
+
+msgid "Then take the exit {exit_number} on the right."
+msgstr "Poi prendi l'uscita {exit_number} a destra."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the right exit."
+msgstr "Poi prendi la seconda uscita a destra."
+
+msgid "Then take the right exit."
+msgstr "Poi prendi l'uscita a destra."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} on the right."
+msgstr "Prendi la seconda uscita a destra."
+
+msgctxt "second_freeway_exit"
+msgid "Take the right exit."
+msgstr "Prendi la seconda uscita a destra."
+
+msgid "Take the right exit."
+msgstr "Prendi l'uscita a destra."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} presso {intersection_name} verso {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} presso {intersection_name} verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} at {intersection_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} presso {intersection_name}."
+
+msgid "In {distance} take the exit {exit_number} at {intersection_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} presso {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} {direction_details}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} {direction_details}."
+
+msgid "In {distance} take the exit {exit_number} {direction_details}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} {direction_details}."
+
+msgid "In {distance} take the exit at {intersection_name} toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita presso {intersection_name} verso {toward_name}."
+
+msgid "In {distance} take the exit at {intersection_name}."
+msgstr "Tra {distance} prendi l'uscita presso {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {direction_details}."
+msgstr "Tra {distance} prendi l'uscita {direction_details}."
+
+msgid "In {distance} take the exit {direction_details}."
+msgstr "Tra {distance} prendi l'uscita {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} toward {toward_name}."
+msgstr "Prendi l'uscita {exit_number} verso {toward_name}."
+
+msgid "Take the exit {exit_number} toward {toward_name}."
+msgstr "Prendi l'uscita {exit_number} verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number}."
+msgstr "Prendi l'uscita {exit_number}."
+
+msgid "Take the exit {exit_number}."
+msgstr "Prendi l'uscita {exit_number}."
+
+msgid "Take the exit toward {toward_name}."
+msgstr "Prendi l'uscita verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number} toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} verso {toward_name}."
+
+msgid "In {distance} take the exit {exit_number} toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita {exit_number} verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit {exit_number}."
+msgstr "Tra {distance} prendi l'uscita {exit_number}."
+
+msgid "In {distance} take the exit {exit_number}."
+msgstr "Tra {distance} prendi l'uscita {exit_number}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita verso {toward_name}."
+
+msgid "In {distance} take the exit toward {toward_name}."
+msgstr "Tra {distance} prendi l'uscita verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "In {distance} take the exit."
+msgstr "Tra {distance} prendi l'uscita."
+
+msgid "In {distance} take the exit."
+msgstr "Tra {distance} prendi l'uscita."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "Prendi la seconda uscita presso {intersection_name} verso {toward_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "Prendi l'uscita {exit_number} presso {intersection_name} verso {toward_name}."
+
+msgid "Take the exit {exit_number} at {intersection_name} toward {toward_name}."
+msgstr "Prendi l'uscita {exit_number} presso {intersection_name} verso {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} at {intersection_name}."
+msgstr "Prendi la seconda uscita presso {intersection_name}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} at {intersection_name}."
+msgstr "Prendi l'uscita {exit_number} presso {intersection_name}."
+
+msgid "Take the exit {exit_number} at {intersection_name}."
+msgstr "Prendi l'uscita {exit_number} presso {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number} {direction_details}."
+msgstr "Prendi la seconda uscita {direction_details}."
+
+msgctxt "has_exit_name"
+msgid "Take the exit {exit_number} {direction_details}."
+msgstr "Prendi l'uscita {exit_number} {direction_details}."
+
+msgid "Take the exit {exit_number} {direction_details}."
+msgstr "Prendi l'uscita {exit_number} {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit at {intersection_name} toward {toward_name}."
+msgstr "Prendi la seconda uscita presso {intersection_name} verso {toward_name}."
+
+msgid "Take the exit at {intersection_name} toward {toward_name}."
+msgstr "Prendi l'uscita presso {intersection_name} verso {toward_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit at {intersection_name}."
+msgstr "Prendi la seconda uscita presso {intersection_name}."
+
+msgid "Take the exit at {intersection_name}."
+msgstr "Prendi l'uscita presso {intersection_name}."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {direction_details}."
+msgstr "Prendi la seconda uscita {direction_details}."
+
+msgid "Take the exit {direction_details}."
+msgstr "Prendi l'uscita {direction_details}."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit {exit_number}."
+msgstr "Poi prendi la seconda uscita."
+
+msgctxt "has_exit_name"
+msgid "Then take the exit {exit_number}."
+msgstr "Poi prendi l'uscita {exit_number}."
+
+msgid "Then take the exit {exit_number}."
+msgstr "Poi prendi l'uscita {exit_number}."
+
+msgctxt "second_freeway_exit"
+msgid "Then take the exit."
+msgstr "Poi prendi la seconda uscita."
+
+msgid "Then take the exit."
+msgstr "Poi prendi l'uscita."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit {exit_number}."
+msgstr "Prendi la seconda uscita."
+
+msgctxt "second_freeway_exit"
+msgid "Take the exit."
+msgstr "Prendi la seconda uscita."
+
+msgid "Take the exit."
+msgstr "Prendi l'uscita."
+
+msgid "In {distance} keep left at {intersection_name} toward {toward_name}."
+msgstr "Tra {distance} tieni la sinistra presso {intersection_name} verso {toward_name}."
+
+msgid "In {distance} keep left at {intersection_name}."
+msgstr "Tra {distance} tieni la sinistra presso {intersection_name}."
+
+msgid "In {distance} keep left {direction_details}."
+msgstr "Tra {distance} tieni la sinistra {direction_details}."
+
+msgid "In {distance} keep left."
+msgstr "Tra {distance} tieni la sinistra."
+
+msgid "Keep left at {intersection_name} toward {toward_name}."
+msgstr "Tieni la sinistra presso {intersection_name} verso {toward_name}."
+
+msgid "Keep left at {intersection_name}."
+msgstr "Tieni la sinistra presso {intersection_name}."
+
+msgid "Then keep left."
+msgstr "Poi tieni la sinistra."
+
+msgid "Keep left {direction_details}."
+msgstr "Tieni la sinistra {direction_details}."
+
+msgid "Keep left."
+msgstr "Tieni la sinistra."
+
+msgid "In {distance} keep right at {intersection_name} toward {toward_name}."
+msgstr "Tra {distance} tieni la destra presso {intersection_name} verso {toward_name}."
+
+msgid "In {distance} keep right at {intersection_name}."
+msgstr "Tra {distance} tieni la destra presso {intersection_name}."
+
+msgid "In {distance} keep right {direction_details}."
+msgstr "Tra {distance} tieni la destra {direction_details}."
+
+msgid "In {distance} keep right."
+msgstr "Tra {distance} tieni la destra."
+
+msgid "Keep right at {intersection_name} toward {toward_name}."
+msgstr "Tieni la destra presso {intersection_name} verso {toward_name}."
+
+msgid "Keep right at {intersection_name}."
+msgstr "Tieni la destra presso {intersection_name}."
+
+msgid "Then keep right."
+msgstr "Poi tieni la destra."
+
+msgid "Keep right {direction_details}."
+msgstr "Tieni la destra {direction_details}."
+
+msgid "Keep right."
+msgstr "Tieni la destra."
+
+msgctxt "merge_onto_another_road"
+msgid "In {distance} take the {road_number}."
+msgstr "Tra {distance} prendi la {road_number}."
+
+msgctxt "merge_onto_another_road"
+msgid "Then take the {road_number}."
+msgstr "Poi prendi la {road_number}."
+
+msgctxt "merge_onto_another_road"
+msgid "Take the {road_number}."
+msgstr "Prendi la {road_number}."
+
+msgctxt "merge_onto_another_road"
+msgid "In {distance} take {road_name}."
+msgstr "Tra {distance} prendi {road_name}."
+
+msgctxt "merge_onto_another_road"
+msgid "Then take {road_name}."
+msgstr "Poi prendi {road_name}."
+
+msgctxt "merge_onto_another_road"
+msgid "Take {road_name}."
+msgstr "Prendi {road_name}."
+
+msgctxt "merge_onto_another_road"
+msgid "In {distance} take the freeway."
+msgstr "Tra {distance} prendi l'autostrada."
+
+msgctxt "merge_onto_another_road"
+msgid "Then take the freeway."
+msgstr "Poi prendi l'autostrada."
+
+msgctxt "merge_onto_another_road"
+msgid "Take the freeway."
+msgstr "Prendi l'autostrada."
+
+msgid "Make a U-turn when possible."
+msgstr "Se possibile, fai inversione a U."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda tra {distance} vai sempre dritto, {roundabout_exit_number} uscita {direction_details}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit."
+msgstr "Alla rotonda tra {distance} vai sempre dritto, {roundabout_exit_number} uscita."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda vai sempre dritto, {roundabout_exit_number} uscita {direction_details}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda tra {distance} vai sempre dritto, {roundabout_exit_number} uscita {direction_details}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit."
+msgstr "Alla rotonda tra {distance} vai sempre dritto, {roundabout_exit_number} uscita."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda vai sempre dritto, {roundabout_exit_number} uscita {direction_details}."
+
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda tra {distance} vai sempre dritto, {roundabout_exit_number} uscita {direction_details}."
+
+msgid "At the roundabout in {distance} go straight, {roundabout_exit_number} exit."
+msgstr "Alla rotonda tra {distance} vai sempre dritto, {roundabout_exit_number} uscita."
+
+msgid "At the roundabout go straight, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda vai sempre dritto, {roundabout_exit_number} uscita {direction_details}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda tra {distance} gira a destra, {roundabout_exit_number} uscita {direction_details}."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit."
+msgstr "Alla rotonda tra {distance} gira a destra, {roundabout_exit_number} uscita."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda gira a destra, {roundabout_exit_number} uscita {direction_details}."
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda tra {distance} gira a destra, {roundabout_exit_number} uscita {direction_details}."
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit."
+msgstr "Alla rotonda tra {distance} gira a destra, {roundabout_exit_number} uscita."
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda gira a destra, {roundabout_exit_number} uscita {direction_details}."
+
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda tra {distance} gira a destra, {roundabout_exit_number} uscita {direction_details}."
+
+msgid "At the roundabout in {distance} turn right, {roundabout_exit_number} exit."
+msgstr "Alla rotonda tra {distance} gira a destra, {roundabout_exit_number} uscita."
+
+msgid "At the roundabout turn right, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda gira a destra, {roundabout_exit_number} uscita {direction_details}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda tra {distance} gira a sinistra, {roundabout_exit_number} uscita {direction_details}."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit."
+msgstr "Alla rotonda tra {distance} gira a sinistra, {roundabout_exit_number} uscita."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda gira a sinistra, {roundabout_exit_number} uscita {direction_details}."
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda tra {distance} gira a sinistra, {roundabout_exit_number} uscita {direction_details}."
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit."
+msgstr "Alla rotonda tra {distance} gira a sinistra, {roundabout_exit_number} uscita."
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda gira a sinistra, {roundabout_exit_number} uscita {direction_details}."
+
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda tra {distance} gira a sinistra, {roundabout_exit_number} uscita {direction_details}."
+
+msgid "At the roundabout in {distance} turn left, {roundabout_exit_number} exit."
+msgstr "Alla rotonda tra {distance} gira a sinistra, {roundabout_exit_number} uscita."
+
+msgid "At the roundabout turn left, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda gira a sinistra, {roundabout_exit_number} uscita {direction_details}."
+
+msgid "At the roundabout in {distance} make a U-turn, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda tra {distance} fai inversione a U, {roundabout_exit_number} uscita {direction_details}."
+
+msgid "At the roundabout in {distance} make a U-turn, {roundabout_exit_number} exit."
+msgstr "Alla rotonda tra {distance} fai inversione a U, {roundabout_exit_number} uscita."
+
+msgid "At the roundabout make a U-turn, {roundabout_exit_number} exit {direction_details}."
+msgstr "Alla rotonda fai inversione a U, {roundabout_exit_number} uscita {direction_details}."
+
+msgid "At the roundabout in {distance} take the {roundabout_exit_number_v2} exit."
+msgstr "Alla rotonda tra {distance} prendi la {roundabout_exit_number_v2} uscita."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit."
+msgstr "Alla rotonda vai sempre dritto, {roundabout_exit_number} uscita."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout go straight, {roundabout_exit_number} exit."
+msgstr "Alla rotonda vai sempre dritto, {roundabout_exit_number} uscita."
+
+msgid "At the roundabout go straight, {roundabout_exit_number} exit."
+msgstr "Alla rotonda vai sempre dritto, {roundabout_exit_number} uscita."
+
+msgid "At the roundabout make a U-turn, {roundabout_exit_number} exit."
+msgstr "Alla rotonda fai inversione a U, {roundabout_exit_number} uscita."
+
+msgctxt "roundabout slight right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit."
+msgstr "Alla rotonda gira a destra, {roundabout_exit_number} uscita."
+
+msgctxt "roundabout sharp right"
+msgid "At the roundabout turn right, {roundabout_exit_number} exit."
+msgstr "Alla rotonda gira a destra, {roundabout_exit_number} uscita."
+
+msgid "At the roundabout turn right, {roundabout_exit_number} exit."
+msgstr "Alla rotonda gira a destra, {roundabout_exit_number} uscita."
+
+msgctxt "roundabout slight left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit."
+msgstr "Alla rotonda gira a sinistra, {roundabout_exit_number} uscita."
+
+msgctxt "roundabout sharp left"
+msgid "At the roundabout turn left, {roundabout_exit_number} exit."
+msgstr "Alla rotonda gira a sinistra, {roundabout_exit_number} uscita."
+
+msgid "At the roundabout turn left, {roundabout_exit_number} exit."
+msgstr "Alla rotonda gira a sinistra, {roundabout_exit_number} uscita."
+
+msgid "At the roundabout take the {roundabout_exit_number_v2} exit."
+msgstr "Alla rotonda prendi la {roundabout_exit_number_v2} uscita."
+
+msgid "In {distance} exit the roundabout {direction_details}."
+msgstr "Tra {distance} esci dalla rotonda {direction_details}."
+
+msgid "In {distance} exit the roundabout."
+msgstr "Tra {distance} esci dalla rotonda."
+
+msgid "Exit the roundabout."
+msgstr "Esci dalla rotonda."
+
+msgid "In {distance} take the ferry {road_name}."
+msgstr "Tra {distance} prendi il traghetto {road_name}."
+
+msgid "In {distance} take the {road_name} train."
+msgstr "Tra {distance} prendi il treno {road_name}."
+
+msgid "In {distance} take the ferry."
+msgstr "Tra {distance} prendi il traghetto."
+
+msgid "In {distance} take the train."
+msgstr "Tra {distance} prendi il treno."
+
+msgid "Take the ferry {road_name}."
+msgstr "Prendi il traghetto {road_name}."
+
+msgid "Take the {road_name} train."
+msgstr "Prendi il treno {road_name}."
+
+msgid "Then take the ferry."
+msgstr "Poi prendi il traghetto."
+
+msgid "Take the ferry."
+msgstr "Prendi il traghetto."
+
+msgid "Then take the train."
+msgstr "Poi prendi il treno."
+
+msgid "Take the train."
+msgstr "Prendi il treno."
+
+msgid "Disembark from the ferry."
+msgstr "Scendi dal traghetto."
+
+msgid "Disembark from the train."
+msgstr "Scendi dal treno."
+
+msgid "In {distance} keep left to enter the HOV carpool lane."
+msgstr "Tra {distance} tieni la sinistra per prendere la corsia riservata al carpooling."
+
+msgid "In {distance} keep right to enter the HOV carpool lane."
+msgstr "Tra {distance} tieni la destra per prendere la corsia riservata al carpooling."
+
+msgid "Keep right to enter the HOV carpool lane."
+msgstr "Tieni la destra per prendere la corsia riservata al carpooling."
+
+msgid "Keep left to enter the HOV carpool lane."
+msgstr "Tieni la sinistra per prendere la corsia riservata al carpooling."
+
+msgid "In {distance} keep left to exit the HOV carpool lane."
+msgstr "Tra {distance} tieni la sinistra per uscire dalla corsia riservata al carpooling."
+
+msgid "In {distance} keep right to exit the HOV carpool lane."
+msgstr "Tra {distance} tieni la destra per uscire dalla corsia riservata al carpooling."
+
+msgid "Keep right to exit the HOV carpool lane."
+msgstr "Tieni la destra per uscire dalla corsia riservata al carpooling."
+
+msgid "Keep left to exit the HOV carpool lane."
+msgstr "Tieni la sinistra per uscire dalla corsia riservata al carpooling."
+
+msgid "In {distance} pass through the toll gate."
+msgstr "Tra {distance} attraversa il casello."
+
+msgid "Then pass through the toll gate."
+msgstr "Poi attraversa il casello."
+
+msgid "Pass through the toll gate."
+msgstr "Attraversa il casello."
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on the {road_number} toward {toward_name}"
+msgstr "per rimanere sulla {road_number} verso {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on the {road_number} toward {toward_name}"
+msgstr "per rimanere sulla {road_number} verso {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on the {road_number}"
+msgstr "per rimanere sulla {road_number}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on the {road_number}"
+msgstr "per rimanere sulla {road_number}"
+
+msgctxt "{direction_details} for exit highway"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "sulla {road_number} verso {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "sulla {road_number} verso {toward_name}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "sulla {road_number} verso {toward_name}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "sulla {road_number} verso {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take the {road_number} toward {toward_name}"
+msgstr "per prendere la {road_number} verso {toward_name}"
+
+msgctxt "{direction_details}"
+msgid "onto the {road_number} toward {toward_name}"
+msgstr "sulla {road_number} verso {toward_name}"
+
+msgctxt "{direction_details} for exit highway"
+msgid "onto the {road_number}"
+msgstr "sulla {road_number}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "onto the {road_number}"
+msgstr "sulla {road_number}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto the {road_number}"
+msgstr "sulla {road_number}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto the {road_number}"
+msgstr "sulla {road_number}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take the {road_number}"
+msgstr "per prendere la {road_number}"
+
+msgctxt "{direction_details}"
+msgid "onto the {road_number}"
+msgstr "sulla {road_number}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} toward {toward_name}"
+msgstr "e continua a seguire {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} verso {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} toward {toward_name}"
+msgstr "e continua a seguire {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case} verso {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on {road_name} toward {toward_name}"
+msgstr "per rimanere su {road_name} verso {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on {road_name} toward {toward_name}"
+msgstr "per rimanere su {road_name} verso {toward_name}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+msgstr "e continua a seguire {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+
+msgctxt "{direction_details} for fork"
+msgid "and continue to follow {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+msgstr "e continua a seguire {road_name_preposition_and_article_for_follow_case} {road_name_for_follow_case}"
+
+msgctxt "{direction_details} for turn: left, right"
+msgid "to stay on {road_name}"
+msgstr "per rimanere su {road_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to stay on {road_name}"
+msgstr "per rimanere su {road_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} toward {toward_name}"
+msgstr "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} verso {toward_name}"
+
+msgctxt "{direction_details}"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} toward {toward_name}"
+msgstr "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case} verso {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+msgstr "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+
+msgctxt "{direction_details}"
+msgid "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+msgstr "{road_name_preposition_and_article_for_into_case} {road_name_for_into_case}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take {road_name} toward {toward_name}"
+msgstr "per prendere {road_name} verso {toward_name}"
+
+msgctxt "{direction_details} for fork"
+msgid "to take {road_name}"
+msgstr "per prendere {road_name}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto {road_name} toward {toward_name}"
+msgstr "su {road_name} verso {toward_name}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto {road_name} toward {toward_name}"
+msgstr "su {road_name} verso {toward_name}"
+
+msgctxt "{direction_details}"
+msgid "onto {road_name} toward {toward_name}"
+msgstr "su {road_name} verso {toward_name}"
+
+msgctxt "{direction_details} for turn: go straight"
+msgid "onto {road_name}"
+msgstr "su {road_name}"
+
+msgctxt "{direction_details} for U-turn"
+msgid "onto {road_name}"
+msgstr "su {road_name}"
+
+msgctxt "{direction_details}"
+msgid "onto {road_name}"
+msgstr "su {road_name}"
+
+msgctxt "{direction_details}"
+msgid "toward {toward_name}"
+msgstr "verso {toward_name}"
+
+msgctxt "you are entering {country}"
+msgid "Afghanistan"
+msgstr "in Afghanistan"
+
+msgctxt "you are entering {country}"
+msgid "Albania"
+msgstr "in Albania"
+
+msgctxt "you are entering {country}"
+msgid "Algeria"
+msgstr "in Algeria"
+
+msgctxt "you are entering {country}"
+msgid "Andorra"
+msgstr "in Andorra"
+
+msgctxt "you are entering {country}"
+msgid "Angola"
+msgstr "in Angola"
+
+msgctxt "you are entering {country}"
+msgid "Argentina"
+msgstr "in Argentina"
+
+msgctxt "you are entering {country}"
+msgid "Armenia"
+msgstr "in Armenia"
+
+msgctxt "you are entering {country}"
+msgid "Austria"
+msgstr "in Austria"
+
+msgctxt "you are entering {country}"
+msgid "Azerbaijan"
+msgstr "in Azerbaigian"
+
+msgctxt "you are entering {country}"
+msgid "Bahrain"
+msgstr "in Bahrein"
+
+msgctxt "you are entering {country}"
+msgid "Bangladesh"
+msgstr "in Bangladesh"
+
+msgctxt "you are entering {country}"
+msgid "Belarus"
+msgstr "in Bielorussia"
+
+msgctxt "you are entering {country}"
+msgid "Belgium"
+msgstr "in Belgio"
+
+msgctxt "you are entering {country}"
+msgid "Belize"
+msgstr "in Belize"
+
+msgctxt "you are entering {country}"
+msgid "Benin"
+msgstr "in Benin"
+
+msgctxt "you are entering {country}"
+msgid "Bhutan"
+msgstr "in Bhutan"
+
+msgctxt "you are entering {country}"
+msgid "Bolivia"
+msgstr "in Bolivia"
+
+msgctxt "you are entering {country}"
+msgid "Bosnia and Herzegowina"
+msgstr "in Bosnia-Erzegowina"
+
+msgctxt "you are entering {country}"
+msgid "Botswana"
+msgstr "in Botswana"
+
+msgctxt "you are entering {country}"
+msgid "Brazil"
+msgstr "in Brasile"
+
+msgctxt "you are entering {country}"
+msgid "Brunei"
+msgstr "in Brunei"
+
+msgctxt "you are entering {country}"
+msgid "Bulgaria"
+msgstr "in Bulgaria"
+
+msgctxt "you are entering {country}"
+msgid "Burkina Faso"
+msgstr "in Burkina Faso"
+
+msgctxt "you are entering {country}"
+msgid "Burundi"
+msgstr "in Burundi"
+
+msgctxt "you are entering {country}"
+msgid "Cambodia"
+msgstr "in Cambogia"
+
+msgctxt "you are entering {country}"
+msgid "Cameroon"
+msgstr "in Camerun"
+
+msgctxt "you are entering {country}"
+msgid "Canada"
+msgstr "in Canada"
+
+msgctxt "you are entering {country}"
+msgid "the Central African Republic"
+msgstr "nella Repubblica Centrafricana"
+
+msgctxt "you are entering {country}"
+msgid "Chad"
+msgstr "in Ciad"
+
+msgctxt "you are entering {country}"
+msgid "Chile"
+msgstr "in Cile"
+
+msgctxt "you are entering {country}"
+msgid "China"
+msgstr "in Cina"
+
+msgctxt "you are entering {country}"
+msgid "Colombia"
+msgstr "in Colombia"
+
+msgctxt "you are entering {country}"
+msgid "the Republic of the Congo"
+msgstr "nella Repubblica del Congo"
+
+msgctxt "you are entering {country}"
+msgid "the Democratic Republic of the Congo"
+msgstr "nella Repubblica Democratica del Congo"
+
+msgctxt "you are entering {country}"
+msgid "Costa Rica"
+msgstr "in Costa Rica"
+
+msgctxt "you are entering {country}"
+msgid "Ivory Coast"
+msgstr "in Costa d'Avorio"
+
+msgctxt "you are entering {country}"
+msgid "Croatia"
+msgstr "in Croazia"
+
+msgctxt "you are entering {country}"
+msgid "Cyprus"
+msgstr "a Cipro"
+
+msgctxt "you are entering {country}"
+msgid "the Czech Republic"
+msgstr "nella Repubblica Ceca"
+
+msgctxt "you are entering {country}"
+msgid "Denmark"
+msgstr "in Danimarca"
+
+msgctxt "you are entering {country}"
+msgid "Djibouti"
+msgstr "in Gibuti"
+
+msgctxt "you are entering {country}"
+msgid "the Dominican Republic"
+msgstr "nella Repubblica Dominicana"
+
+msgctxt "you are entering {country}"
+msgid "East Timor"
+msgstr "a Timor Est"
+
+msgctxt "you are entering {country}"
+msgid "Ecuador"
+msgstr "in Ecuador"
+
+msgctxt "you are entering {country}"
+msgid "Egypt"
+msgstr "in Egitto"
+
+msgctxt "you are entering {country}"
+msgid "El Salvador"
+msgstr "a El Salvador"
+
+msgctxt "you are entering {country}"
+msgid "Equatorial Guinea"
+msgstr "in Guinea Equatoriale"
+
+msgctxt "you are entering {country}"
+msgid "Eritrea"
+msgstr "in Eritrea"
+
+msgctxt "you are entering {country}"
+msgid "Estonia"
+msgstr "in Estonia"
+
+msgctxt "you are entering {country}"
+msgid "Ethiopia"
+msgstr "in Etiopia"
+
+msgctxt "you are entering {country}"
+msgid "Finland"
+msgstr "in Finlandia"
+
+msgctxt "you are entering {country}"
+msgid "France"
+msgstr "in Francia"
+
+msgctxt "you are entering {country}"
+msgid "French Guiana"
+msgstr "nella Guiana Francese"
+
+msgctxt "you are entering {country}"
+msgid "Gabon"
+msgstr "in Gabon"
+
+msgctxt "you are entering {country}"
+msgid "the Gambia"
+msgstr "in Gambia"
+
+msgctxt "you are entering {country}"
+msgid "Georgia"
+msgstr "in Georgia"
+
+msgctxt "you are entering {country}"
+msgid "Germany"
+msgstr "in Germania"
+
+msgctxt "you are entering {country}"
+msgid "Ghana"
+msgstr "in Ghana"
+
+msgctxt "you are entering {country}"
+msgid "Gibraltar"
+msgstr "a Gibilterra"
+
+msgctxt "you are entering {country}"
+msgid "Greece"
+msgstr "in Grecia"
+
+msgctxt "you are entering {country}"
+msgid "Guatemala"
+msgstr "in Guatemala"
+
+msgctxt "you are entering {country}"
+msgid "Guinea"
+msgstr "in Guinea"
+
+msgctxt "you are entering {country}"
+msgid "Guinea-Bissau"
+msgstr "in Guinea-Bissau"
+
+msgctxt "you are entering {country}"
+msgid "Guyana"
+msgstr "in Guyana"
+
+msgctxt "you are entering {country}"
+msgid "Haiti"
+msgstr "a Haiti"
+
+msgctxt "you are entering {country}"
+msgid "Vatican City"
+msgstr "a Città del Vaticano"
+
+msgctxt "you are entering {country}"
+msgid "Honduras"
+msgstr "in Honduras"
+
+msgctxt "you are entering {country}"
+msgid "Hong Kong"
+msgstr "a Hong Kong"
+
+msgctxt "you are entering {country}"
+msgid "Hungary"
+msgstr "in Ungheria"
+
+msgctxt "you are entering {country}"
+msgid "India"
+msgstr "in India"
+
+msgctxt "you are entering {country}"
+msgid "Indonesia"
+msgstr "in Indonesia"
+
+msgctxt "you are entering {country}"
+msgid "Iran"
+msgstr "in Iran"
+
+msgctxt "you are entering {country}"
+msgid "Iraq"
+msgstr "in Iraq"
+
+msgctxt "you are entering {country}"
+msgid "Ireland"
+msgstr "in Irlanda"
+
+msgctxt "you are entering {country}"
+msgid "Israel"
+msgstr "in Israele"
+
+msgctxt "you are entering {country}"
+msgid "Italy"
+msgstr "in Italia"
+
+msgctxt "you are entering {country}"
+msgid "Jamaica"
+msgstr "in Giamaica"
+
+msgctxt "you are entering {country}"
+msgid "Jordan"
+msgstr "in Giordania"
+
+msgctxt "you are entering {country}"
+msgid "Kazakhstan"
+msgstr "in Kazakistan"
+
+msgctxt "you are entering {country}"
+msgid "Kenya"
+msgstr "in Kenya"
+
+msgctxt "you are entering {country}"
+msgid "North Korea"
+msgstr "in Corea del Nord"
+
+msgctxt "you are entering {country}"
+msgid "South Korea"
+msgstr "in Corea del Sud"
+
+msgctxt "you are entering {country}"
+msgid "Kosovo"
+msgstr "in Kosovo"
+
+msgctxt "you are entering {country}"
+msgid "Kuwait"
+msgstr "in Kuwait"
+
+msgctxt "you are entering {country}"
+msgid "Kyrgyzstan"
+msgstr "in Kirghizistan"
+
+msgctxt "you are entering {country}"
+msgid "Laos"
+msgstr "nel Laos"
+
+msgctxt "you are entering {country}"
+msgid "Latvia"
+msgstr "in Lettonia"
+
+msgctxt "you are entering {country}"
+msgid "Lebanon"
+msgstr "in Libano"
+
+msgctxt "you are entering {country}"
+msgid "Lesotho"
+msgstr "in Lesotho"
+
+msgctxt "you are entering {country}"
+msgid "Liberia"
+msgstr "in Liberia"
+
+msgctxt "you are entering {country}"
+msgid "Libya"
+msgstr "in Libia"
+
+msgctxt "you are entering {country}"
+msgid "Liechtenstein"
+msgstr "nel Liechtenstein"
+
+msgctxt "you are entering {country}"
+msgid "Lithuania"
+msgstr "in Lituania"
+
+msgctxt "you are entering {country}"
+msgid "Luxembourg"
+msgstr "in Lussemburgo"
+
+msgctxt "you are entering {country}"
+msgid "Macau"
+msgstr "a Macao"
+
+msgctxt "you are entering {country}"
+msgid "North Macedonia"
+msgstr "in Macedonia del Nord"
+
+msgctxt "you are entering {country}"
+msgid "Malawi"
+msgstr "in Malawi"
+
+msgctxt "you are entering {country}"
+msgid "Malaysia"
+msgstr "in Malesia"
+
+msgctxt "you are entering {country}"
+msgid "Mali"
+msgstr "nel Mali"
+
+msgctxt "you are entering {country}"
+msgid "Malta"
+msgstr "a Malta"
+
+msgctxt "you are entering {country}"
+msgid "Mauritania"
+msgstr "in Mauritania"
+
+msgctxt "you are entering {country}"
+msgid "Mexico"
+msgstr "in Messico"
+
+msgctxt "you are entering {country}"
+msgid "Moldova"
+msgstr "in Moldavia"
+
+msgctxt "you are entering {country}"
+msgid "Monaco"
+msgstr "nel Principato di Monaco"
+
+msgctxt "you are entering {country}"
+msgid "Mongolia"
+msgstr "in Mongolia"
+
+msgctxt "you are entering {country}"
+msgid "Montenegro"
+msgstr "nel Montenegro"
+
+msgctxt "you are entering {country}"
+msgid "Morocco"
+msgstr "in Marocco"
+
+msgctxt "you are entering {country}"
+msgid "Mozambique"
+msgstr "in Mozambico"
+
+msgctxt "you are entering {country}"
+msgid "Myanmar"
+msgstr "in Myanmar"
+
+msgctxt "you are entering {country}"
+msgid "Namibia"
+msgstr "in Namibia"
+
+msgctxt "you are entering {country}"
+msgid "Nepal"
+msgstr "in Nepal"
+
+msgctxt "you are entering {country}"
+msgid "the Netherlands"
+msgstr "nei Paesi Bassi"
+
+msgctxt "you are entering {country}"
+msgid "Nicaragua"
+msgstr "in Nicaragua"
+
+msgctxt "you are entering {country}"
+msgid "Niger"
+msgstr "in Niger"
+
+msgctxt "you are entering {country}"
+msgid "Nigeria"
+msgstr "in Nigeria"
+
+msgctxt "you are entering {country}"
+msgid "Norway"
+msgstr "in Norvegia"
+
+msgctxt "you are entering {country}"
+msgid "Oman"
+msgstr "in Oman"
+
+msgctxt "you are entering {country}"
+msgid "Pakistan"
+msgstr "in Pakistan"
+
+msgctxt "you are entering {country}"
+msgid "Palestine"
+msgstr "in Palestina"
+
+msgctxt "you are entering {country}"
+msgid "Panama"
+msgstr "a Panama"
+
+msgctxt "you are entering {country}"
+msgid "Papua New Guinea"
+msgstr "in Papua Nuova Guinea"
+
+msgctxt "you are entering {country}"
+msgid "Paraguay"
+msgstr "in Paraguay"
+
+msgctxt "you are entering {country}"
+msgid "Peru"
+msgstr "in Perù"
+
+msgctxt "you are entering {country}"
+msgid "Poland"
+msgstr "in Polonia"
+
+msgctxt "you are entering {country}"
+msgid "Portugal"
+msgstr "in Portogallo"
+
+msgctxt "you are entering {country}"
+msgid "Qatar"
+msgstr "in Qatar"
+
+msgctxt "you are entering {country}"
+msgid "Romania"
+msgstr "in Romania"
+
+msgctxt "you are entering {country}"
+msgid "the Russian Federation"
+msgstr "nella Federazione russa"
+
+msgctxt "you are entering {country}"
+msgid "Rwanda"
+msgstr "in Ruanda"
+
+msgctxt "you are entering {country}"
+msgid "Saint Martin"
+msgstr "a Saint Martin (parte francese)"
+
+msgctxt "you are entering {country}"
+msgid "San Marino"
+msgstr "a San Marino"
+
+msgctxt "you are entering {country}"
+msgid "Saudi Arabia"
+msgstr "in Arabia Saudita"
+
+msgctxt "you are entering {country}"
+msgid "Senegal"
+msgstr "in Senegal"
+
+msgctxt "you are entering {country}"
+msgid "Serbia"
+msgstr "in Serbia"
+
+msgctxt "you are entering {country}"
+msgid "Sierra Leone"
+msgstr "in Sierra Leone"
+
+msgctxt "you are entering {country}"
+msgid "Singapore"
+msgstr "a Singapore"
+
+msgctxt "you are entering {country}"
+msgid "Sint Maarten"
+msgstr "a Sint Maarten (parte olandese)"
+
+msgctxt "you are entering {country}"
+msgid "Slovakia"
+msgstr "in Slovacchia"
+
+msgctxt "you are entering {country}"
+msgid "Slovenia"
+msgstr "in Slovenia"
+
+msgctxt "you are entering {country}"
+msgid "Somalia"
+msgstr "in Somalia"
+
+msgctxt "you are entering {country}"
+msgid "South Africa"
+msgstr "in Sudafrica"
+
+msgctxt "you are entering {country}"
+msgid "South Sudan"
+msgstr "nel Sudan del Sud"
+
+msgctxt "you are entering {country}"
+msgid "Spain"
+msgstr "in Spagna"
+
+msgctxt "you are entering {country}"
+msgid "Sudan"
+msgstr "in Sudan"
+
+msgctxt "you are entering {country}"
+msgid "Suriname"
+msgstr "nel Suriname"
+
+msgctxt "you are entering {country}"
+msgid "Swaziland"
+msgstr "in Swaziland"
+
+msgctxt "you are entering {country}"
+msgid "Sweden"
+msgstr "in Svezia"
+
+msgctxt "you are entering {country}"
+msgid "Switzerland"
+msgstr "in Svizzera"
+
+msgctxt "you are entering {country}"
+msgid "Syria"
+msgstr "in Siria"
+
+msgctxt "you are entering {country}"
+msgid "Tajikistan"
+msgstr "in Tagikistan"
+
+msgctxt "you are entering {country}"
+msgid "Tanzania"
+msgstr "in Tanzania"
+
+msgctxt "you are entering {country}"
+msgid "Thailand"
+msgstr "in Thailandia"
+
+msgctxt "you are entering {country}"
+msgid "Timor-Leste"
+msgstr "a Timor Est"
+
+msgctxt "you are entering {country}"
+msgid "Togo"
+msgstr "nel Togo"
+
+msgctxt "you are entering {country}"
+msgid "Tunisia"
+msgstr "in Tunisia"
+
+msgctxt "you are entering {country}"
+msgid "Turkey"
+msgstr "in Turchia"
+
+msgctxt "you are entering {country}"
+msgid "Turkmenistan"
+msgstr "in Turkmenistan"
+
+msgctxt "you are entering {country}"
+msgid "Uganda"
+msgstr "in Uganda"
+
+msgctxt "you are entering {country}"
+msgid "Ukraine"
+msgstr "in Ucraina"
+
+msgctxt "you are entering {country}"
+msgid "the United Arab Emirates"
+msgstr "negli Emirati Arabi Uniti"
+
+msgctxt "you are entering {country}"
+msgid "the United Kingdom"
+msgstr "nel Regno Unito"
+
+msgctxt "you are entering {country}"
+msgid "the United States of America"
+msgstr "negli Stati Uniti d'America"
+
+msgctxt "you are entering {country}"
+msgid "Uruguay"
+msgstr "in Uruguay"
+
+msgctxt "you are entering {country}"
+msgid "Uzbekistan"
+msgstr "in Uzbekistan"
+
+msgctxt "you are entering {country}"
+msgid "Venezuela"
+msgstr "in Venezuela"
+
+msgctxt "you are entering {country}"
+msgid "Vietnam"
+msgstr "in Vietnam"
+
+msgctxt "you are entering {country}"
+msgid "Western Sahara"
+msgstr "nel Sahara Occidentale"
+
+msgctxt "you are entering {country}"
+msgid "Yemen"
+msgstr "nello Yemen"
+
+msgctxt "you are entering {country}"
+msgid "Zambia"
+msgstr "in Zambia"
+
+msgctxt "you are entering {country}"
+msgid "Zimbabwe"
+msgstr "in Zimbabwe"
+
+msgctxt "{roundabout_exit_number}"
+msgid "first"
+msgstr "prima"
+
+msgctxt "{roundabout_exit_number}"
+msgid "second"
+msgstr "seconda"
+
+msgctxt "{roundabout_exit_number}"
+msgid "third"
+msgstr "terza"
+
+msgctxt "{roundabout_exit_number}"
+msgid "fourth"
+msgstr "quarta"
+
+msgctxt "{roundabout_exit_number}"
+msgid "fifth"
+msgstr "quinta"
+
+msgctxt "{roundabout_exit_number}"
+msgid "sixth"
+msgstr "sesta"
+
+msgctxt "{roundabout_exit_number}"
+msgid "seventh"
+msgstr "settima"
+
+msgctxt "{roundabout_exit_number}"
+msgid "eighth"
+msgstr "ottava"
+
+msgctxt "{roundabout_exit_number}"
+msgid "ninth"
+msgstr "nona"
+
+msgctxt "{roundabout_exit_number}"
+msgid "tenth"
+msgstr "decima"
+
+msgctxt "{roundabout_exit_number}"
+msgid "eleventh"
+msgstr "undicesima"
+
+msgctxt "{roundabout_exit_number}"
+msgid "twelfth"
+msgstr "dodicesima"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "first"
+msgstr "prima"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "second"
+msgstr "seconda"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "third"
+msgstr "terza"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "fourth"
+msgstr "quarta"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "fifth"
+msgstr "quinta"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "sixth"
+msgstr "sesta"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "seventh"
+msgstr "settima"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "eighth"
+msgstr "ottava"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "ninth"
+msgstr "nona"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "tenth"
+msgstr "decima"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "eleventh"
+msgstr "undicesima"
+
+msgctxt "{roundabout_exit_number_v2}"
+msgid "twelfth"
+msgstr "dodicesima"
+
+msgctxt "{landmark}"
+msgid "at the end of the road"
+msgstr "alla fine della strada"
+
+msgctxt "{landmark}"
+msgid "at the traffic light"
+msgstr "al semaforo"
+
+msgctxt "In {distance}"
+msgid "{count} meter"
+msgid_plural "{count} meters"
+msgstr[0] "{count} metro"
+msgstr[1] "{count} metri"
+
+msgctxt "In {distance}"
+msgid "{count} kilometer"
+msgid_plural "{count} kilometers"
+msgstr[0] "{count} chilometro"
+msgstr[1] "{count} chilometri"
+
+msgctxt "In {distance}"
+msgid "{count} foot"
+msgid_plural "{count} feet"
+msgstr[0] "{count} piede"
+msgstr[1] "{count} piedi"
+
+msgctxt "In {distance}"
+msgid "{count} yard"
+msgid_plural "{count} yards"
+msgstr[0] "{count} iarda"
+msgstr[1] "{count} iarde"
+
+msgctxt "In {distance}"
+msgid "{count} mile"
+msgid_plural "{count} miles"
+msgstr[0] "{count} miglio"
+msgstr[1] "{count} miglia"
+
+msgctxt "follow for {distance}"
+msgid "{count} meter"
+msgid_plural "{count} meters"
+msgstr[0] "{count} metro"
+msgstr[1] "{count} metri"
+
+msgctxt "follow for {distance}"
+msgid "{count} kilometer"
+msgid_plural "{count} kilometers"
+msgstr[0] "{count} chilometro"
+msgstr[1] "{count} chilometri"
+
+msgctxt "follow for {distance}"
+msgid "{count} foot"
+msgid_plural "{count} feet"
+msgstr[0] "{count} piede"
+msgstr[1] "{count} piedi"
+
+msgctxt "follow for {distance}"
+msgid "{count} yard"
+msgid_plural "{count} yards"
+msgstr[0] "{count} iarda"
+msgstr[1] "{count} iarde"
+
+msgctxt "follow for {distance}"
+msgid "{count} mile"
+msgid_plural "{count} miles"
+msgstr[0] "{count} miglio"
+msgstr[1] "{count} miglia"
+
+msgctxt "after {distance}"
+msgid "{count} meter"
+msgid_plural "{count} meters"
+msgstr[0] "{count} metro"
+msgstr[1] "{count} metri"
+
+msgctxt "after {distance}"
+msgid "{count} kilometer"
+msgid_plural "{count} kilometers"
+msgstr[0] "{count} chilometro"
+msgstr[1] "{count} chilometri"
+
+msgctxt "after {distance}"
+msgid "{count} foot"
+msgid_plural "{count} feet"
+msgstr[0] "{count} piede"
+msgstr[1] "{count} piedi"
+
+msgctxt "after {distance}"
+msgid "{count} yard"
+msgid_plural "{count} yards"
+msgstr[0] "{count} iarda"
+msgstr[1] "{count} iarde"
+
+msgctxt "after {distance}"
+msgid "{count} mile"
+msgid_plural "{count} miles"
+msgstr[0] "{count} miglio"
+msgstr[1] "{count} miglia"
+
+msgctxt "In {distance}"
+msgid "one and a half kilometers"
+msgstr "un chilometro e mezzo"
+
+msgctxt "In {distance}"
+msgid "two and a half kilometers"
+msgstr "due chilometri e mezzo"
+
+msgctxt "In {distance}"
+msgid "three and a half kilometers"
+msgstr "tre chilometri e mezzo"
+
+msgctxt "In {distance}"
+msgid "four and a half kilometers"
+msgstr "quattro chilometri e mezzo"
+
+msgctxt "In {distance}"
+msgid "a quarter of a mile"
+msgstr "un quarto di miglio"
+
+msgctxt "In {distance}"
+msgid "half a mile"
+msgstr "mezzo miglio"
+
+msgctxt "In {distance}"
+msgid "three quarters of a mile"
+msgstr "tre quarti di miglio"
+
+msgctxt "In {distance}"
+msgid "one and a half miles"
+msgstr "un miglio e mezzo"
+
+msgctxt "In {distance}"
+msgid "two and a half miles"
+msgstr "due miglia e mezzo"
+
+msgctxt "In {distance}"
+msgid "three and a half miles"
+msgstr "tre miglia e mezzo"
+
+msgctxt "In {distance}"
+msgid "four and a half miles"
+msgstr "quattro miglia e mezzo"
+
+msgctxt "In {distance}"
+msgid "five and a half miles"
+msgstr "cinque miglia e mezzo"
+
+msgctxt "In {distance}"
+msgid "six and a half miles"
+msgstr "sei miglia e mezzo"
+
+msgctxt "In {distance}"
+msgid "seven and a half miles"
+msgstr "sette miglia e mezzo"
+
+msgctxt "In {distance}"
+msgid "eight and a half miles"
+msgstr "otto miglia e mezzo"
+
+msgctxt "In {distance}"
+msgid "nine and a half miles"
+msgstr "nove miglia e mezzo"
+
+msgctxt "follow for {distance}"
+msgid "one and a half kilometers"
+msgstr "un chilometro e mezzo"
+
+msgctxt "follow for {distance}"
+msgid "two and a half kilometers"
+msgstr "due chilometri e mezzo"
+
+msgctxt "follow for {distance}"
+msgid "three and a half kilometers"
+msgstr "tre chilometri e mezzo"
+
+msgctxt "follow for {distance}"
+msgid "four and a half kilometers"
+msgstr "quattro chilometri e mezzo"
+
+msgctxt "follow for {distance}"
+msgid "a quarter of a mile"
+msgstr "un quarto di miglio"
+
+msgctxt "follow for {distance}"
+msgid "half a mile"
+msgstr "mezzo miglio"
+
+msgctxt "follow for {distance}"
+msgid "three quarters of a mile"
+msgstr "tre quarti di miglio"
+
+msgctxt "follow for {distance}"
+msgid "one and a half miles"
+msgstr "un miglio e mezzo"
+
+msgctxt "follow for {distance}"
+msgid "two and a half miles"
+msgstr "due miglia e mezzo"
+
+msgctxt "follow for {distance}"
+msgid "three and a half miles"
+msgstr "tre miglia e mezzo"
+
+msgctxt "follow for {distance}"
+msgid "four and a half miles"
+msgstr "quattro miglia e mezzo"
+
+msgctxt "follow for {distance}"
+msgid "five and a half miles"
+msgstr "cinque miglia e mezzo"
+
+msgctxt "follow for {distance}"
+msgid "six and a half miles"
+msgstr "sei miglia e mezzo"
+
+msgctxt "follow for {distance}"
+msgid "seven and a half miles"
+msgstr "sette miglia e mezzo"
+
+msgctxt "follow for {distance}"
+msgid "eight and a half miles"
+msgstr "otto miglia e mezzo"
+
+msgctxt "follow for {distance}"
+msgid "nine and a half miles"
+msgstr "nove miglia e mezzo"
+
+msgctxt "In {distance}"
+msgid "one kilometer"
+msgstr "un chilometro"
+
+msgctxt "In {distance}"
+msgid "two kilometers"
+msgstr "due chilometri"
+
+msgctxt "In {distance}"
+msgid "three kilometers"
+msgstr "tre chilometri"
+
+msgctxt "In {distance}"
+msgid "one mile"
+msgstr "un miglio"
+
+msgctxt "In {distance}"
+msgid "two miles"
+msgstr "due miglia"
+
+msgctxt "In {distance}"
+msgid "three miles"
+msgstr "tre miglia"
+
+msgctxt "follow for {distance}"
+msgid "one kilometer"
+msgstr "un chilometro"
+
+msgctxt "follow for {distance}"
+msgid "two kilometers"
+msgstr "due chilometri"
+
+msgctxt "follow for {distance}"
+msgid "three kilometers"
+msgstr "tre chilometri"
+
+msgctxt "follow for {distance}"
+msgid "one mile"
+msgstr "un miglio"
+
+msgctxt "follow for {distance}"
+msgid "two miles"
+msgstr "due miglia"
+
+msgctxt "follow for {distance}"
+msgid "three miles"
+msgstr "tre miglia"
+
+msgctxt "after {distance}"
+msgid "one kilometer"
+msgstr "un chilometro"
+
+msgctxt "after {distance}"
+msgid "two kilometers"
+msgstr "due chilometri"
+
+msgctxt "after {distance}"
+msgid "three kilometers"
+msgstr "tre chilometri"
+
+msgctxt "after {distance}"
+msgid "one mile"
+msgstr "un miglio"
+
+msgctxt "after {distance}"
+msgid "two miles"
+msgstr "due miglia"
+
+msgctxt "after {distance}"
+msgid "three miles"
+msgstr "tre miglia"
+
+msgctxt "In {distance} - fractional"
+msgid "{count} kilometers"
+msgstr "{count} chilometri"
+
+msgctxt "In {distance} - fractional"
+msgid "{count} miles"
+msgstr "{count} miglia"
+
+msgctxt "follow for {distance} - fractional"
+msgid "{count} kilometers"
+msgstr "{count} chilometri"
+
+msgctxt "follow for {distance} - fractional"
+msgid "{count} miles"
+msgstr "{count} miglia"
+
+msgctxt "after {distance} - fractional"
+msgid "{count} kilometers"
+msgstr "{count} chilometri"
+
+msgctxt "after {distance} - fractional"
+msgid "{count} miles"
+msgstr "{count} miglia"
